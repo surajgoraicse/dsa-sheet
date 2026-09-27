@@ -4,6 +4,7 @@
 
 | Pattern | Core Learning Objective & Intuition | Prerequisites | Priority |
 |---|---|---|---|
+| Basic Array Operations | Master fundamental array operations like traversal, reversal, and basic checks — foundation for all other array patterns. | None | 🔥 High |
 | Frequency Counting & Hash Maps | Master hash maps/sets for O(1) existence checks, counting, and grouping — the entry point to almost every other pattern. | None | 🔥 High |
 | Prefix Sum & Difference Arrays | Precompute cumulative sums for O(1) range-sum queries; use difference arrays to apply O(1) range updates. | Frequency Counting | 🔥 High |
 | Two Sum / Complement Search | Single-pass lookups by storing "what you need to find" in a hash map instead of nested loops. | Hashing | 🔥 High |
@@ -16,6 +17,7 @@
 ---
 
 ## Table of Contents
+- [Basic Array Operations](#basic-array-operations)
 - [Frequency Counting & Hash Maps](#frequency-counting--hash-maps)
 - [Prefix Sum & Difference Arrays](#prefix-sum--difference-arrays)
 - [Two Sum / Complement Search](#two-sum--complement-search)
@@ -28,6 +30,18 @@
 
 ---
 
+## Basic Array Operations
+
+| # | Problem (linked) | Source | Status |
+|---|---|---|---|
+| 1 | [Sum of Array Elements](https://www.geeksforgeeks.org/problems/sum-all-array-elements/1) | Striver | Not Started |
+| 2 | [Count of odd numbers in Array](https://takeuforward.org/practice/dsa/count-of-odd-numbers-in-array?category=basic-arrays&source=strivers-a2z-dsa-sheet) | Striver | Not Started |
+| 3 | [Check if the Array is Sorted I](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | Striver | Not Started |
+| 4 | [Reverse an array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Striver | Not Started |
+| 5 | [Sum of Array Elements II](https://takeuforward.org/practice/dsa/sum-of-array-elements-ii?category=basic-recursion&source=strivers-a2z-dsa-sheet) | Striver | Not Started |
+| 6 | [Reverse an array 2](https://takeuforward.org/practice/dsa/reverse-an-array-ii?category=basic-recursion&source=strivers-a2z-dsa-sheet) | Striver | Not Started |
+| 7 | [Check if the Array is Sorted II](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Striver | Not Started |
+
 ## Frequency Counting & Hash Maps
 
 | # | Problem (linked) | Source | Status |
@@ -36,9 +50,14 @@
 | 2 | [Majority Element-II](https://leetcode.com/problems/majority-element-ii/) | Striver | Not Started |
 | 3 | [Longest Consecutive Sequence in an Array](https://leetcode.com/problems/longest-consecutive-sequence/) | Striver | Not Started |
 | 4 | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Striver | Not Started |
-| 5 | [Playlist](https://cses.fi/problemset/task/1141) | CSES | Not Started |
-| 6 | [Collecting Numbers](https://cses.fi/problemset/task/2216) | CSES | Not Started |
-| 7 | [Collecting Numbers II](https://cses.fi/problemset/task/2217) | CSES | Not Started |
+| 5 | [Highest Occurring Element in an Array](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Striver | Not Started |
+| 6 | [Second Highest Occurring Element](https://takeuforward.org/practice/dsa/second-highest-occurring-element?category=basic-hashing&source=strivers-a2z-dsa-sheet) | Striver | Not Started |
+| 7 | [Sum of Highest and Lowest Frequency](https://takeuforward.org/practice/dsa/sum-of-highest-and-lowest-frequency?category=basic-hashing&source=strivers-a2z-dsa-sheet) | Striver | Not Started |
+| 8 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Striver | Not Started |
+| 9 | [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Striver | Not Started |
+| 10 | [Playlist](https://cses.fi/problemset/task/1141) | CSES | Not Started |
+| 11 | [Collecting Numbers](https://cses.fi/problemset/task/2216) | CSES | Not Started |
+| 12 | [Collecting Numbers II](https://cses.fi/problemset/task/2217) | CSES | Not Started |
 
 ## Prefix Sum & Difference Arrays
 

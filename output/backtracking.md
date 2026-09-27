@@ -4,6 +4,7 @@
 
 | Pattern | Core Learning Objective & Intuition | Prerequisites | Priority |
 |---|---|---|---|
+| Basic Recursive Backtracking | Master fundamental recursive problem-solving with simple state transitions — foundation for complex backtracking. | Recursion | 🔥 High |
 | Subsets / Power Set Generation | Master the core recursive "include or exclude" branching that generates every possible subset. | Recursion | 🔥 High |
 | Permutations Generation | Build sequences by choosing an unused element at each recursive level, using a visited-tracker or swap-based in-place technique. | Recursion | 🔥 High |
 | Combinations with Pruning | Generate fixed-size selections while pruning branches early when remaining elements can't possibly complete a valid combination. | Subsets Generation | 🔥 High |
@@ -17,6 +18,7 @@
 ---
 
 ## Table of Contents
+- [Basic Recursive Backtracking](#basic-recursive-backtracking)
 - [Subsets / Power Set Generation](#subsets--power-set-generation)
 - [Permutations Generation](#permutations-generation)
 - [Combinations with Pruning](#combinations-with-pruning)
@@ -30,6 +32,13 @@
 
 ---
 
+## Basic Recursive Backtracking
+
+| # | Problem (linked) | Source | Status |
+|---|---|---|---|
+| 1 | [Tower of Hanoi](https://cses.fi/problemset/task/2165) | CSES | Not Started |
+| 2 | [Gray Code](https://cses.fi/problemset/task/2205) | CSES | Not Started |
+
 ## Subsets / Power Set Generation
 
 | # | Problem (linked) | Source | Status |
@@ -39,12 +48,15 @@
 | 3 | [Subset Sum II](https://leetcode.com/problems/subsets-ii/) | Striver | Not Started |
 | 4 | [Power Set using Bit Manipulation](https://leetcode.com/problems/subsets/) | Striver | Not Started |
 | 5 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Striver | Not Started |
+| 6 | [Apple Division](https://cses.fi/problemset/task/1623) | CSES | Not Started |
 
 ## Permutations Generation
 
 | # | Problem (linked) | Source | Status |
 |---|---|---|---|
 | 1 | [Print All Permutations of a String/Array](https://leetcode.com/problems/permutations/) | Striver | Not Started |
+| 2 | [Creating Strings](https://cses.fi/problemset/task/1622) | CSES | Not Started |
+| 3 | [Permutations](https://cses.fi/problemset/task/1070) | CSES | Not Started |
 
 ## Combinations with Pruning
 
@@ -72,6 +84,7 @@
 | 2 | [Word Search](https://leetcode.com/problems/word-search/) | Striver | Not Started |
 | 3 | [Rat in a Maze](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | Striver | Not Started |
 | 4 | [M Coloring Problem](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | Striver | Not Started |
+| 5 | [Chessboard and Queens](https://cses.fi/problemset/task/1624) | CSES | Not Started |
 
 ## Partitioning Backtracking (Palindrome/String Splits)
 

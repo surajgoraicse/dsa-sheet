@@ -37,6 +37,7 @@
 | 3 | [Balanced Parenthesis](https://leetcode.com/problems/valid-parentheses/) | Striver | Not Started |
 | 4 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Striver | Not Started |
 | 5 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Striver | Not Started |
+| 6 | [Two Stacks Sorting](https://cses.fi/problemset/task/2402) | CSES | Not Started |
 
 ## Next Greater / Next Smaller Element
 
@@ -61,6 +62,9 @@
 |---|---|---|---|
 | 1 | [Largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Striver | Not Started |
 | 2 | [Maximal rectangle](https://leetcode.com/problems/maximal-rectangle/) | Striver | Not Started |
+| 3 | [Advertisement](https://cses.fi/problemset/task/1142) | CSES | Not Started |
+| 4 | [Maximum Building I](https://cses.fi/problemset/task/1147) | CSES | Not Started |
+| 5 | [Maximum Building II](https://cses.fi/problemset/task/1148) | CSES | Not Started |
 
 ## Stack-Based Expression Evaluation
 
@@ -78,6 +82,7 @@
 |---|---|---|---|
 | 1 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Striver | Not Started |
 | 2 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Striver | Not Started |
+| 3 | [Stack Weights](https://cses.fi/problemset/task/2425) | CSES | Not Started |
 
 ## Stack + Greedy Removal (Remove K Digits style)
 

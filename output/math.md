@@ -4,6 +4,7 @@
 
 | Pattern | Core Learning Objective & Intuition | Prerequisites | Priority |
 |---|---|---|---|
+| Basic Math Operations | Master fundamental number operations like digit manipulation, basic checks, and simple calculations — foundation for advanced math patterns. | None | 🔥 High |
 | Prime Sieve (Sieve of Eratosthenes) | Precompute primality for all numbers up to N in O(N log log N). | Basic Math | 🔥 High |
 | GCD/LCM & Euclidean Algorithm | Master the recursive Euclidean algorithm for GCD, and derive LCM from it. | Basic Math | 🔥 High |
 | Modular Arithmetic (Add/Sub/Mul under Mod) | Learn how to keep intermediate results bounded under a modulus. | Basic Math | 🔥 High |
@@ -19,6 +20,7 @@
 ---
 
 ## Table of Contents
+- [Basic Math Operations](#basic-math-operations)
 - [Prime Sieve (Sieve of Eratosthenes)](#prime-sieve-sieve-of-eratosthenes)
 - [GCD/LCM & Euclidean Algorithm](#gcdlcm--euclidean-algorithm)
 - [Modular Arithmetic](#modular-arithmetic-addsubmul-under-mod)
@@ -34,21 +36,39 @@
 
 ---
 
+## Basic Math Operations
+
+| # | Problem (linked) | Source | Status |
+|---|---|---|---|
+| 1 | [Reverse a number](https://leetcode.com/problems/reverse-integer/) | Striver | Not Started |
+| 2 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Striver | Not Started |
+| 3 | [Check if the Number is Armstrong](https://leetcode.com/problems/armstrong-number/) | Striver | Not Started |
+| 4 | [Check for Perfect Number](https://leetcode.com/problems/perfect-number/) | Striver | Not Started |
+| 5 | [Sum of Digits in a Given Number](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | Striver | Not Started |
+| 6 | [Factorial of a given number](https://takeuforward.org/practice/dsa/factorial-of-a-given-number-i?category=basic-maths&source=strivers-a2z-dsa-sheet) | Striver | Not Started |
+| 7 | [Factorial of a Given Number](https://takeuforward.org/practice/dsa/factorial-of-a-given-number-ii?category=basic-recursion&source=strivers-a2z-dsa-sheet) | Striver | Not Started |
+| 8 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Striver | Not Started |
+
 ## Prime Sieve (Sieve of Eratosthenes)
 
 | # | Problem (linked) | Source | Status |
 |---|---|---|---|
-| 1 | [Print all primes till N](https://takeuforward.org/practice/dsa/print-all-primes-till-n?category=sieve-of-eratosthenes&source=strivers-a2z-dsa-sheet) | Striver | Not Started |
-| 2 | [Count primes in range L to R](https://leetcode.com/problems/count-primes/) | Striver | Not Started |
-| 3 | [Prime Multiples](https://cses.fi/problemset/task/2185) | CSES | Not Started |
-| 4 | [Next Prime](https://cses.fi/problemset/task/3396) | CSES | Not Started |
-| 5 | [Counting Coprime Pairs](https://cses.fi/problemset/task/2417) | CSES | Not Started |
+| 1 | [Check for Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Striver | Not Started |
+| 2 | [Check if a Number is Prime or Not](https://takeuforward.org/practice/dsa/check-if-a-number-is-prime-or-not?category=basic-recursion&source=strivers-a2z-dsa-sheet) | Striver | Not Started |
+| 3 | [Count of Prime Numbers till N](https://leetcode.com/problems/count-primes/) | Striver | Not Started |
+| 4 | [Print all primes till N](https://takeuforward.org/practice/dsa/print-all-primes-till-n?category=sieve-of-eratosthenes&source=strivers-a2z-dsa-sheet) | Striver | Not Started |
+| 5 | [Count primes in range L to R](https://leetcode.com/problems/count-primes/) | Striver | Not Started |
+| 6 | [Prime Multiples](https://cses.fi/problemset/task/2185) | CSES | Not Started |
+| 7 | [Next Prime](https://cses.fi/problemset/task/3396) | CSES | Not Started |
+| 8 | [Counting Coprime Pairs](https://cses.fi/problemset/task/2417) | CSES | Not Started |
 
 ## GCD/LCM & Euclidean Algorithm
 
 | # | Problem (linked) | Source | Status |
 |---|---|---|---|
-| 1 | [Common Divisors](https://cses.fi/problemset/task/1081) | CSES | Not Started |
+| 1 | [GCD of Two Numbers](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Striver | Not Started |
+| 2 | [LCM of two numbers](https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1) | Striver | Not Started |
+| 3 | [Common Divisors](https://cses.fi/problemset/task/1081) | CSES | Not Started |
 
 ## Modular Arithmetic (Add/Sub/Mul under Mod)
 
@@ -92,9 +112,10 @@
 
 | # | Problem (linked) | Source | Status |
 |---|---|---|---|
-| 1 | [Counting Divisors](https://cses.fi/problemset/task/1713) | CSES | Not Started |
-| 2 | [Sum of Divisors](https://cses.fi/problemset/task/1082) | CSES | Not Started |
-| 3 | [Divisor Analysis](https://cses.fi/problemset/task/2182) | CSES | Not Started |
+| 1 | [Divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | Striver | Not Started |
+| 2 | [Counting Divisors](https://cses.fi/problemset/task/1713) | CSES | Not Started |
+| 3 | [Sum of Divisors](https://cses.fi/problemset/task/1082) | CSES | Not Started |
+| 4 | [Divisor Analysis](https://cses.fi/problemset/task/2182) | CSES | Not Started |
 
 ## Matrix Exponentiation (Linear Recurrence Acceleration)
 

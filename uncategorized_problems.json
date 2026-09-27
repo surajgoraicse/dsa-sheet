@@ -1,0 +1,978 @@
+{
+  "Basic Math & Numbers": [
+    {
+      "title": "Pattern 1",
+      "url": "https://takeuforward.org/practice/dsa/pattern-1?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 2",
+      "url": "https://takeuforward.org/practice/dsa/pattern-2?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 3",
+      "url": "https://takeuforward.org/practice/dsa/pattern-3?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 4",
+      "url": "https://takeuforward.org/practice/dsa/pattern-4?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 5",
+      "url": "https://takeuforward.org/practice/dsa/pattern-5?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 6",
+      "url": "https://takeuforward.org/practice/dsa/pattern-6?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 7",
+      "url": "https://takeuforward.org/practice/dsa/pattern-7?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 8",
+      "url": "https://takeuforward.org/practice/dsa/pattern-8?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 9",
+      "url": "https://takeuforward.org/practice/dsa/pattern-9?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 10",
+      "url": "https://takeuforward.org/practice/dsa/pattern-10?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 11",
+      "url": "https://takeuforward.org/practice/dsa/pattern-11?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 12",
+      "url": "https://takeuforward.org/practice/dsa/pattern-12?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 13",
+      "url": "https://takeuforward.org/practice/dsa/pattern-13?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 14",
+      "url": "https://takeuforward.org/practice/dsa/pattern-14?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 15",
+      "url": "https://takeuforward.org/practice/dsa/pattern-15?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 16",
+      "url": "https://takeuforward.org/practice/dsa/pattern-16?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 17",
+      "url": "https://takeuforward.org/practice/dsa/pattern-17?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 18",
+      "url": "https://takeuforward.org/practice/dsa/pattern-18?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 19",
+      "url": "https://takeuforward.org/practice/dsa/pattern-19?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 20",
+      "url": "https://takeuforward.org/practice/dsa/pattern-20?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 21",
+      "url": "https://takeuforward.org/practice/dsa/pattern-21?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Pattern 22",
+      "url": "https://takeuforward.org/practice/dsa/pattern-22?category=patterns&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Count all Digits of a Number",
+      "url": "https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Count number of odd digits in a number",
+      "url": "https://takeuforward.org/practice/dsa/count-number-of-odd-digits-in-a-number?category=basic-maths&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    },
+    {
+      "title": "Return the Largest Digit in a Number",
+      "url": "https://takeuforward.org/practice/dsa/return-the-largest-digit-in-a-number?category=basic-maths&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    }
+  ],
+  "Basic Array Operations": [
+    {
+      "title": "Sum of First N Numbers",
+      "url": "https://www.geeksforgeeks.org/problems/recursively-sum-n-numbers/1",
+      "source": "Striver",
+      "original_file": "beginner-problems.json"
+    }
+  ],
+  "Sorting Algorithms": [
+    {
+      "title": "Selection Sort",
+      "url": "https://www.geeksforgeeks.org/problems/selection-sort/1",
+      "source": "Striver",
+      "original_file": "sorting.json"
+    },
+    {
+      "title": "Bubble Sort",
+      "url": "https://www.geeksforgeeks.org/problems/bubble-sort/1",
+      "source": "Striver",
+      "original_file": "sorting.json"
+    },
+    {
+      "title": "Insertion Sorting",
+      "url": "https://www.geeksforgeeks.org/problems/insertion-sort/1",
+      "source": "Striver",
+      "original_file": "sorting.json"
+    },
+    {
+      "title": "Merge Sorting",
+      "url": "https://www.geeksforgeeks.org/problems/merge-sort/1",
+      "source": "Striver",
+      "original_file": "sorting.json"
+    },
+    {
+      "title": "Quick Sorting",
+      "url": "https://www.geeksforgeeks.org/problems/quick-sort/1",
+      "source": "Striver",
+      "original_file": "sorting.json"
+    },
+    {
+      "title": "Recursive Bubble Sort",
+      "url": "https://takeuforward.org/practice/dsa/recursive-bubble-sort?category=algorithms&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "sorting.json"
+    },
+    {
+      "title": "Recursive Insertion Sort",
+      "url": "https://takeuforward.org/practice/dsa/recursive-insertion-sort?category=algorithms&source=strivers-a2z-dsa-sheet",
+      "source": "Striver",
+      "original_file": "sorting.json"
+    }
+  ],
+  "Introductory Problem Solving": [
+    {
+      "title": "Weird Algorithm",
+      "url": "https://cses.fi/problemset/task/1068",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Missing Number",
+      "url": "https://cses.fi/problemset/task/1083",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Repetitions",
+      "url": "https://cses.fi/problemset/task/1069",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Increasing Array",
+      "url": "https://cses.fi/problemset/task/1094",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Number Spiral",
+      "url": "https://cses.fi/problemset/task/1071",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Two Knights",
+      "url": "https://cses.fi/problemset/task/1072",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Two Sets",
+      "url": "https://cses.fi/problemset/task/1092",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Bit Strings",
+      "url": "https://cses.fi/problemset/task/1617",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Trailing Zeros",
+      "url": "https://cses.fi/problemset/task/1618",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Coin Piles",
+      "url": "https://cses.fi/problemset/task/1754",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Raab Game I",
+      "url": "https://cses.fi/problemset/task/3399",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Mex Grid Construction",
+      "url": "https://cses.fi/problemset/task/3419",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Knight Moves Grid",
+      "url": "https://cses.fi/problemset/task/3217",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Grid Coloring I",
+      "url": "https://cses.fi/problemset/task/3311",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Digit Queries",
+      "url": "https://cses.fi/problemset/task/2431",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    },
+    {
+      "title": "Grid Path Description",
+      "url": "https://cses.fi/problemset/task/1625",
+      "source": "CSES",
+      "original_file": "introductory_problems_cses.json"
+    }
+  ],
+  "Computational Geometry": [
+    {
+      "title": "Point Location Test",
+      "url": "https://cses.fi/problemset/task/2189",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Line Segment Intersection",
+      "url": "https://cses.fi/problemset/task/2190",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Polygon Area",
+      "url": "https://cses.fi/problemset/task/2191",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Point in Polygon",
+      "url": "https://cses.fi/problemset/task/2192",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Polygon Lattice Points",
+      "url": "https://cses.fi/problemset/task/2193",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Minimum Euclidean Distance",
+      "url": "https://cses.fi/problemset/task/2194",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Convex Hull",
+      "url": "https://cses.fi/problemset/task/2195",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Maximum Manhattan Distances",
+      "url": "https://cses.fi/problemset/task/3410",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "All Manhattan Distances",
+      "url": "https://cses.fi/problemset/task/3411",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Intersection Points",
+      "url": "https://cses.fi/problemset/task/1740",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Line Segments Trace I",
+      "url": "https://cses.fi/problemset/task/3427",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Line Segments Trace II",
+      "url": "https://cses.fi/problemset/task/3428",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Lines and Queries I",
+      "url": "https://cses.fi/problemset/task/3429",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Lines and Queries II",
+      "url": "https://cses.fi/problemset/task/3430",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Area of Rectangles",
+      "url": "https://cses.fi/problemset/task/1741",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    },
+    {
+      "title": "Robot Path",
+      "url": "https://cses.fi/problemset/task/1742",
+      "source": "CSES",
+      "original_file": "geometry_cses.json"
+    }
+  ],
+  "Constructive Algorithms": [
+    {
+      "title": "Inverse Inversions",
+      "url": "https://cses.fi/problemset/task/2214",
+      "source": "CSES",
+      "original_file": "construction_problems_cses.json"
+    },
+    {
+      "title": "Monotone Subsequences",
+      "url": "https://cses.fi/problemset/task/2215",
+      "source": "CSES",
+      "original_file": "construction_problems_cses.json"
+    },
+    {
+      "title": "Third Permutation",
+      "url": "https://cses.fi/problemset/task/3422",
+      "source": "CSES",
+      "original_file": "construction_problems_cses.json"
+    },
+    {
+      "title": "Permutation Prime Sums",
+      "url": "https://cses.fi/problemset/task/3423",
+      "source": "CSES",
+      "original_file": "construction_problems_cses.json"
+    },
+    {
+      "title": "Chess Tournament",
+      "url": "https://cses.fi/problemset/task/1697",
+      "source": "CSES",
+      "original_file": "construction_problems_cses.json"
+    },
+    {
+      "title": "Distinct Sums Grid",
+      "url": "https://cses.fi/problemset/task/3424",
+      "source": "CSES",
+      "original_file": "construction_problems_cses.json"
+    },
+    {
+      "title": "Filling Trominos",
+      "url": "https://cses.fi/problemset/task/2423",
+      "source": "CSES",
+      "original_file": "construction_problems_cses.json"
+    },
+    {
+      "title": "Grid Path Construction",
+      "url": "https://cses.fi/problemset/task/2418",
+      "source": "CSES",
+      "original_file": "construction_problems_cses.json"
+    }
+  ],
+  "Interactive Protocols": [
+    {
+      "title": "Hidden Integer",
+      "url": "https://cses.fi/problemset/task/3112",
+      "source": "CSES",
+      "original_file": "interactive_problems_cses.json"
+    },
+    {
+      "title": "Hidden Permutation",
+      "url": "https://cses.fi/problemset/task/3139",
+      "source": "CSES",
+      "original_file": "interactive_problems_cses.json"
+    },
+    {
+      "title": "K-th Highest Score",
+      "url": "https://cses.fi/problemset/task/3305",
+      "source": "CSES",
+      "original_file": "interactive_problems_cses.json"
+    },
+    {
+      "title": "Permuted Binary Strings",
+      "url": "https://cses.fi/problemset/task/3228",
+      "source": "CSES",
+      "original_file": "interactive_problems_cses.json"
+    },
+    {
+      "title": "Colored Chairs",
+      "url": "https://cses.fi/problemset/task/3273",
+      "source": "CSES",
+      "original_file": "interactive_problems_cses.json"
+    },
+    {
+      "title": "Inversion Sorting",
+      "url": "https://cses.fi/problemset/task/3140",
+      "source": "CSES",
+      "original_file": "interactive_problems_cses.json"
+    }
+  ],
+  "Advanced Graph Techniques": [
+    {
+      "title": "Reachable Nodes",
+      "url": "https://cses.fi/problemset/task/2138",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Reachability Queries",
+      "url": "https://cses.fi/problemset/task/2143",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Eulerian Subgraphs",
+      "url": "https://cses.fi/problemset/task/2078",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    }
+  ],
+  "Advanced Math & DP Optimization": [
+    {
+      "title": "Meet in the Middle",
+      "url": "https://cses.fi/problemset/task/1628",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Hamming Distance",
+      "url": "https://cses.fi/problemset/task/2136",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Corner Subgrid Check",
+      "url": "https://cses.fi/problemset/task/3360",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Corner Subgrid Count",
+      "url": "https://cses.fi/problemset/task/2137",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Cut and Paste",
+      "url": "https://cses.fi/problemset/task/2072",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Substring Reversals",
+      "url": "https://cses.fi/problemset/task/2073",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Reversals and Sums",
+      "url": "https://cses.fi/problemset/task/2074",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Necessary Roads",
+      "url": "https://cses.fi/problemset/task/2076",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Necessary Cities",
+      "url": "https://cses.fi/problemset/task/2077",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Monster Game I",
+      "url": "https://cses.fi/problemset/task/2084",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Monster Game II",
+      "url": "https://cses.fi/problemset/task/2085",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Subarray Squares",
+      "url": "https://cses.fi/problemset/task/2086",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Houses and Schools",
+      "url": "https://cses.fi/problemset/task/2087",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Knuth Division",
+      "url": "https://cses.fi/problemset/task/2088",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Apples and Bananas",
+      "url": "https://cses.fi/problemset/task/2111",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "One Bit Positions",
+      "url": "https://cses.fi/problemset/task/2112",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Signal Processing",
+      "url": "https://cses.fi/problemset/task/2113",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "New Roads Queries",
+      "url": "https://cses.fi/problemset/task/2101",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Dynamic Connectivity",
+      "url": "https://cses.fi/problemset/task/2133",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Parcel Delivery",
+      "url": "https://cses.fi/problemset/task/2121",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Task Assignment",
+      "url": "https://cses.fi/problemset/task/2129",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    },
+    {
+      "title": "Distinct Routes II",
+      "url": "https://cses.fi/problemset/task/2130",
+      "source": "CSES",
+      "original_file": "advanced_techniques_cses.json"
+    }
+  ],
+  "Additional Mixed Challenges (I)": [
+    {
+      "title": "Shortest Subsequence",
+      "url": "https://cses.fi/problemset/task/1087",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Distinct Values Sum",
+      "url": "https://cses.fi/problemset/task/3150",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Distinct Values Splits",
+      "url": "https://cses.fi/problemset/task/3190",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Swap Game",
+      "url": "https://cses.fi/problemset/task/1670",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Beautiful Permutation II",
+      "url": "https://cses.fi/problemset/task/3175",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Multiplication Table",
+      "url": "https://cses.fi/problemset/task/2422",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Bubble Sort Rounds I",
+      "url": "https://cses.fi/problemset/task/3151",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Bubble Sort Rounds II",
+      "url": "https://cses.fi/problemset/task/3152",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Nearest Campsites I",
+      "url": "https://cses.fi/problemset/task/3306",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Nearest Campsites II",
+      "url": "https://cses.fi/problemset/task/3307",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Special Substrings",
+      "url": "https://cses.fi/problemset/task/2186",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Counting LCM Arrays",
+      "url": "https://cses.fi/problemset/task/3169",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Square Subsets",
+      "url": "https://cses.fi/problemset/task/3193",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Subarray Sum Constraints",
+      "url": "https://cses.fi/problemset/task/3294",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Water Containers Moves",
+      "url": "https://cses.fi/problemset/task/3213",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Water Containers Queries",
+      "url": "https://cses.fi/problemset/task/3214",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Maximum Average Subarrays",
+      "url": "https://cses.fi/problemset/task/3301",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Subsets with Fixed Average",
+      "url": "https://cses.fi/problemset/task/3302",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Two Array Average",
+      "url": "https://cses.fi/problemset/task/3361",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Pyramid Array",
+      "url": "https://cses.fi/problemset/task/1747",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Permutation Subsequence",
+      "url": "https://cses.fi/problemset/task/3404",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Bit Inversions",
+      "url": "https://cses.fi/problemset/task/1188",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Writing Numbers",
+      "url": "https://cses.fi/problemset/task/1086",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Letter Pair Move Game",
+      "url": "https://cses.fi/problemset/task/2427",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Sorting Methods",
+      "url": "https://cses.fi/problemset/task/1162",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "Cyclic Array",
+      "url": "https://cses.fi/problemset/task/1191",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    },
+    {
+      "title": "List of Sums",
+      "url": "https://cses.fi/problemset/task/2414",
+      "source": "CSES",
+      "original_file": "additional_problems_i_cses.json"
+    }
+  ],
+  "Additional Mixed Challenges (II)": [
+    {
+      "title": "Bouncing Ball Steps",
+      "url": "https://cses.fi/problemset/task/3215",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Bouncing Ball Cycle",
+      "url": "https://cses.fi/problemset/task/3216",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Knight Moves Queries",
+      "url": "https://cses.fi/problemset/task/3218",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "K Subset Sums I",
+      "url": "https://cses.fi/problemset/task/3108",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "K Subset Sums II",
+      "url": "https://cses.fi/problemset/task/3109",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Increasing Array II",
+      "url": "https://cses.fi/problemset/task/2132",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Food Division",
+      "url": "https://cses.fi/problemset/task/1189",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Swap Round Sorting",
+      "url": "https://cses.fi/problemset/task/1698",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Binary Subsequences",
+      "url": "https://cses.fi/problemset/task/2430",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "School Excursion",
+      "url": "https://cses.fi/problemset/task/1706",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Coin Grid",
+      "url": "https://cses.fi/problemset/task/1709",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Grid Coloring II",
+      "url": "https://cses.fi/problemset/task/3312",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Programmers and Artists",
+      "url": "https://cses.fi/problemset/task/2426",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Removing Digits II",
+      "url": "https://cses.fi/problemset/task/2174",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Coin Arrangement",
+      "url": "https://cses.fi/problemset/task/2180",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Replace with Difference",
+      "url": "https://cses.fi/problemset/task/3159",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Grid Puzzle I",
+      "url": "https://cses.fi/problemset/task/2432",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Grid Puzzle II",
+      "url": "https://cses.fi/problemset/task/2131",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Bit Substrings",
+      "url": "https://cses.fi/problemset/task/2115",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Reversal Sorting",
+      "url": "https://cses.fi/problemset/task/2075",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Book Shop II",
+      "url": "https://cses.fi/problemset/task/1159",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "GCD Subsets",
+      "url": "https://cses.fi/problemset/task/3161",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Minimum Cost Pairs",
+      "url": "https://cses.fi/problemset/task/3402",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Same Sum Subsets",
+      "url": "https://cses.fi/problemset/task/3425",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Mex Grid Queries",
+      "url": "https://cses.fi/problemset/task/1157",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Stick Divisions",
+      "url": "https://cses.fi/problemset/task/1161",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Stick Difference",
+      "url": "https://cses.fi/problemset/task/3401",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    },
+    {
+      "title": "Coding Company",
+      "url": "https://cses.fi/problemset/task/1665",
+      "source": "CSES",
+      "original_file": "additional_problems_ii_cses.json"
+    }
+  ]
+}

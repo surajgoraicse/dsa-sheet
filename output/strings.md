@@ -4,6 +4,7 @@
 
 | Pattern | Core Learning Objective & Intuition | Prerequisites | Priority |
 |---|---|---|---|
+| Basic String Operations | Master fundamental string operations like traversal, reversal, and basic checks — foundation for advanced string patterns. | None | 🔥 High |
 | String Hashing (Polynomial Rolling Hash) | Compute a fixed-size hash for any substring in O(1) after O(n) preprocessing. | Modular Arithmetic | 🔥 High |
 | KMP Algorithm (Knuth-Morris-Pratt) | Precompute a "failure function" so pattern matching never re-examines matched characters. | Basic String Traversal | 🔥 High |
 | Z-Function | Compute, for every position, the length of the longest substring starting there that matches the string's prefix. | Basic String Traversal | 🔥 High |
@@ -19,6 +20,7 @@
 ---
 
 ## Table of Contents
+- [Basic String Operations](#basic-string-operations)
 - [String Hashing](#string-hashing-polynomial-rolling-hash)
 - [KMP Algorithm](#kmp-algorithm-knuth-morris-pratt)
 - [Z-Function](#z-function)
@@ -29,6 +31,19 @@
 - [Uncategorized / Needs Review](#uncategorized--needs-review)
 
 ---
+
+## Basic String Operations
+
+| # | Problem (linked) | Source | Status |
+|---|---|---|---|
+| 1 | [Reverse a String I](https://leetcode.com/problems/reverse-string/) | Striver | Not Started |
+| 2 | [Reverse a String II](https://leetcode.com/problems/reverse-string/) | Striver | Not Started |
+| 3 | [Check if String is Palindrome or Not](https://leetcode.com/problems/valid-palindrome/) | Striver | Not Started |
+| 4 | [Palindrome Check](https://leetcode.com/problems/valid-palindrome/) | Striver | Not Started |
+| 5 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Striver | Not Started |
+| 6 | [Largest Odd Number in a String](https://leetcode.com/problems/largest-odd-number-in-string/) | Striver | Not Started |
+| 7 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Striver | Not Started |
+| 8 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Striver | Not Started |
 
 ## String Hashing (Polynomial Rolling Hash)
 
@@ -81,6 +96,8 @@
 | 6 | [Minimum number of bracket reversals to make an expression balanced](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Striver | Not Started |
 | 7 | [Count and say](https://leetcode.com/problems/count-and-say/) | Striver | Not Started |
 | 8 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | Striver | Not Started |
+| 9 | [Palindrome Reorder](https://cses.fi/problemset/task/1755) | CSES | Not Started |
+| 10 | [String Reorder](https://cses.fi/problemset/task/1743) | CSES | Not Started |
 
 ## Uncategorized / Needs Review
 
