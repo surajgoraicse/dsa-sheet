@@ -1,0 +1,438 @@
+{
+  "topic": "Heaps",
+  "slug": "heaps",
+  "step": 15,
+  "problemCount": 18,
+  "problems": [
+    {
+      "id": "a2z-573",
+      "order": 319,
+      "title": "Heapify Algorithm",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "Theory and Implementation",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/heapify-algorithm?category=theory-and-implementation&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "23 min",
+      "slug": "heapify-algorithm",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-570",
+      "order": 320,
+      "title": "Build heap from a given Array",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "Theory and Implementation",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/heapify-the-vector--102013/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/build-heap-from-a-given-array?category=theory-and-implementation&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "15 min",
+      "slug": "build-heap-from-a-given-array",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-576",
+      "order": 321,
+      "title": "Implement Min Heap",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "Theory and Implementation",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/min-heap-implementation/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/implement-min-heap?category=theory-and-implementation&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "12 min",
+      "slug": "implement-min-heap",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-575",
+      "order": 322,
+      "title": "Implement Max Heap",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "Theory and Implementation",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/max-heap-implementation/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/implement-max-heap?category=theory-and-implementation&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "20 min",
+      "slug": "implement-max-heap",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-571",
+      "order": 323,
+      "title": "Check if an array represents a min heap",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "Theory and Implementation",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/check-if-an-array-represents-a-min-heap-?category=theory-and-implementation&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "7 min",
+      "slug": "check-if-an-array-represents-a-min-heap-",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-572",
+      "order": 324,
+      "title": "Convert Min Heap to Max Heap",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "Theory and Implementation",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/convert-min-heap-to-max-heap?category=theory-and-implementation&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "4 min",
+      "slug": "convert-min-heap-to-max-heap",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-574",
+      "order": 325,
+      "title": "Heap Sort",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "Theory and Implementation",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/heap-sort/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/heap-sort?category=theory-and-implementation&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "30 min",
+      "slug": "heap-sort",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-578",
+      "order": 326,
+      "title": "K-th Largest element in an array",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "Theory and Implementation",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/k-th-largest-element-in-an-array?category=theory-and-implementation&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "44 min",
+      "slug": "k-th-largest-element-in-an-array",
+      "lcSlug": "kth-largest-element-in-an-array"
+    },
+    {
+      "id": "a2z-567",
+      "order": 327,
+      "title": "Kth largest element in a stream of running integers",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/kth-largest-element-in-a-stream-of-running-integers?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "16 min",
+      "slug": "kth-largest-element-in-a-stream-of-running-integers",
+      "lcSlug": "kth-largest-element-in-a-stream"
+    },
+    {
+      "id": "a2z-569",
+      "order": 328,
+      "title": "Merge K sorted Lists",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/merge-k-sorted-lists?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-k-sorted-linked-lists",
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "merge-k-sorted-lists",
+      "lcSlug": "merge-k-sorted-lists"
+    },
+    {
+      "id": "a2z-898",
+      "order": 329,
+      "title": "Replace Elements by Their Rank",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/rank-transform-of-an-array/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/replace-elements-by-their-rank?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "replace-elements-by-their-rank",
+      "lcSlug": "rank-transform-of-an-array"
+    },
+    {
+      "id": "a2z-1008",
+      "order": 330,
+      "title": "Task Scheduler",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/task-scheduler/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/task-scheduler?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/task-scheduler",
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "task-scheduler",
+      "lcSlug": "task-scheduler"
+    },
+    {
+      "id": "a2z-556",
+      "order": 331,
+      "title": "Hand of Straights",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/hand-of-straights/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/hand-of-straights?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "hand-of-straights",
+      "lcSlug": "hand-of-straights"
+    },
+    {
+      "id": "a2z-565",
+      "order": 332,
+      "title": "Design Twitter",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/design-twitter/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/design-twitter?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "design-twitter",
+      "lcSlug": "design-twitter"
+    },
+    {
+      "id": "a2z-755",
+      "order": 333,
+      "title": "Minimum Cost to Connect Sticks",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/minimum-cost-to-connect-sticks/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/minimum-cost-to-connect-sticks?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": true,
+      "duration": "",
+      "slug": "minimum-cost-to-connect-sticks",
+      "lcSlug": "minimum-cost-to-connect-sticks"
+    },
+    {
+      "id": "a2z-568",
+      "order": 334,
+      "title": "Maximum Sum Combination",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/maximum-sum-combination?category=faqs&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "maximum-sum-combination",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-566",
+      "order": 335,
+      "title": "Find Median from Data Stream",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/find-median-from-data-stream?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-median-data-stream",
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "find-median-from-data-stream",
+      "lcSlug": "find-median-from-data-stream"
+    },
+    {
+      "id": "a2z-1018",
+      "order": 336,
+      "title": "Top K Frequent Elements",
+      "step": 15,
+      "stepTitle": "Heaps",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/top-k-frequent-elements?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "top-k-frequent-elements",
+      "lcSlug": "top-k-frequent-elements"
+    }
+  ]
+}

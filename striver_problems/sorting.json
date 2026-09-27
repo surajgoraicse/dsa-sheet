@@ -1,0 +1,173 @@
+{
+  "topic": "Sorting",
+  "slug": "sorting",
+  "step": 2,
+  "problemCount": 7,
+  "problems": [
+    {
+      "id": "a2z-947",
+      "order": 61,
+      "title": "Selection Sort",
+      "step": 2,
+      "stepTitle": "Sorting",
+      "topic": "Algorithms",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/selection-sort/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/selection-sort?category=algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/selection-sort-algorithm",
+      "video": "https://youtu.be/HGk_ypEuS24?t=167",
+      "premium": false,
+      "duration": "15 min",
+      "slug": "selection-sort",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-943",
+      "order": 62,
+      "title": "Bubble Sort",
+      "step": 2,
+      "stepTitle": "Sorting",
+      "topic": "Algorithms",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/bubble-sort/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/bubble-sort?category=algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bubble-sort-algorithm",
+      "video": "https://youtu.be/HGk_ypEuS24?t=1061",
+      "premium": false,
+      "duration": "14 min",
+      "slug": "bubble-sort",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-944",
+      "order": 63,
+      "title": "Insertion Sorting",
+      "step": 2,
+      "stepTitle": "Sorting",
+      "topic": "Algorithms",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/insertion-sort/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/insertion-sorting?category=algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insertion-sort-algorithm",
+      "video": "https://youtu.be/HGk_ypEuS24?t=1900",
+      "premium": false,
+      "duration": "11 min",
+      "slug": "insertion-sorting",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-945",
+      "order": 64,
+      "title": "Merge Sorting",
+      "step": 2,
+      "stepTitle": "Sorting",
+      "topic": "Algorithms",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/merge-sort/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/merge-sorting?category=algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-sort-algorithm",
+      "video": "https://youtu.be/ogjf7ORKfd8",
+      "premium": false,
+      "duration": "47 min",
+      "slug": "merge-sorting",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-946",
+      "order": 65,
+      "title": "Quick Sorting",
+      "step": 2,
+      "stepTitle": "Sorting",
+      "topic": "Algorithms",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/quick-sort/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/quick-sorting?category=algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/quick-sort-algorithm",
+      "video": "https://youtu.be/WIrA4YexLRQ",
+      "premium": false,
+      "duration": "33 min",
+      "slug": "quick-sorting",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-881",
+      "order": 66,
+      "title": "Recursive Bubble Sort",
+      "step": 2,
+      "stepTitle": "Sorting",
+      "topic": "Algorithms",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/recursive-bubble-sort?category=algorithms&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "recursive-bubble-sort",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-882",
+      "order": 67,
+      "title": "Recursive Insertion Sort",
+      "step": 2,
+      "stepTitle": "Sorting",
+      "topic": "Algorithms",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/recursive-insertion-sort?category=algorithms&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "recursive-insertion-sort",
+      "lcSlug": ""
+    }
+  ]
+}

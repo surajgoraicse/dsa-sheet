@@ -1,0 +1,1106 @@
+{
+  "topic": "Graphs",
+  "slug": "graphs",
+  "step": 16,
+  "problemCount": 44,
+  "problems": [
+    {
+      "id": "a2z-529",
+      "order": 337,
+      "title": "Traversal Techniques",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Theory and traversals",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/traversal-techniques?category=theory-and-traversals&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/Qzf1a--rhp8",
+      "premium": false,
+      "duration": "39 min",
+      "slug": "traversal-techniques",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-528",
+      "order": 338,
+      "title": "Connected Components",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Theory and traversals",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
+      "altUrls": [
+        {
+          "platform": "gfg",
+          "url": "https://www.geeksforgeeks.org/problems/number-of-provinces/1"
+        },
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/connected-components?category=theory-and-traversals&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": true,
+      "duration": "7 min",
+      "slug": "connected-components",
+      "lcSlug": "number-of-connected-components-in-an-undirected-graph"
+    },
+    {
+      "id": "a2z-535",
+      "order": 339,
+      "title": "Number of provinces",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Traversal Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/number-of-provinces/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/number-of-provinces?category=traversal-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-provinces",
+      "video": "https://youtu.be/ACzkVtewUYA",
+      "premium": false,
+      "duration": "15 min",
+      "slug": "number-of-provinces",
+      "lcSlug": "number-of-provinces"
+    },
+    {
+      "id": "a2z-534",
+      "order": 340,
+      "title": "Number of islands",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Traversal Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/number-of-islands/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/number-of-islands?category=traversal-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=muncqlKJrH0&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=8",
+      "premium": false,
+      "duration": "24 min",
+      "slug": "number-of-islands",
+      "lcSlug": "number-of-islands"
+    },
+    {
+      "id": "a2z-531",
+      "order": 341,
+      "title": "Flood fill algorithm",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Traversal Problems",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/flood-fill/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/flood-fill-algorithm?category=traversal-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "20 min",
+      "slug": "flood-fill-algorithm",
+      "lcSlug": "flood-fill"
+    },
+    {
+      "id": "a2z-533",
+      "order": 342,
+      "title": "Number of enclaves",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Traversal Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/number-of-enclaves/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/number-of-enclaves?category=traversal-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-enclaves",
+      "video": "https://youtu.be/rxKcepXQgU4",
+      "premium": false,
+      "duration": "15 min",
+      "slug": "number-of-enclaves",
+      "lcSlug": "number-of-enclaves"
+    },
+    {
+      "id": "a2z-536",
+      "order": 343,
+      "title": "Rotten Oranges",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Traversal Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/rotting-oranges/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/rotten-oranges?category=traversal-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotting-oranges",
+      "video": "https://www.youtube.com/watch?v=yf3oUhkvqA0",
+      "premium": false,
+      "duration": "22 min",
+      "slug": "rotten-oranges",
+      "lcSlug": "rotting-oranges"
+    },
+    {
+      "id": "a2z-530",
+      "order": 344,
+      "title": "Distance of nearest cell having one",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Traversal Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/01-matrix/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/distance-of-nearest-cell-having-one?category=traversal-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/distance-of-the-nearest-cell-having-1-in-a-binary-matrix",
+      "video": "https://youtu.be/edXdVwkYHF8",
+      "premium": false,
+      "duration": "20 min",
+      "slug": "distance-of-nearest-cell-having-one",
+      "lcSlug": "01-matrix"
+    },
+    {
+      "id": "a2z-537",
+      "order": 345,
+      "title": "Surrounded Regions",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Traversal Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/surrounded-regions/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/surrounded-regions?category=traversal-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/surrounded-regions",
+      "video": "https://youtu.be/BtdgAys4yMk",
+      "premium": false,
+      "duration": "23 min",
+      "slug": "surrounded-regions",
+      "lcSlug": "surrounded-regions"
+    },
+    {
+      "id": "a2z-532",
+      "order": 346,
+      "title": "Number of distinct islands",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Traversal Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/number-of-distinct-islands/",
+      "altUrls": [
+        {
+          "platform": "gfg",
+          "url": "https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1"
+        },
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/number-of-distinct-islands?category=traversal-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": true,
+      "duration": "18 min",
+      "slug": "number-of-distinct-islands",
+      "lcSlug": "number-of-distinct-islands"
+    },
+    {
+      "id": "a2z-501",
+      "order": 347,
+      "title": "Detect a cycle in an undirected graph",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Cycles",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/course-schedule/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/detect-a-cycle-in-an-undirected-graph?category=cycles&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/zQ3zgFypzX4",
+      "premium": false,
+      "duration": "38 min",
+      "slug": "detect-a-cycle-in-an-undirected-graph",
+      "lcSlug": "course-schedule"
+    },
+    {
+      "id": "a2z-499",
+      "order": 348,
+      "title": "Bipartite graph",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Cycles",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/is-graph-bipartite/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/bipartite-graph?category=cycles&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/KG5YFfR0j8A",
+      "premium": false,
+      "duration": "32 min",
+      "slug": "bipartite-graph",
+      "lcSlug": "is-graph-bipartite"
+    },
+    {
+      "id": "a2z-502",
+      "order": 349,
+      "title": "Topological sort or Kahn's algorithm",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Cycles",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/topological-sort/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/topological-sort-or-kahns-algorithm?category=cycles&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/5lZ0iJMrUMk",
+      "premium": false,
+      "duration": "26 min",
+      "slug": "topological-sort-or-kahns-algorithm",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-500",
+      "order": 350,
+      "title": "Detect a cycle in a directed graph",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Cycles",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/course-schedule/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/detect-a-cycle-in-a-directed-graph?category=cycles&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=uzVUw90ZFIg&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=12",
+      "premium": false,
+      "duration": "23 min",
+      "slug": "detect-a-cycle-in-a-directed-graph",
+      "lcSlug": "course-schedule"
+    },
+    {
+      "id": "a2z-506",
+      "order": 351,
+      "title": "Find eventual safe states",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/find-eventual-safe-states/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/find-eventual-safe-states?category=hard-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/2gtg3VsDGyc",
+      "premium": false,
+      "duration": "39 min",
+      "slug": "find-eventual-safe-states",
+      "lcSlug": "find-eventual-safe-states"
+    },
+    {
+      "id": "a2z-504",
+      "order": 352,
+      "title": "Course Schedule I",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/course-schedule/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/course-schedule-i?category=hard-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/WAOfKpxYHR8",
+      "premium": false,
+      "duration": "11 min",
+      "slug": "course-schedule-i",
+      "lcSlug": "course-schedule"
+    },
+    {
+      "id": "a2z-505",
+      "order": 353,
+      "title": "Course Schedule II",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/course-schedule-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/course-schedule-ii?category=hard-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/WAOfKpxYHR8",
+      "premium": false,
+      "duration": "11 min",
+      "slug": "course-schedule-ii",
+      "lcSlug": "course-schedule-ii"
+    },
+    {
+      "id": "a2z-503",
+      "order": 354,
+      "title": "Alien Dictionary",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/alien-dictionary/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/alient-dictionary?category=hard-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/alien-dictionary",
+      "video": "https://youtu.be/U3N_je7tWAs",
+      "premium": true,
+      "duration": "20 min",
+      "slug": "alient-dictionary",
+      "lcSlug": "alien-dictionary"
+    },
+    {
+      "id": "a2z-507",
+      "order": 355,
+      "title": "Shortest path in DAG",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/shortest-path-in-directed-acyclic-graph/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/shortest-path-in-dag?category=hard-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-path-in-a-directed-acyclic-graph-dag",
+      "video": "https://www.youtube.com/watch?v=ZUFQfFaU-8U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=27",
+      "premium": false,
+      "duration": "26 min",
+      "slug": "shortest-path-in-dag",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-508",
+      "order": 356,
+      "title": "Shortest path in undirected graph with unit weights",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/shortest-path-in-undirected-graph-with-unit-weights?category=hard-problems&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-path-in-an-unweighted-undirected-graph-using-bfs",
+      "video": "https://www.youtube.com/watch?v=C4gxoTaI71U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=28",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "shortest-path-in-undirected-graph-with-unit-weights",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-509",
+      "order": 357,
+      "title": "Word ladder I",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/word-ladder/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/word-ladder-i?category=hard-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/word-ladder",
+      "video": "https://youtu.be/tRPda0rcf8E",
+      "premium": false,
+      "duration": "28 min",
+      "slug": "word-ladder-i",
+      "lcSlug": "word-ladder"
+    },
+    {
+      "id": "a2z-510",
+      "order": 358,
+      "title": "Word ladder II",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/word-ladder-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/word-ladder-ii?category=hard-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/word-ladder-ii",
+      "video": "https://youtu.be/AD4SFl7tu7I?si=EpcJQTWm2YeURvEG",
+      "premium": false,
+      "duration": "48 min",
+      "slug": "word-ladder-ii",
+      "lcSlug": "word-ladder-ii"
+    },
+    {
+      "id": "a2z-520",
+      "order": 359,
+      "title": "Dijkstra's algorithm",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Shortest Path Algorithms",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/dijkstra's-algorithm?category=shortest-path-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=rp1SMw7HSO8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=35",
+      "premium": false,
+      "duration": "47 min",
+      "slug": "dijkstra's-algorithm",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-526",
+      "order": 360,
+      "title": "Print Shortest Path",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Shortest Path Algorithms",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/print-shortest-path-?category=shortest-path-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "19 min",
+      "slug": "print-shortest-path-",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-527",
+      "order": 361,
+      "title": "Shortest Distance in a Binary Maze",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Shortest Path Algorithms",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/shortest-path-with-minimum-effort?category=shortest-path-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-distance-binary-maze",
+      "video": "https://www.youtube.com/watch?v=U5Mw4eyUmw4&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=36",
+      "premium": false,
+      "duration": "21 min",
+      "slug": "shortest-path-with-minimum-effort",
+      "lcSlug": "shortest-path-in-binary-matrix"
+    },
+    {
+      "id": "a2z-525",
+      "order": 362,
+      "title": "Path with minimum effort",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Shortest Path Algorithms",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/path-with-minimum-effort?category=shortest-path-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/path-with-minimum-effort",
+      "video": "https://youtu.be/0ytpZyiZFhA",
+      "premium": false,
+      "duration": "24 min",
+      "slug": "path-with-minimum-effort",
+      "lcSlug": "path-with-minimum-effort"
+    },
+    {
+      "id": "a2z-519",
+      "order": 363,
+      "title": "Cheapest flight within K stops",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Shortest Path Algorithms",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/cheapest-flight-within-k-stops?category=shortest-path-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/cheapest-flights-within-k-stops",
+      "video": "https://youtu.be/9XybHVqTHcQ",
+      "premium": false,
+      "duration": "23 min",
+      "slug": "cheapest-flight-within-k-stops",
+      "lcSlug": "cheapest-flights-within-k-stops"
+    },
+    {
+      "id": "a2z-523",
+      "order": 364,
+      "title": "Minimum multiplications to reach end",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Shortest Path Algorithms",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/minimum-multiplications-to-reach-end?category=shortest-path-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-multiplications-to-reach-end",
+      "video": "https://www.youtube.com/watch?v=_BvEJ3VIDWw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=39",
+      "premium": false,
+      "duration": "19 min",
+      "slug": "minimum-multiplications-to-reach-end",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-524",
+      "order": 365,
+      "title": "Number of ways to arrive at destination",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Shortest Path Algorithms",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/number-of-ways-to-arrive-at-destination?category=shortest-path-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-ways-to-arrive-at-destination",
+      "video": "https://youtu.be/_-0mx0SmYxA",
+      "premium": false,
+      "duration": "23 min",
+      "slug": "number-of-ways-to-arrive-at-destination",
+      "lcSlug": "number-of-ways-to-arrive-at-destination"
+    },
+    {
+      "id": "a2z-518",
+      "order": 366,
+      "title": "Bellman ford algorithm",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Shortest Path Algorithms",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/bellman-ford-algorithm?category=shortest-path-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/0vVofAhAYjc",
+      "premium": false,
+      "duration": "27 min",
+      "slug": "bellman-ford-algorithm",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-522",
+      "order": 367,
+      "title": "Floyd warshall algorithm",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Shortest Path Algorithms",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/floyd-warshall-algorithm?category=shortest-path-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=YbY8cVwWAvw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=42",
+      "premium": false,
+      "duration": "30 min",
+      "slug": "floyd-warshall-algorithm",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-521",
+      "order": 368,
+      "title": "Find the city with the smallest number of neighbors",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Shortest Path Algorithms",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/find-the-city-with-the-smallest-number-of-neighbors?category=shortest-path-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-city-smallest-number-neighbors-threshold-distance",
+      "video": "https://youtu.be/9XybHVqTHcQ",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "find-the-city-with-the-smallest-number-of-neighbors",
+      "lcSlug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance"
+    },
+    {
+      "id": "a2z-764",
+      "order": 369,
+      "title": "Network Delay Time",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Shortest Path Algorithms",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/network-delay-time/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/network-delay-time?category=shortest-path-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/network-delay-time",
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "network-delay-time",
+      "lcSlug": "network-delay-time"
+    },
+    {
+      "id": "a2z-1006",
+      "order": 370,
+      "title": "Swim in Rising Water",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Shortest Path Algorithms",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/swim-in-rising-water/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/swim-in-rising-water?category=shortest-path-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "swim-in-rising-water",
+      "lcSlug": "swim-in-rising-water"
+    },
+    {
+      "id": "a2z-516",
+      "order": 371,
+      "title": "Disjoint Set",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Minimum Spanning Tree",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/disjoint-set-?category=minimum-spanning-tree&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/disjoint-set-union",
+      "video": "https://youtu.be/aBxjDBC4M1U",
+      "premium": false,
+      "duration": "41 min",
+      "slug": "disjoint-set-",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-517",
+      "order": 372,
+      "title": "Find the MST weight",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Minimum Spanning Tree",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/connecting-cities-with-minimum-cost/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/find-the-mst-weight?category=minimum-spanning-tree&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/mJcZjjKzeqk",
+      "premium": true,
+      "duration": "31 min",
+      "slug": "find-the-mst-weight",
+      "lcSlug": "connecting-cities-with-minimum-cost"
+    },
+    {
+      "id": "a2z-515",
+      "order": 373,
+      "title": "Number of operations to make network connected",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems II",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/number-of-operations-to-make-network-connected?category=hard-problems-ii&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/FYrl7iz9_ZU",
+      "premium": false,
+      "duration": "14 min",
+      "slug": "number-of-operations-to-make-network-connected",
+      "lcSlug": "number-of-operations-to-make-network-connected"
+    },
+    {
+      "id": "a2z-511",
+      "order": 374,
+      "title": "Accounts merge",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems II",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/accounts-merge/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/accounts-merge?category=hard-problems-ii&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/FMwpt_aQOGw",
+      "premium": false,
+      "duration": "21 min",
+      "slug": "accounts-merge",
+      "lcSlug": "accounts-merge"
+    },
+    {
+      "id": "a2z-514",
+      "order": 375,
+      "title": "Number of islands II",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems II",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/number-of-islands-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/number-of-islands-ii?category=hard-problems-ii&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/Rn6B-Q4SNyA",
+      "premium": true,
+      "duration": "25 min",
+      "slug": "number-of-islands-ii",
+      "lcSlug": "number-of-islands-ii"
+    },
+    {
+      "id": "a2z-512",
+      "order": 376,
+      "title": "Making a large island",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems II",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/making-a-large-island/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/making-a-large-island?category=hard-problems-ii&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/lgiz0Oup6gM",
+      "premium": false,
+      "duration": "26 min",
+      "slug": "making-a-large-island",
+      "lcSlug": "making-a-large-island"
+    },
+    {
+      "id": "a2z-513",
+      "order": 377,
+      "title": "Most stones removed with same row or column",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Hard Problems II",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/most-stones-removed-with-same-row-or-column?category=hard-problems-ii&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/most-stones-removed-same-row-column",
+      "video": "https://youtu.be/OwMNX8SPavM",
+      "premium": false,
+      "duration": "23 min",
+      "slug": "most-stones-removed-with-same-row-or-column",
+      "lcSlug": "most-stones-removed-with-same-row-or-column"
+    },
+    {
+      "id": "a2z-498",
+      "order": 378,
+      "title": "Kosaraju's algorithm",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Additional Algorithms",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/kosaraju's-algorithm?category=additional-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=V8qIqJxCioo&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=27",
+      "premium": false,
+      "duration": "22 min",
+      "slug": "kosaraju's-algorithm",
+      "lcSlug": "maximum-number-of-non-overlapping-substrings"
+    },
+    {
+      "id": "a2z-497",
+      "order": 379,
+      "title": "Bridges in graph",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Additional Algorithms",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/critical-connections-in-a-network/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/bridges-in-graph?category=additional-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bridges-in-graph-tarjan-algorithm",
+      "video": "https://youtu.be/qrAub5z8FeA",
+      "premium": false,
+      "duration": "23 min",
+      "slug": "bridges-in-graph",
+      "lcSlug": "critical-connections-in-a-network"
+    },
+    {
+      "id": "a2z-496",
+      "order": 380,
+      "title": "Articulation point in graph",
+      "step": 16,
+      "stepTitle": "Graphs",
+      "topic": "Additional Algorithms",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/articulation-point2616/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/articulation-point-in-graph?category=additional-algorithms&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/articulation-points-in-graph",
+      "video": "https://youtu.be/j1QDfU21iZk",
+      "premium": false,
+      "duration": "21 min",
+      "slug": "articulation-point-in-graph",
+      "lcSlug": ""
+    }
+  ]
+}

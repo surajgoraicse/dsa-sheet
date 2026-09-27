@@ -1,0 +1,201 @@
+{
+  "category": "Advanced Graph Problems",
+  "problems": [
+    {
+      "id": "3303",
+      "name": "Nearest Shops",
+      "url": "https://cses.fi/problemset/task/3303",
+      "solved": 1008,
+      "submissions": 1289
+    },
+    {
+      "id": "1134",
+      "name": "Prüfer Code",
+      "url": "https://cses.fi/problemset/task/1134",
+      "solved": 1760,
+      "submissions": 1883
+    },
+    {
+      "id": "1702",
+      "name": "Tree Traversals",
+      "url": "https://cses.fi/problemset/task/1702",
+      "solved": 1443,
+      "submissions": 1576
+    },
+    {
+      "id": "1757",
+      "name": "Course Schedule II",
+      "url": "https://cses.fi/problemset/task/1757",
+      "solved": 2408,
+      "submissions": 3366
+    },
+    {
+      "id": "1756",
+      "name": "Acyclic Graph Edges",
+      "url": "https://cses.fi/problemset/task/1756",
+      "solved": 2496,
+      "submissions": 2642
+    },
+    {
+      "id": "2177",
+      "name": "Strongly Connected Edges",
+      "url": "https://cses.fi/problemset/task/2177",
+      "solved": 1836,
+      "submissions": 2125
+    },
+    {
+      "id": "2179",
+      "name": "Even Outdegree Edges",
+      "url": "https://cses.fi/problemset/task/2179",
+      "solved": 1598,
+      "submissions": 1859
+    },
+    {
+      "id": "1707",
+      "name": "Graph Girth",
+      "url": "https://cses.fi/problemset/task/1707",
+      "solved": 4043,
+      "submissions": 4553
+    },
+    {
+      "id": "3357",
+      "name": "Fixed Length Walk Queries",
+      "url": "https://cses.fi/problemset/task/3357",
+      "solved": 496,
+      "submissions": 548
+    },
+    {
+      "id": "3111",
+      "name": "Transfer Speeds Sum",
+      "url": "https://cses.fi/problemset/task/3111",
+      "solved": 559,
+      "submissions": 577
+    },
+    {
+      "id": "3407",
+      "name": "MST Edge Check",
+      "url": "https://cses.fi/problemset/task/3407",
+      "solved": 916,
+      "submissions": 988
+    },
+    {
+      "id": "3408",
+      "name": "MST Edge Set Check",
+      "url": "https://cses.fi/problemset/task/3408",
+      "solved": 347,
+      "submissions": 392
+    },
+    {
+      "id": "3409",
+      "name": "MST Edge Cost",
+      "url": "https://cses.fi/problemset/task/3409",
+      "solved": 542,
+      "submissions": 564
+    },
+    {
+      "id": "1677",
+      "name": "Network Breakdown",
+      "url": "https://cses.fi/problemset/task/1677",
+      "solved": 1365,
+      "submissions": 1479
+    },
+    {
+      "id": "3114",
+      "name": "Tree Coin Collecting I",
+      "url": "https://cses.fi/problemset/task/3114",
+      "solved": 475,
+      "submissions": 514
+    },
+    {
+      "id": "3149",
+      "name": "Tree Coin Collecting II",
+      "url": "https://cses.fi/problemset/task/3149",
+      "solved": 273,
+      "submissions": 311
+    },
+    {
+      "id": "1700",
+      "name": "Tree Isomorphism I",
+      "url": "https://cses.fi/problemset/task/1700",
+      "solved": 1248,
+      "submissions": 1470
+    },
+    {
+      "id": "1701",
+      "name": "Tree Isomorphism II",
+      "url": "https://cses.fi/problemset/task/1701",
+      "solved": 1034,
+      "submissions": 1180
+    },
+    {
+      "id": "1699",
+      "name": "Flight Route Requests",
+      "url": "https://cses.fi/problemset/task/1699",
+      "solved": 590,
+      "submissions": 730
+    },
+    {
+      "id": "1703",
+      "name": "Critical Cities",
+      "url": "https://cses.fi/problemset/task/1703",
+      "solved": 514,
+      "submissions": 765
+    },
+    {
+      "id": "1203",
+      "name": "Visiting Cities",
+      "url": "https://cses.fi/problemset/task/1203",
+      "solved": 779,
+      "submissions": 1015
+    },
+    {
+      "id": "3308",
+      "name": "Graph Coloring",
+      "url": "https://cses.fi/problemset/task/3308",
+      "solved": 310,
+      "submissions": 361
+    },
+    {
+      "id": "3158",
+      "name": "Bus Companies",
+      "url": "https://cses.fi/problemset/task/3158",
+      "solved": 359,
+      "submissions": 369
+    },
+    {
+      "id": "3358",
+      "name": "Split into Two Paths",
+      "url": "https://cses.fi/problemset/task/3358",
+      "solved": 143,
+      "submissions": 243
+    },
+    {
+      "id": "1704",
+      "name": "Network Renovation",
+      "url": "https://cses.fi/problemset/task/1704",
+      "solved": 1053,
+      "submissions": 1381
+    },
+    {
+      "id": "1705",
+      "name": "Forbidden Cities",
+      "url": "https://cses.fi/problemset/task/1705",
+      "solved": 1002,
+      "submissions": 1285
+    },
+    {
+      "id": "1752",
+      "name": "Creating Offices",
+      "url": "https://cses.fi/problemset/task/1752",
+      "solved": 487,
+      "submissions": 630
+    },
+    {
+      "id": "1685",
+      "name": "New Flight Routes",
+      "url": "https://cses.fi/problemset/task/1685",
+      "solved": 417,
+      "submissions": 1055
+    }
+  ]
+}

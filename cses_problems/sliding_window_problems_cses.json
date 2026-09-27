@@ -1,0 +1,82 @@
+{
+  "category": "Sliding Window Problems",
+  "problems": [
+    {
+      "id": "3220",
+      "name": "Sliding Window Sum",
+      "url": "https://cses.fi/problemset/task/3220",
+      "solved": 8318,
+      "submissions": 8585
+    },
+    {
+      "id": "3221",
+      "name": "Sliding Window Minimum",
+      "url": "https://cses.fi/problemset/task/3221",
+      "solved": 6262,
+      "submissions": 7110
+    },
+    {
+      "id": "3426",
+      "name": "Sliding Window Xor",
+      "url": "https://cses.fi/problemset/task/3426",
+      "solved": 6126,
+      "submissions": 6204
+    },
+    {
+      "id": "3405",
+      "name": "Sliding Window Or",
+      "url": "https://cses.fi/problemset/task/3405",
+      "solved": 2765,
+      "submissions": 4556
+    },
+    {
+      "id": "3222",
+      "name": "Sliding Window Distinct Values",
+      "url": "https://cses.fi/problemset/task/3222",
+      "solved": 4391,
+      "submissions": 5087
+    },
+    {
+      "id": "3224",
+      "name": "Sliding Window Mode",
+      "url": "https://cses.fi/problemset/task/3224",
+      "solved": 3404,
+      "submissions": 3600
+    },
+    {
+      "id": "3219",
+      "name": "Sliding Window Mex",
+      "url": "https://cses.fi/problemset/task/3219",
+      "solved": 3215,
+      "submissions": 3380
+    },
+    {
+      "id": "1076",
+      "name": "Sliding Window Median",
+      "url": "https://cses.fi/problemset/task/1076",
+      "solved": 15421,
+      "submissions": 17504
+    },
+    {
+      "id": "1077",
+      "name": "Sliding Window Cost",
+      "url": "https://cses.fi/problemset/task/1077",
+      "solved": 10067,
+      "submissions": 11557
+    },
+    {
+      "id": "3223",
+      "name": "Sliding Window Inversions",
+      "url": "https://cses.fi/problemset/task/3223",
+      "solved": 1728,
+      "submissions": 1826
+    },
+    {
+      "id": "3227",
+      "name": "Sliding Window Advertisement",
+      "url": "https://cses.fi/problemset/task/3227",
+      "solved": 333,
+      "submissions": 520
+    }
+  ]
+}

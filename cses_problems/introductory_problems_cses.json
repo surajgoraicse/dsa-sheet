@@ -1,0 +1,173 @@
+{
+  "category": "Introductory Problems",
+  "problems": [
+    {
+      "id": "1068",
+      "name": "Weird Algorithm",
+      "url": "https://cses.fi/problemset/task/1068",
+      "solved": 179365,
+      "submissions": 187320
+    },
+    {
+      "id": "1083",
+      "name": "Missing Number",
+      "url": "https://cses.fi/problemset/task/1083",
+      "solved": 154809,
+      "submissions": 161762
+    },
+    {
+      "id": "1069",
+      "name": "Repetitions",
+      "url": "https://cses.fi/problemset/task/1069",
+      "solved": 134400,
+      "submissions": 139418
+    },
+    {
+      "id": "1094",
+      "name": "Increasing Array",
+      "url": "https://cses.fi/problemset/task/1094",
+      "solved": 126740,
+      "submissions": 130916
+    },
+    {
+      "id": "1070",
+      "name": "Permutations",
+      "url": "https://cses.fi/problemset/task/1070",
+      "solved": 110932,
+      "submissions": 114122
+    },
+    {
+      "id": "1071",
+      "name": "Number Spiral",
+      "url": "https://cses.fi/problemset/task/1071",
+      "solved": 78861,
+      "submissions": 85473
+    },
+    {
+      "id": "1072",
+      "name": "Two Knights",
+      "url": "https://cses.fi/problemset/task/1072",
+      "solved": 60892,
+      "submissions": 62672
+    },
+    {
+      "id": "1092",
+      "name": "Two Sets",
+      "url": "https://cses.fi/problemset/task/1092",
+      "solved": 66195,
+      "submissions": 70797
+    },
+    {
+      "id": "1617",
+      "name": "Bit Strings",
+      "url": "https://cses.fi/problemset/task/1617",
+      "solved": 75206,
+      "submissions": 79140
+    },
+    {
+      "id": "1618",
+      "name": "Trailing Zeros",
+      "url": "https://cses.fi/problemset/task/1618",
+      "solved": 69613,
+      "submissions": 73806
+    },
+    {
+      "id": "1754",
+      "name": "Coin Piles",
+      "url": "https://cses.fi/problemset/task/1754",
+      "solved": 61986,
+      "submissions": 67388
+    },
+    {
+      "id": "1755",
+      "name": "Palindrome Reorder",
+      "url": "https://cses.fi/problemset/task/1755",
+      "solved": 57570,
+      "submissions": 60543
+    },
+    {
+      "id": "2205",
+      "name": "Gray Code",
+      "url": "https://cses.fi/problemset/task/2205",
+      "solved": 39420,
+      "submissions": 43922
+    },
+    {
+      "id": "2165",
+      "name": "Tower of Hanoi",
+      "url": "https://cses.fi/problemset/task/2165",
+      "solved": 36749,
+      "submissions": 38149
+    },
+    {
+      "id": "1622",
+      "name": "Creating Strings",
+      "url": "https://cses.fi/problemset/task/1622",
+      "solved": 48544,
+      "submissions": 49708
+    },
+    {
+      "id": "1623",
+      "name": "Apple Division",
+      "url": "https://cses.fi/problemset/task/1623",
+      "solved": 49337,
+      "submissions": 55234
+    },
+    {
+      "id": "1624",
+      "name": "Chessboard and Queens",
+      "url": "https://cses.fi/problemset/task/1624",
+      "solved": 30041,
+      "submissions": 30544
+    },
+    {
+      "id": "3399",
+      "name": "Raab Game I",
+      "url": "https://cses.fi/problemset/task/3399",
+      "solved": 8072,
+      "submissions": 9023
+    },
+    {
+      "id": "3419",
+      "name": "Mex Grid Construction",
+      "url": "https://cses.fi/problemset/task/3419",
+      "solved": 7821,
+      "submissions": 8205
+    },
+    {
+      "id": "3217",
+      "name": "Knight Moves Grid",
+      "url": "https://cses.fi/problemset/task/3217",
+      "solved": 7892,
+      "submissions": 8068
+    },
+    {
+      "id": "3311",
+      "name": "Grid Coloring I",
+      "url": "https://cses.fi/problemset/task/3311",
+      "solved": 6648,
+      "submissions": 6881
+    },
+    {
+      "id": "2431",
+      "name": "Digit Queries",
+      "url": "https://cses.fi/problemset/task/2431",
+      "solved": 21091,
+      "submissions": 24131
+    },
+    {
+      "id": "1743",
+      "name": "String Reorder",
+      "url": "https://cses.fi/problemset/task/1743",
+      "solved": 5918,
+      "submissions": 6746
+    },
+    {
+      "id": "1625",
+      "name": "Grid Path Description",
+      "url": "https://cses.fi/problemset/task/1625",
+      "solved": 11843,
+      "submissions": 15135
+    }
+  ]
+}

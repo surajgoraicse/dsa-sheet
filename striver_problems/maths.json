@@ -1,0 +1,73 @@
+{
+  "topic": "Maths",
+  "slug": "maths",
+  "step": 20,
+  "problemCount": 3,
+  "problems": [
+    {
+      "id": "a2z-653",
+      "order": 445,
+      "title": "Print all primes till N",
+      "step": 20,
+      "stepTitle": "Maths",
+      "topic": "Sieve of Eratosthenes",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/print-all-primes-till-n?category=sieve-of-eratosthenes&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "18 min",
+      "slug": "print-all-primes-till-n",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-652",
+      "order": 446,
+      "title": "Prime factorisation of a Number",
+      "step": 20,
+      "stepTitle": "Maths",
+      "topic": "Sieve of Eratosthenes",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/prime-factorisation-of-a-number?category=sieve-of-eratosthenes&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/LT7XhVdeRyg?si=6HkjQokJRPTFai21",
+      "premium": false,
+      "duration": "15 min",
+      "slug": "prime-factorisation-of-a-number",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-651",
+      "order": 447,
+      "title": "Count primes in range L to R",
+      "step": 20,
+      "stepTitle": "Maths",
+      "topic": "Sieve of Eratosthenes",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/count-primes/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/count-primes-in-range-l-to-r?category=sieve-of-eratosthenes&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/g5Fuxn_AvSk?si=fv6Q-Po7wrMW0a5n",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "count-primes-in-range-l-to-r",
+      "lcSlug": "count-primes"
+    }
+  ]
+}

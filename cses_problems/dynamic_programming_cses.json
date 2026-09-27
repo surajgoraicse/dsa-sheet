@@ -1,0 +1,166 @@
+{
+  "category": "Dynamic Programming",
+  "problems": [
+    {
+      "id": "1633",
+      "name": "Dice Combinations",
+      "url": "https://cses.fi/problemset/task/1633",
+      "solved": 93751,
+      "submissions": 98887
+    },
+    {
+      "id": "1634",
+      "name": "Minimizing Coins",
+      "url": "https://cses.fi/problemset/task/1634",
+      "solved": 81137,
+      "submissions": 86795
+    },
+    {
+      "id": "1635",
+      "name": "Coin Combinations I",
+      "url": "https://cses.fi/problemset/task/1635",
+      "solved": 74125,
+      "submissions": 79832
+    },
+    {
+      "id": "1636",
+      "name": "Coin Combinations II",
+      "url": "https://cses.fi/problemset/task/1636",
+      "solved": 62948,
+      "submissions": 70675
+    },
+    {
+      "id": "1637",
+      "name": "Removing Digits",
+      "url": "https://cses.fi/problemset/task/1637",
+      "solved": 69897,
+      "submissions": 71265
+    },
+    {
+      "id": "1638",
+      "name": "Grid Paths I",
+      "url": "https://cses.fi/problemset/task/1638",
+      "solved": 65668,
+      "submissions": 67405
+    },
+    {
+      "id": "1158",
+      "name": "Book Shop",
+      "url": "https://cses.fi/problemset/task/1158",
+      "solved": 59288,
+      "submissions": 64761
+    },
+    {
+      "id": "1746",
+      "name": "Array Description",
+      "url": "https://cses.fi/problemset/task/1746",
+      "solved": 43963,
+      "submissions": 48387
+    },
+    {
+      "id": "2413",
+      "name": "Counting Towers",
+      "url": "https://cses.fi/problemset/task/2413",
+      "solved": 27480,
+      "submissions": 28977
+    },
+    {
+      "id": "1639",
+      "name": "Edit Distance",
+      "url": "https://cses.fi/problemset/task/1639",
+      "solved": 43685,
+      "submissions": 45933
+    },
+    {
+      "id": "3403",
+      "name": "Longest Common Subsequence",
+      "url": "https://cses.fi/problemset/task/3403",
+      "solved": 15712,
+      "submissions": 16223
+    },
+    {
+      "id": "1744",
+      "name": "Rectangle Cutting",
+      "url": "https://cses.fi/problemset/task/1744",
+      "solved": 36044,
+      "submissions": 39131
+    },
+    {
+      "id": "3359",
+      "name": "Minimal Grid Path",
+      "url": "https://cses.fi/problemset/task/3359",
+      "solved": 7397,
+      "submissions": 12126
+    },
+    {
+      "id": "1745",
+      "name": "Money Sums",
+      "url": "https://cses.fi/problemset/task/1745",
+      "solved": 42512,
+      "submissions": 43994
+    },
+    {
+      "id": "1097",
+      "name": "Removal Game",
+      "url": "https://cses.fi/problemset/task/1097",
+      "solved": 26527,
+      "submissions": 34051
+    },
+    {
+      "id": "1093",
+      "name": "Two Sets II",
+      "url": "https://cses.fi/problemset/task/1093",
+      "solved": 33617,
+      "submissions": 35912
+    },
+    {
+      "id": "3314",
+      "name": "Mountain Range",
+      "url": "https://cses.fi/problemset/task/3314",
+      "solved": 5138,
+      "submissions": 8673
+    },
+    {
+      "id": "1145",
+      "name": "Increasing Subsequence",
+      "url": "https://cses.fi/problemset/task/1145",
+      "solved": 34115,
+      "submissions": 38159
+    },
+    {
+      "id": "1140",
+      "name": "Projects",
+      "url": "https://cses.fi/problemset/task/1140",
+      "solved": 24099,
+      "submissions": 26731
+    },
+    {
+      "id": "1653",
+      "name": "Elevator Rides",
+      "url": "https://cses.fi/problemset/task/1653",
+      "solved": 15869,
+      "submissions": 19576
+    },
+    {
+      "id": "2181",
+      "name": "Counting Tilings",
+      "url": "https://cses.fi/problemset/task/2181",
+      "solved": 9306,
+      "submissions": 10043
+    },
+    {
+      "id": "2220",
+      "name": "Counting Numbers",
+      "url": "https://cses.fi/problemset/task/2220",
+      "solved": 13920,
+      "submissions": 15380
+    },
+    {
+      "id": "1748",
+      "name": "Increasing Subsequence II",
+      "url": "https://cses.fi/problemset/task/1748",
+      "solved": 6364,
+      "submissions": 7456
+    }
+  ]
+}

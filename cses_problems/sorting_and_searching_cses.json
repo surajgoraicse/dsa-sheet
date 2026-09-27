@@ -1,0 +1,250 @@
+{
+  "category": "Sorting and Searching",
+  "problems": [
+    {
+      "id": "1621",
+      "name": "Distinct Numbers",
+      "url": "https://cses.fi/problemset/task/1621",
+      "solved": 89297,
+      "submissions": 96037
+    },
+    {
+      "id": "1084",
+      "name": "Apartments",
+      "url": "https://cses.fi/problemset/task/1084",
+      "solved": 67082,
+      "submissions": 73711
+    },
+    {
+      "id": "1090",
+      "name": "Ferris Wheel",
+      "url": "https://cses.fi/problemset/task/1090",
+      "solved": 64713,
+      "submissions": 69276
+    },
+    {
+      "id": "1091",
+      "name": "Concert Tickets",
+      "url": "https://cses.fi/problemset/task/1091",
+      "solved": 51957,
+      "submissions": 59835
+    },
+    {
+      "id": "1619",
+      "name": "Restaurant Customers",
+      "url": "https://cses.fi/problemset/task/1619",
+      "solved": 52749,
+      "submissions": 56591
+    },
+    {
+      "id": "1629",
+      "name": "Movie Festival",
+      "url": "https://cses.fi/problemset/task/1629",
+      "solved": 51300,
+      "submissions": 54046
+    },
+    {
+      "id": "1640",
+      "name": "Sum of Two Values",
+      "url": "https://cses.fi/problemset/task/1640",
+      "solved": 59306,
+      "submissions": 65835
+    },
+    {
+      "id": "1643",
+      "name": "Maximum Subarray Sum",
+      "url": "https://cses.fi/problemset/task/1643",
+      "solved": 56518,
+      "submissions": 58808
+    },
+    {
+      "id": "1074",
+      "name": "Stick Lengths",
+      "url": "https://cses.fi/problemset/task/1074",
+      "solved": 50625,
+      "submissions": 52772
+    },
+    {
+      "id": "2183",
+      "name": "Missing Coin Sum",
+      "url": "https://cses.fi/problemset/task/2183",
+      "solved": 38835,
+      "submissions": 40146
+    },
+    {
+      "id": "2216",
+      "name": "Collecting Numbers",
+      "url": "https://cses.fi/problemset/task/2216",
+      "solved": 39736,
+      "submissions": 42284
+    },
+    {
+      "id": "2217",
+      "name": "Collecting Numbers II",
+      "url": "https://cses.fi/problemset/task/2217",
+      "solved": 17560,
+      "submissions": 21794
+    },
+    {
+      "id": "1141",
+      "name": "Playlist",
+      "url": "https://cses.fi/problemset/task/1141",
+      "solved": 39681,
+      "submissions": 44861
+    },
+    {
+      "id": "1073",
+      "name": "Towers",
+      "url": "https://cses.fi/problemset/task/1073",
+      "solved": 39612,
+      "submissions": 42238
+    },
+    {
+      "id": "1163",
+      "name": "Traffic Lights",
+      "url": "https://cses.fi/problemset/task/1163",
+      "solved": 30844,
+      "submissions": 34249
+    },
+    {
+      "id": "3420",
+      "name": "Distinct Values Subarrays",
+      "url": "https://cses.fi/problemset/task/3420",
+      "solved": 10956,
+      "submissions": 12216
+    },
+    {
+      "id": "3421",
+      "name": "Distinct Values Subsequences",
+      "url": "https://cses.fi/problemset/task/3421",
+      "solved": 8448,
+      "submissions": 9169
+    },
+    {
+      "id": "2162",
+      "name": "Josephus Problem I",
+      "url": "https://cses.fi/problemset/task/2162",
+      "solved": 24106,
+      "submissions": 26315
+    },
+    {
+      "id": "2163",
+      "name": "Josephus Problem II",
+      "url": "https://cses.fi/problemset/task/2163",
+      "solved": 13109,
+      "submissions": 17950
+    },
+    {
+      "id": "2168",
+      "name": "Nested Ranges Check",
+      "url": "https://cses.fi/problemset/task/2168",
+      "solved": 14408,
+      "submissions": 16253
+    },
+    {
+      "id": "2169",
+      "name": "Nested Ranges Count",
+      "url": "https://cses.fi/problemset/task/2169",
+      "solved": 9646,
+      "submissions": 11254
+    },
+    {
+      "id": "1164",
+      "name": "Room Allocation",
+      "url": "https://cses.fi/problemset/task/1164",
+      "solved": 23465,
+      "submissions": 26653
+    },
+    {
+      "id": "1620",
+      "name": "Factory Machines",
+      "url": "https://cses.fi/problemset/task/1620",
+      "solved": 34027,
+      "submissions": 36693
+    },
+    {
+      "id": "1630",
+      "name": "Tasks and Deadlines",
+      "url": "https://cses.fi/problemset/task/1630",
+      "solved": 27107,
+      "submissions": 27623
+    },
+    {
+      "id": "1631",
+      "name": "Reading Books",
+      "url": "https://cses.fi/problemset/task/1631",
+      "solved": 22044,
+      "submissions": 23493
+    },
+    {
+      "id": "1641",
+      "name": "Sum of Three Values",
+      "url": "https://cses.fi/problemset/task/1641",
+      "solved": 31666,
+      "submissions": 34759
+    },
+    {
+      "id": "1642",
+      "name": "Sum of Four Values",
+      "url": "https://cses.fi/problemset/task/1642",
+      "solved": 19755,
+      "submissions": 21774
+    },
+    {
+      "id": "1645",
+      "name": "Nearest Smaller Values",
+      "url": "https://cses.fi/problemset/task/1645",
+      "solved": 26563,
+      "submissions": 27407
+    },
+    {
+      "id": "1660",
+      "name": "Subarray Sums I",
+      "url": "https://cses.fi/problemset/task/1660",
+      "solved": 35228,
+      "submissions": 37323
+    },
+    {
+      "id": "1661",
+      "name": "Subarray Sums II",
+      "url": "https://cses.fi/problemset/task/1661",
+      "solved": 32144,
+      "submissions": 37604
+    },
+    {
+      "id": "1662",
+      "name": "Subarray Divisibility",
+      "url": "https://cses.fi/problemset/task/1662",
+      "solved": 29014,
+      "submissions": 31373
+    },
+    {
+      "id": "2428",
+      "name": "Distinct Values Subarrays II",
+      "url": "https://cses.fi/problemset/task/2428",
+      "solved": 17776,
+      "submissions": 19299
+    },
+    {
+      "id": "1085",
+      "name": "Array Division",
+      "url": "https://cses.fi/problemset/task/1085",
+      "solved": 27507,
+      "submissions": 28818
+    },
+    {
+      "id": "1632",
+      "name": "Movie Festival II",
+      "url": "https://cses.fi/problemset/task/1632",
+      "solved": 15007,
+      "submissions": 17836
+    },
+    {
+      "id": "1644",
+      "name": "Maximum Subarray Sum II",
+      "url": "https://cses.fi/problemset/task/1644",
+      "solved": 13994,
+      "submissions": 16451
+    }
+  ]
+}

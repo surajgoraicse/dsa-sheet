@@ -1,0 +1,517 @@
+{
+  "topic": "Recursion",
+  "slug": "recursion",
+  "step": 7,
+  "problemCount": 21,
+  "problems": [
+    {
+      "id": "a2z-877",
+      "order": 143,
+      "title": "Pow(x,n)",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "Implementation Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/powx-n/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/pow(x,n)"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/l0YC3876qxg",
+      "premium": false,
+      "duration": "23 min",
+      "slug": "pow(x,n)",
+      "lcSlug": "powx-n"
+    },
+    {
+      "id": "a2z-876",
+      "order": 144,
+      "title": "Generate Parentheses",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "Implementation Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/generate-parentheses/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/generate-parentheses?category=implementation-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "22 min",
+      "slug": "generate-parentheses",
+      "lcSlug": "generate-parentheses"
+    },
+    {
+      "id": "a2z-878",
+      "order": 145,
+      "title": "Power Set",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "Implementation Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/subsets/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/power-set?category=implementation-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=b7AYbpM5YrE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=67",
+      "premium": false,
+      "duration": "20 min",
+      "slug": "power-set",
+      "lcSlug": "subsets"
+    },
+    {
+      "id": "a2z-222",
+      "order": 146,
+      "title": "Count Good Numbers",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "Implementation Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/count-good-numbers/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/count-good-numbers?category=implementation-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-good-numbers",
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "count-good-numbers",
+      "lcSlug": "count-good-numbers"
+    },
+    {
+      "id": "a2z-901",
+      "order": 147,
+      "title": "Reverse a Stack",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "Implementation Problems",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/reverse-a-stack?category=implementation-problems&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "reverse-a-stack",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-879",
+      "order": 148,
+      "title": "Check if there exists a subsequence with sum K",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "Subsequence Pattern Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/check-if-there-exists-a-subsequence-with-sum-k?category=subsequence-pattern-problems&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "23 min",
+      "slug": "check-if-there-exists-a-subsequence-with-sum-k",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-880",
+      "order": 149,
+      "title": "Count all subsequences with sum K",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "Subsequence Pattern Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/count-all-subsequences-with-sum-k?category=subsequence-pattern-problems&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "12 min",
+      "slug": "count-all-subsequences-with-sum-k",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-493",
+      "order": 150,
+      "title": "Generate Binary Strings Without Consecutive 1s",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "Subsequence Pattern Problems",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/generate-binary-strings-without-consecutive-1s?category=subsequence-pattern-problems&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "generate-binary-strings-without-consecutive-1s",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-864",
+      "order": 151,
+      "title": "Combination Sum",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "FAQs (Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/combination-sum/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/combination-sum?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=OyZFFqQtu98&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "combination-sum",
+      "lcSlug": "combination-sum"
+    },
+    {
+      "id": "a2z-865",
+      "order": 152,
+      "title": "Combination Sum II",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "FAQs (Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/combination-sum-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/combination-sum-ii?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=G1fRTGRxXU8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=50",
+      "premium": false,
+      "duration": "15 min",
+      "slug": "combination-sum-ii",
+      "lcSlug": "combination-sum-ii"
+    },
+    {
+      "id": "a2z-867",
+      "order": 153,
+      "title": "Subsets I",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "FAQs (Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/subsets/",
+      "altUrls": [
+        {
+          "platform": "gfg",
+          "url": "https://www.geeksforgeeks.org/problems/subset-sums2234/1"
+        },
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/subsets-i?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52",
+      "premium": false,
+      "duration": "7 min",
+      "slug": "subsets-i",
+      "lcSlug": "subsets"
+    },
+    {
+      "id": "a2z-868",
+      "order": 154,
+      "title": "Subsets II",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "FAQs (Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/subsets-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/subsets-ii?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=RIn3gOkbhQE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=53",
+      "premium": false,
+      "duration": "21 min",
+      "slug": "subsets-ii",
+      "lcSlug": "subsets-ii"
+    },
+    {
+      "id": "a2z-866",
+      "order": 155,
+      "title": "Combination Sum III",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "FAQs (Medium)",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/combination-sum-iii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/combination-sum-iii?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "12 min",
+      "slug": "combination-sum-iii",
+      "lcSlug": "combination-sum-iii"
+    },
+    {
+      "id": "a2z-875",
+      "order": 156,
+      "title": "Letter Combinations of a Phone Number",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "Hard",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/letter-combinations-of-a-phone-number?category=hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "12 min",
+      "slug": "letter-combinations-of-a-phone-number",
+      "lcSlug": "letter-combinations-of-a-phone-number"
+    },
+    {
+      "id": "a2z-871",
+      "order": 157,
+      "title": "Palindrome partitioning",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "FAQs (Hard)",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/palindrome-partitioning/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/palindrome-partitioning?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/_H8V5hJUGd0",
+      "premium": false,
+      "duration": "18 min",
+      "slug": "palindrome-partitioning",
+      "lcSlug": "palindrome-partitioning"
+    },
+    {
+      "id": "a2z-874",
+      "order": 158,
+      "title": "Word Search",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "FAQs (Hard)",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/word-search/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/word-search?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "19 min",
+      "slug": "word-search",
+      "lcSlug": "word-search"
+    },
+    {
+      "id": "a2z-870",
+      "order": 159,
+      "title": "N Queen",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "FAQs (Hard)",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/n-queens/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/n-queen?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=57",
+      "premium": false,
+      "duration": "24 min",
+      "slug": "n-queen",
+      "lcSlug": "n-queens"
+    },
+    {
+      "id": "a2z-872",
+      "order": 160,
+      "title": "Rat in a Maze",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "FAQs (Hard)",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/rat-in-a-maze?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=bLGZhJlt4y0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=60",
+      "premium": false,
+      "duration": "19 min",
+      "slug": "rat-in-a-maze",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-869",
+      "order": 161,
+      "title": "M Coloring Problem",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "FAQs (Hard)",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/m-coloring-problem?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=wuVwUK25Rfc&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=59",
+      "premium": false,
+      "duration": "22 min",
+      "slug": "m-coloring-problem",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-873",
+      "order": 162,
+      "title": "Sudoku Solver",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "FAQs (Hard)",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/sudoku-solver/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/sudoko-solver?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=FWAIf_EVUKE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=58",
+      "premium": false,
+      "duration": "31 min",
+      "slug": "sudoko-solver",
+      "lcSlug": "sudoku-solver"
+    },
+    {
+      "id": "a2z-3",
+      "order": 163,
+      "title": "Expression Add Operators",
+      "step": 7,
+      "stepTitle": "Recursion",
+      "topic": "FAQs (Hard)",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/expression-add-operators/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/expression-add-operators?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "expression-add-operators",
+      "lcSlug": "expression-add-operators"
+    }
+  ]
+}

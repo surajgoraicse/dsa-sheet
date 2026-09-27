@@ -1,0 +1,82 @@
+{
+  "category": "Bitwise Operations",
+  "problems": [
+    {
+      "id": "1146",
+      "name": "Counting Bits",
+      "url": "https://cses.fi/problemset/task/1146",
+      "solved": 6396,
+      "submissions": 8201
+    },
+    {
+      "id": "1655",
+      "name": "Maximum Xor Subarray",
+      "url": "https://cses.fi/problemset/task/1655",
+      "solved": 3767,
+      "submissions": 4304
+    },
+    {
+      "id": "3191",
+      "name": "Maximum Xor Subset",
+      "url": "https://cses.fi/problemset/task/3191",
+      "solved": 1445,
+      "submissions": 1588
+    },
+    {
+      "id": "3211",
+      "name": "Number of Subset Xors",
+      "url": "https://cses.fi/problemset/task/3211",
+      "solved": 1258,
+      "submissions": 1287
+    },
+    {
+      "id": "3192",
+      "name": "K Subset Xors",
+      "url": "https://cses.fi/problemset/task/3192",
+      "solved": 654,
+      "submissions": 766
+    },
+    {
+      "id": "3233",
+      "name": "All Subarray Xors",
+      "url": "https://cses.fi/problemset/task/3233",
+      "solved": 398,
+      "submissions": 614
+    },
+    {
+      "id": "2419",
+      "name": "Xor Pyramid Peak",
+      "url": "https://cses.fi/problemset/task/2419",
+      "solved": 2506,
+      "submissions": 2995
+    },
+    {
+      "id": "3194",
+      "name": "Xor Pyramid Diagonal",
+      "url": "https://cses.fi/problemset/task/3194",
+      "solved": 452,
+      "submissions": 506
+    },
+    {
+      "id": "3195",
+      "name": "Xor Pyramid Row",
+      "url": "https://cses.fi/problemset/task/3195",
+      "solved": 391,
+      "submissions": 456
+    },
+    {
+      "id": "1654",
+      "name": "SOS Bit Problem",
+      "url": "https://cses.fi/problemset/task/1654",
+      "solved": 2643,
+      "submissions": 2797
+    },
+    {
+      "id": "3141",
+      "name": "And Subset Count",
+      "url": "https://cses.fi/problemset/task/3141",
+      "solved": 647,
+      "submissions": 671
+    }
+  ]
+}

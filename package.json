@@ -1,0 +1,13 @@
+{
+  "name": "gen-sheet",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}

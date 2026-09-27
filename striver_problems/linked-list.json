@@ -1,0 +1,1007 @@
+{
+  "topic": "Linked-List",
+  "slug": "linked-list",
+  "step": 8,
+  "problemCount": 43,
+  "problems": [
+    {
+      "id": "a2z-624",
+      "order": 164,
+      "title": "Traversal in Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Single LL)",
+      "tier": "basic",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/linkedlist-traversal/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/traversal-in-linked-list?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "3 min",
+      "slug": "traversal-in-linked-list",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-352",
+      "order": 165,
+      "title": "Deletion of the head of LL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Single LL)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/deletion-of-the-head-of-ll?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/VaECK03Dz-g?si=CRaBHbOo2bHFbOT5",
+      "premium": false,
+      "duration": "6 min",
+      "slug": "deletion-of-the-head-of-ll",
+      "lcSlug": "delete-node-in-a-linked-list"
+    },
+    {
+      "id": "a2z-354",
+      "order": 166,
+      "title": "Deletion of the tail of Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Single LL)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/deletion-at-the-end-of-a-linked-list/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/deletion-of-the-tail-of-ll?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "10 min",
+      "slug": "deletion-of-the-tail-of-ll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-353",
+      "order": 167,
+      "title": "Deletion of the Kth element of Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Single LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/deletion-of-the-kth-element-of-ll?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "15 min",
+      "slug": "deletion-of-the-kth-element-of-ll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-351",
+      "order": 168,
+      "title": "Delete the element with value X",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Single LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/delete-the-element-with-value-x?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "2 min",
+      "slug": "delete-the-element-with-value-x",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-356",
+      "order": 169,
+      "title": "Insertion at the head of Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Single LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/insertion-at-the-head-of-ll?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-a-node-at-the-beginning-of-a-singly-linked-list",
+      "video": "https://youtu.be/VaECK03Dz-g?si=vHSwdf9jhE05adKM&t=1934",
+      "premium": false,
+      "duration": "3 min",
+      "slug": "insertion-at-the-head-of-ll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-358",
+      "order": 170,
+      "title": "Insertion at the tail of Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Single LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/insertion-at-the-tail-of-ll?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "4 min",
+      "slug": "insertion-at-the-tail-of-ll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-357",
+      "order": 171,
+      "title": "Insertion at the Kth position of Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Single LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/insertion-at-the-kth-position-of-ll?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "13 min",
+      "slug": "insertion-at-the-kth-position-of-ll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-359",
+      "order": 172,
+      "title": "Insertion before the value X in Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Single LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/insertion-before-the-value-x-in-ll?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "4 min",
+      "slug": "insertion-before-the-value-x-in-ll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-470",
+      "order": 173,
+      "title": "Find the length of the Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Single LL)",
+      "tier": "basic",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/find-the-length-of-the-linked-list?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/Nq7ok-OyEpg?si=xqQbukLfo2oZ6C6s&t=2240",
+      "premium": false,
+      "duration": "",
+      "slug": "find-the-length-of-the-linked-list",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-905",
+      "order": 174,
+      "title": "Search in Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Single LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/search-in-linked-list?category=fundamentals-single-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/Nq7ok-OyEpg?si=WNXcIaXZ_B6cNq0s&t=2524",
+      "premium": false,
+      "duration": "",
+      "slug": "search-in-linked-list",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-347",
+      "order": 175,
+      "title": "Convert Array to Doubly Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Doubly LL)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/create-a-doubly-linked-list-from-a-given-array/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/convert-array-to-dll?category=fundamentals-doubly-ll&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "10 min",
+      "slug": "convert-array-to-dll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-350",
+      "order": 176,
+      "title": "Delete Tail of Doubly Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Doubly LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/delete-tail-of-dll?category=fundamentals-doubly-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "5 min",
+      "slug": "delete-tail-of-dll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-349",
+      "order": 177,
+      "title": "Delete Kth Element of Doubly Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Doubly LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/delete-kth-element-of-dll?category=fundamentals-doubly-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "14 min",
+      "slug": "delete-kth-element-of-dll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-363",
+      "order": 178,
+      "title": "Removing given node in Doubly Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Doubly LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/removing-given-node-in-dll?category=fundamentals-doubly-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "5 min",
+      "slug": "removing-given-node-in-dll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-361",
+      "order": 179,
+      "title": "Insert node before head in Doubly Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Doubly LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/insert-node-before-head-in-dll?category=fundamentals-doubly-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/0eKMU10uEDI?si=J5a0pQTosimcO_aA&t=2684",
+      "premium": false,
+      "duration": "3 min",
+      "slug": "insert-node-before-head-in-dll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-362",
+      "order": 180,
+      "title": "Insert node before tail in Doubly Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Doubly LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/insert-node-before-tail-in-dll?category=fundamentals-doubly-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "5 min",
+      "slug": "insert-node-before-tail-in-dll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-360",
+      "order": 181,
+      "title": "Insert node before (kth node) in Doubly Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Doubly LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/insert-node-before-kth-node-in-dll?category=fundamentals-doubly-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "5 min",
+      "slug": "insert-node-before-kth-node-in-dll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-355",
+      "order": 182,
+      "title": "Insert before given node in Doubly Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Doubly LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/insert-before-given-node-in-dll?category=fundamentals-doubly-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "2 min",
+      "slug": "insert-before-given-node-in-dll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-348",
+      "order": 183,
+      "title": "Delete head of Doubly Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Doubly LL)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/delete-head-of-dll?category=fundamentals-doubly-ll&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/0eKMU10uEDI?si=sE7jqrW46lfRHVLd&t=853",
+      "premium": false,
+      "duration": "6 min",
+      "slug": "delete-head-of-dll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-900",
+      "order": 184,
+      "title": "Reverse a Doubly Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Fundamentals (Doubly LL)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/reverse-linked-list/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/reverse-a-doubly-linked-list?category=fundamentals-doubly-ll&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/u3WUW2qe6ww?si=96Wwlju72IvmzkxE",
+      "premium": false,
+      "duration": "",
+      "slug": "reverse-a-doubly-linked-list",
+      "lcSlug": "reverse-linked-list"
+    },
+    {
+      "id": "a2z-625",
+      "order": 185,
+      "title": "Add two numbers in Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Logic Building",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/add-two-numbers/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/add-two-numbers-in-ll?category=logic-building&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=LBVsXSMOIk4&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=32",
+      "premium": false,
+      "duration": "14 min",
+      "slug": "add-two-numbers-in-ll",
+      "lcSlug": "add-two-numbers"
+    },
+    {
+      "id": "a2z-628",
+      "order": 186,
+      "title": "Segregate odd and even nodes in Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Logic Building",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/odd-even-linked-list/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/segregate-odd-and-even-nodes-in-ll?category=logic-building&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/qf6qp7GzD5Q?si=JozAyXUdT8EJMSCQ",
+      "premium": false,
+      "duration": "24 min",
+      "slug": "segregate-odd-and-even-nodes-in-ll",
+      "lcSlug": "odd-even-linked-list"
+    },
+    {
+      "id": "a2z-629",
+      "order": 187,
+      "title": "Sort a Linked List of 0's 1's and 2's",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Logic Building",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/sort-a-ll-of-0's-1's-and-2's?category=logic-building&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-linked-list-0s-1s-2s-changing-links",
+      "video": "https://youtu.be/gRII7LhdJWc?si=l3qRC7w3NhY7OAqw",
+      "premium": false,
+      "duration": "22 min",
+      "slug": "sort-a-ll-of-0's-1's-and-2's",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-626",
+      "order": 188,
+      "title": "Remove Nth node from the back of the LL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Logic Building",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/remove-nth-node-from-the-back-of-the-ll?category=logic-building&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/3kMKYQ2wNIU?si=DtFDnPU7z9HMz_GM",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "remove-nth-node-from-the-back-of-the-ll",
+      "lcSlug": "remove-nth-node-from-end-of-list"
+    },
+    {
+      "id": "a2z-627",
+      "order": 189,
+      "title": "Reverse a LL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "Logic Building",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/reverse-linked-list/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/reverse-a-ll?category=logic-building&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/D2vI2DNJGd8?si=RCaLSx01qR21IBdh",
+      "premium": false,
+      "duration": "32 min",
+      "slug": "reverse-a-ll",
+      "lcSlug": "reverse-linked-list"
+    },
+    {
+      "id": "a2z-617",
+      "order": 190,
+      "title": "Add one to a number represented by LL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/plus-one-linked-list/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/add-one-to-a-number-represented-by-ll?category=faqs--medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/add-one-to-number-linked-list",
+      "video": "https://youtu.be/aXQWhbvT3w0?si=uRgU9S4r5cVmnUy7",
+      "premium": true,
+      "duration": "24 min",
+      "slug": "add-one-to-a-number-represented-by-ll",
+      "lcSlug": "plus-one-linked-list"
+    },
+    {
+      "id": "a2z-448",
+      "order": 191,
+      "title": "Find Middle of Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Medium)",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/find-middle-of-linked-list?category=faqs--medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/7LjQ57RqgEc?si=ir_rRDio38rhamU_",
+      "premium": false,
+      "duration": "14 min",
+      "slug": "find-middle-of-linked-list",
+      "lcSlug": "middle-of-the-linked-list"
+    },
+    {
+      "id": "a2z-619",
+      "order": 192,
+      "title": "Delete the middle node in LL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/delete-the-middle-node-in-ll?category=faqs--medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/delete-the-middle-node-of-a-linked-list",
+      "video": "https://youtu.be/ePpV-_pfOeI?si=Au9GsZkVO57j6SiN",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "delete-the-middle-node-in-ll",
+      "lcSlug": "delete-the-middle-node-of-a-linked-list"
+    },
+    {
+      "id": "a2z-618",
+      "order": 193,
+      "title": "Check if LL is palindrome or not",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Medium)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/palindrome-linked-list/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/check-if-ll-is-palindrome-or-not?category=faqs--medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/lRY_G-u_8jk?si=BpM8hRYvXSYyjl-G",
+      "premium": false,
+      "duration": "20 min",
+      "slug": "check-if-ll-is-palindrome-or-not",
+      "lcSlug": "palindrome-linked-list"
+    },
+    {
+      "id": "a2z-621",
+      "order": 194,
+      "title": "Find the intersection point of Y LL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Medium)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/find-the-intersection-point-of-y-ll?category=faqs--medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/0DYoPz2Tpt4?si=L-uJs5yXUxj4VJM2",
+      "premium": false,
+      "duration": "32 min",
+      "slug": "find-the-intersection-point-of-y-ll",
+      "lcSlug": "intersection-of-two-linked-lists"
+    },
+    {
+      "id": "a2z-620",
+      "order": 195,
+      "title": "Detect a loop in LL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Medium)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/linked-list-cycle/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/detect-a-loop-in-ll?category=faqs--medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/wiOo4DC5GGA?si=zagt6O6tFXc4_3cx",
+      "premium": false,
+      "duration": "20 min",
+      "slug": "detect-a-loop-in-ll",
+      "lcSlug": "linked-list-cycle"
+    },
+    {
+      "id": "a2z-622",
+      "order": 196,
+      "title": "Find the starting point in LL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/find-the-starting-point-in-ll?category=faqs--medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/2Kd0KKmmHFc?si=7UreDPRjRvapeVB0",
+      "premium": false,
+      "duration": "21 min",
+      "slug": "find-the-starting-point-in-ll",
+      "lcSlug": "linked-list-cycle-ii"
+    },
+    {
+      "id": "a2z-623",
+      "order": 197,
+      "title": "Length of loop in LL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/length-of-loop-in-ll?category=faqs--medium&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/length-of-cycle-linked-list",
+      "video": "https://youtu.be/I4g1qbkTPus?si=ONktpqewvx57T8pF",
+      "premium": false,
+      "duration": "14 min",
+      "slug": "length-of-loop-in-ll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-614",
+      "order": 198,
+      "title": "Reverse LL in group of given size K",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Hard)",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/reverse-ll-in-group-of-given-size-k?category=faqs--hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/lIar1skcQYI?si=_jFghHKX4eaK36a1",
+      "premium": false,
+      "duration": "24 min",
+      "slug": "reverse-ll-in-group-of-given-size-k",
+      "lcSlug": "reverse-nodes-in-k-group"
+    },
+    {
+      "id": "a2z-615",
+      "order": 199,
+      "title": "Rotate a LL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Hard)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/rotate-list/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/rotate-a-ll?category=faqs--hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/uT7YI7XbTY8?si=ZaChW3a68c_v54Is",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "rotate-a-ll",
+      "lcSlug": "rotate-list"
+    },
+    {
+      "id": "a2z-613",
+      "order": 200,
+      "title": "Merge two Sorted Lists",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Hard)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/merge-sorted-lists-?category=faqs--hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-two-sorted-linked-lists",
+      "video": "https://www.youtube.com/watch?v=Xb4slcp1U38&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=29",
+      "premium": false,
+      "duration": "18 min",
+      "slug": "merge-sorted-lists-",
+      "lcSlug": "merge-two-sorted-lists"
+    },
+    {
+      "id": "a2z-612",
+      "order": 201,
+      "title": "Flattening of LL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Hard)",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "altUrls": [
+        {
+          "platform": "gfg",
+          "url": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1"
+        },
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/flattening-of-ll?category=faqs--hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/ykelywHJWLg?si=InMg9MmTHzY22NSR",
+      "premium": false,
+      "duration": "33 min",
+      "slug": "flattening-of-ll",
+      "lcSlug": "merge-k-sorted-lists"
+    },
+    {
+      "id": "a2z-616",
+      "order": 202,
+      "title": "Sort LL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Hard)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/sort-list/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/sort-ll?category=faqs--hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-a-linked-list-using-merge-sort",
+      "video": "https://youtu.be/8ocB7a_c-Cc?si=Gv-Y8q8-WyARoV35",
+      "premium": false,
+      "duration": "22 min",
+      "slug": "sort-ll",
+      "lcSlug": "sort-list"
+    },
+    {
+      "id": "a2z-611",
+      "order": 203,
+      "title": "Clone a LL with random and next pointer",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQs (Hard)",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/clone-a-ll-with-random-and-next-pointer?category=faqs--hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/clone-linked-list-random-pointer",
+      "video": "https://youtu.be/q570bKdrnlw?si=epZtpWvtNwuTf23o",
+      "premium": false,
+      "duration": "33 min",
+      "slug": "clone-a-ll-with-random-and-next-pointer",
+      "lcSlug": "copy-list-with-random-pointer"
+    },
+    {
+      "id": "a2z-609",
+      "order": 204,
+      "title": "Delete all occurrences of a key in DLL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQS (DLL)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/delete-all-occurrences-of-a-key-in-dll?category=faqs--dll&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/delete-all-occurrences-of-a-key-in-a-doubly-linked-list",
+      "video": "https://youtu.be/Mh0NH_SD92k?si=tCYshBRi1upMqSVz",
+      "premium": false,
+      "duration": "11 min",
+      "slug": "delete-all-occurrences-of-a-key-in-dll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-610",
+      "order": 205,
+      "title": "Remove duplicates from sorted DLL",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQS (DLL)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/remove-duplicated-from-sorted-dll?category=faqs--dll&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/remove-duplicates-from-a-sorted-doubly-linked-list",
+      "video": "https://youtu.be/YJKVTnOJXSY?si=AsZoNUoewetsBjr0",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "remove-duplicated-from-sorted-dll",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-452",
+      "order": 206,
+      "title": "Find Pairs with Given Sum in Doubly Linked List",
+      "step": 8,
+      "stepTitle": "Linked-List",
+      "topic": "FAQS (DLL)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/find-pairs-with-given-sum-in-doubly-linked-list?category=faqs--dll&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/YitR4dQsddE?si=iZAC259hdngV_OxC",
+      "premium": false,
+      "duration": "",
+      "slug": "find-pairs-with-given-sum-in-doubly-linked-list",
+      "lcSlug": ""
+    }
+  ]
+}

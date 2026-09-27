@@ -1,0 +1,358 @@
+{
+  "topic": "Greedy Algorithms",
+  "slug": "greedy-algorithms",
+  "step": 10,
+  "problemCount": 14,
+  "problems": [
+    {
+      "id": "a2z-541",
+      "order": 219,
+      "title": "Assign Cookies",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Easy",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/assign-cookies/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/assign-cookies?category=easy&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/DIX2p7vb9co?si=GofAIDimue-Av0Fi",
+      "premium": false,
+      "duration": "10 min",
+      "slug": "assign-cookies",
+      "lcSlug": "assign-cookies"
+    },
+    {
+      "id": "a2z-543",
+      "order": 220,
+      "title": "Lemonade Change",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Easy",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/lemonade-change/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/lemonade-change?category=easy&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/lemonade-change",
+      "video": "https://youtu.be/n_tmibEhO6Q?si=q1NW8MfPy0QU6fIl",
+      "premium": false,
+      "duration": "9 min",
+      "slug": "lemonade-change",
+      "lcSlug": "lemonade-change"
+    },
+    {
+      "id": "a2z-489",
+      "order": 221,
+      "title": "Fractional Knapsack",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Easy",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/fractional-knapsack?category=easy&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/1ibsQrnuEEg?si=8R2By3wpHo0zZVHE",
+      "premium": false,
+      "duration": "",
+      "slug": "fractional-knapsack",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-542",
+      "order": 222,
+      "title": "Jump Game - I",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Easy",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/jump-game/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/jump-game---i?category=easy&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/jump-game",
+      "video": "https://youtu.be/tZAa_jJ3SwQ?si=voKd7n9VTLDRRNzJ",
+      "premium": false,
+      "duration": "10 min",
+      "slug": "jump-game---i",
+      "lcSlug": "jump-game"
+    },
+    {
+      "id": "a2z-551",
+      "order": 223,
+      "title": "Shortest Job First",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Scheduling and Interval Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/shortest-job-first/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/shortest-job-first?category=scheduling-and-interval-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/3-QbX1iDbXs?si=IH8QZUblr01F7UoQ",
+      "premium": false,
+      "duration": "7 min",
+      "slug": "shortest-job-first",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-547",
+      "order": 224,
+      "title": "Job sequencing Problem",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Scheduling and Interval Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/job-sequencing-problem?category=scheduling-and-interval-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/job-sequencing-problem",
+      "video": "https://youtu.be/QbwltemZbRg?si=wvcemJ5BLPlTRmkG",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "job-sequencing-problem",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-549",
+      "order": 225,
+      "title": "N meetings in one room",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Scheduling and Interval Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/n-meetings-in-one-room?category=scheduling-and-interval-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/n-meetings-in-one-room",
+      "video": "https://youtu.be/mKfhTotEguk?si=2RELeq18mpmIIN3Q",
+      "premium": false,
+      "duration": "13 min",
+      "slug": "n-meetings-in-one-room",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-550",
+      "order": 226,
+      "title": "Non-overlapping Intervals",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Scheduling and Interval Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/non-overlapping-intervals?category=scheduling-and-interval-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/non-overlapping-intervals",
+      "video": "https://youtu.be/HDHQ8lAWakY?si=JVtLqboGdpUTOVjf",
+      "premium": false,
+      "duration": "8 min",
+      "slug": "non-overlapping-intervals",
+      "lcSlug": "non-overlapping-intervals"
+    },
+    {
+      "id": "a2z-546",
+      "order": 227,
+      "title": "Insert Interval",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Scheduling and Interval Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/insert-interval/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/insert-interval?category=scheduling-and-interval-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-interval",
+      "video": "https://youtu.be/xxRE-46OCC8?si=a7aPuIw16zDx2lAa",
+      "premium": false,
+      "duration": "13 min",
+      "slug": "insert-interval",
+      "lcSlug": "insert-interval"
+    },
+    {
+      "id": "a2z-712",
+      "order": 228,
+      "title": "Merge Intervals",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Scheduling and Interval Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/merge-intervals/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/merge-intervals?category=scheduling-and-interval-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=2JzRBPFYbKE&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=6",
+      "premium": false,
+      "duration": "",
+      "slug": "merge-intervals",
+      "lcSlug": "merge-intervals"
+    },
+    {
+      "id": "a2z-548",
+      "order": 229,
+      "title": "Minimum number of platforms required for a railway",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Scheduling and Interval Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/minimum-number-of-platforms-required-for-a-railway?category=scheduling-and-interval-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-platforms-required-for-a-railway-station",
+      "video": "https://youtu.be/AsGzwR_FWok?si=165acXU_dtqOHuo9",
+      "premium": false,
+      "duration": "18 min",
+      "slug": "minimum-number-of-platforms-required-for-a-railway",
+      "lcSlug": "divide-intervals-into-minimum-number-of-groups"
+    },
+    {
+      "id": "a2z-545",
+      "order": 230,
+      "title": "Valid Paranthesis Checker",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Hard",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/valid-paranthesis-checker?category=hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/cHT6sG_hUZI?si=XRHeyh7jOaLaTy3g",
+      "premium": false,
+      "duration": "25 min",
+      "slug": "valid-paranthesis-checker",
+      "lcSlug": "valid-parenthesis-string"
+    },
+    {
+      "id": "a2z-544",
+      "order": 231,
+      "title": "Candy",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Hard",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/candy/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/candy?category=hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/candy-distribution-problem",
+      "video": "https://youtu.be/IIqVFvKE6RY?si=EjmuXZJNLQLUkEd7",
+      "premium": false,
+      "duration": "30 min",
+      "slug": "candy",
+      "lcSlug": "candy"
+    },
+    {
+      "id": "a2z-595",
+      "order": 232,
+      "title": "Jump Game II",
+      "step": 10,
+      "stepTitle": "Greedy Algorithms",
+      "topic": "Hard",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/jump-game-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/jump-game-ii?category=hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/jump-game-ii-minimum-jumps",
+      "video": "https://youtu.be/7SBVnw7GSTk?si=9uUouBELh9K3m2jZ",
+      "premium": false,
+      "duration": "",
+      "slug": "jump-game-ii",
+      "lcSlug": "jump-game-ii"
+    }
+  ]
+}

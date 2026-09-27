@@ -1,0 +1,166 @@
+{
+  "topic": "Tries",
+  "slug": "tries",
+  "step": 18,
+  "problemCount": 6,
+  "problems": [
+    {
+      "id": "a2z-1028",
+      "order": 431,
+      "title": "Trie Implementation and Operations",
+      "step": 18,
+      "stepTitle": "Tries",
+      "topic": "Theory",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/trie-implementation-and-operations?category=triessubc&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/trie-implementation",
+      "video": "https://www.youtube.com/watch?v=dBGUmUQhjaM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp",
+      "premium": false,
+      "duration": "30 min",
+      "slug": "trie-implementation-and-operations",
+      "lcSlug": "implement-trie-prefix-tree"
+    },
+    {
+      "id": "a2z-1027",
+      "order": 432,
+      "title": "Trie Implementation and Advanced Operations",
+      "step": 18,
+      "stepTitle": "Tries",
+      "topic": "Theory",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/implement-trie-ii-prefix-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/trie-implementation-and-advanced-operations?category=triessubc&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/trie-ii-count-words-erase",
+      "video": null,
+      "premium": true,
+      "duration": "22 min",
+      "slug": "trie-implementation-and-advanced-operations",
+      "lcSlug": "implement-trie-ii-prefix-tree"
+    },
+    {
+      "id": "a2z-1023",
+      "order": 433,
+      "title": "Longest Word with All Prefixes",
+      "step": 18,
+      "stepTitle": "Tries",
+      "topic": "Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/longest-word-with-all-prefixes/",
+      "altUrls": [
+        {
+          "platform": "gfg",
+          "url": "https://www.geeksforgeeks.org/problems/longest-valid-word-with-all-prefixes/1"
+        },
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-word-with-all-prefixes?category=problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=AWnBa91lThI&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=3",
+      "premium": true,
+      "duration": "25 min",
+      "slug": "longest-word-with-all-prefixes",
+      "lcSlug": "longest-word-with-all-prefixes"
+    },
+    {
+      "id": "a2z-1026",
+      "order": 434,
+      "title": "Number of distinct substrings in a string",
+      "step": 18,
+      "stepTitle": "Tries",
+      "topic": "Problems",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/",
+      "altUrls": [
+        {
+          "platform": "gfg",
+          "url": "https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1"
+        },
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/number-of-distinct-substrings-in-a-string?category=problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=RV0QeTyHZxo&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=4",
+      "premium": true,
+      "duration": "17 min",
+      "slug": "number-of-distinct-substrings-in-a-string",
+      "lcSlug": "number-of-distinct-substrings-in-a-string"
+    },
+    {
+      "id": "a2z-1024",
+      "order": 435,
+      "title": "Maximum XOR of two numbers in an array",
+      "step": 18,
+      "stepTitle": "Tries",
+      "topic": "Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/maximum-xor-of-two-numbers-in-an-array?category=problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-xor-of-two-numbers-in-an-array",
+      "video": "https://www.youtube.com/watch?v=EIhAwfHubE8&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=6",
+      "premium": false,
+      "duration": "34 min",
+      "slug": "maximum-xor-of-two-numbers-in-an-array",
+      "lcSlug": "maximum-xor-of-two-numbers-in-an-array"
+    },
+    {
+      "id": "a2z-1025",
+      "order": 436,
+      "title": "Maximum Xor with an element from an array",
+      "step": 18,
+      "stepTitle": "Tries",
+      "topic": "Problems",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/maximum-xor-with-an-element-from-an-array?category=problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-xor-queries-trie",
+      "video": "https://www.youtube.com/watch?v=Q8LhG9Pi5KM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=7",
+      "premium": false,
+      "duration": "23 min",
+      "slug": "maximum-xor-with-an-element-from-an-array",
+      "lcSlug": "maximum-xor-with-an-element-from-array"
+    }
+  ]
+}

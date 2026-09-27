@@ -1,0 +1,180 @@
+{
+  "category": "Advanced Techniques",
+  "problems": [
+    {
+      "id": "1628",
+      "name": "Meet in the Middle",
+      "url": "https://cses.fi/problemset/task/1628",
+      "solved": 8481,
+      "submissions": 11345
+    },
+    {
+      "id": "2136",
+      "name": "Hamming Distance",
+      "url": "https://cses.fi/problemset/task/2136",
+      "solved": 3724,
+      "submissions": 4062
+    },
+    {
+      "id": "3360",
+      "name": "Corner Subgrid Check",
+      "url": "https://cses.fi/problemset/task/3360",
+      "solved": 352,
+      "submissions": 731
+    },
+    {
+      "id": "2137",
+      "name": "Corner Subgrid Count",
+      "url": "https://cses.fi/problemset/task/2137",
+      "solved": 2524,
+      "submissions": 2870
+    },
+    {
+      "id": "2138",
+      "name": "Reachable Nodes",
+      "url": "https://cses.fi/problemset/task/2138",
+      "solved": 2643,
+      "submissions": 2828
+    },
+    {
+      "id": "2143",
+      "name": "Reachability Queries",
+      "url": "https://cses.fi/problemset/task/2143",
+      "solved": 1780,
+      "submissions": 2082
+    },
+    {
+      "id": "2072",
+      "name": "Cut and Paste",
+      "url": "https://cses.fi/problemset/task/2072",
+      "solved": 1826,
+      "submissions": 2013
+    },
+    {
+      "id": "2073",
+      "name": "Substring Reversals",
+      "url": "https://cses.fi/problemset/task/2073",
+      "solved": 1614,
+      "submissions": 1739
+    },
+    {
+      "id": "2074",
+      "name": "Reversals and Sums",
+      "url": "https://cses.fi/problemset/task/2074",
+      "solved": 1641,
+      "submissions": 1751
+    },
+    {
+      "id": "2076",
+      "name": "Necessary Roads",
+      "url": "https://cses.fi/problemset/task/2076",
+      "solved": 2367,
+      "submissions": 2427
+    },
+    {
+      "id": "2077",
+      "name": "Necessary Cities",
+      "url": "https://cses.fi/problemset/task/2077",
+      "solved": 2201,
+      "submissions": 2295
+    },
+    {
+      "id": "2078",
+      "name": "Eulerian Subgraphs",
+      "url": "https://cses.fi/problemset/task/2078",
+      "solved": 935,
+      "submissions": 984
+    },
+    {
+      "id": "2084",
+      "name": "Monster Game I",
+      "url": "https://cses.fi/problemset/task/2084",
+      "solved": 1415,
+      "submissions": 1563
+    },
+    {
+      "id": "2085",
+      "name": "Monster Game II",
+      "url": "https://cses.fi/problemset/task/2085",
+      "solved": 1241,
+      "submissions": 1323
+    },
+    {
+      "id": "2086",
+      "name": "Subarray Squares",
+      "url": "https://cses.fi/problemset/task/2086",
+      "solved": 1772,
+      "submissions": 2047
+    },
+    {
+      "id": "2087",
+      "name": "Houses and Schools",
+      "url": "https://cses.fi/problemset/task/2087",
+      "solved": 961,
+      "submissions": 1133
+    },
+    {
+      "id": "2088",
+      "name": "Knuth Division",
+      "url": "https://cses.fi/problemset/task/2088",
+      "solved": 1142,
+      "submissions": 1280
+    },
+    {
+      "id": "2111",
+      "name": "Apples and Bananas",
+      "url": "https://cses.fi/problemset/task/2111",
+      "solved": 1347,
+      "submissions": 1454
+    },
+    {
+      "id": "2112",
+      "name": "One Bit Positions",
+      "url": "https://cses.fi/problemset/task/2112",
+      "solved": 1012,
+      "submissions": 1100
+    },
+    {
+      "id": "2113",
+      "name": "Signal Processing",
+      "url": "https://cses.fi/problemset/task/2113",
+      "solved": 1006,
+      "submissions": 1075
+    },
+    {
+      "id": "2101",
+      "name": "New Roads Queries",
+      "url": "https://cses.fi/problemset/task/2101",
+      "solved": 2675,
+      "submissions": 3198
+    },
+    {
+      "id": "2133",
+      "name": "Dynamic Connectivity",
+      "url": "https://cses.fi/problemset/task/2133",
+      "solved": 1225,
+      "submissions": 1367
+    },
+    {
+      "id": "2121",
+      "name": "Parcel Delivery",
+      "url": "https://cses.fi/problemset/task/2121",
+      "solved": 969,
+      "submissions": 1055
+    },
+    {
+      "id": "2129",
+      "name": "Task Assignment",
+      "url": "https://cses.fi/problemset/task/2129",
+      "solved": 1116,
+      "submissions": 1202
+    },
+    {
+      "id": "2130",
+      "name": "Distinct Routes II",
+      "url": "https://cses.fi/problemset/task/2130",
+      "solved": 742,
+      "submissions": 833
+    }
+  ]
+}

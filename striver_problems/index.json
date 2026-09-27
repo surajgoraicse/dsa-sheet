@@ -1,0 +1,281 @@
+{
+  "title": "Striver's A2Z DSA Sheet - Topic Index",
+  "totalProblems": 447,
+  "totalTopics": 20,
+  "topics": [
+    {
+      "step": 1,
+      "title": "Beginner Problems",
+      "slug": "beginner-problems",
+      "file": "beginner-problems.json",
+      "problemCount": 60,
+      "subcategoryCount": 6,
+      "subcategories": [
+        "Patterns",
+        "Basic Maths",
+        "Basic Arrays",
+        "Basic Hashing",
+        "Basic Strings",
+        "Basic Recursion"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Sorting",
+      "slug": "sorting",
+      "file": "sorting.json",
+      "problemCount": 7,
+      "subcategoryCount": 1,
+      "subcategories": [
+        "Algorithms"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Arrays",
+      "slug": "arrays",
+      "file": "arrays.json",
+      "problemCount": 32,
+      "subcategoryCount": 4,
+      "subcategories": [
+        "Fundamentals",
+        "Logic Building",
+        "FAQs(Medium)",
+        "FAQs(Hard)"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Hashing",
+      "slug": "hashing",
+      "file": "hashing.json",
+      "problemCount": 5,
+      "subcategoryCount": 1,
+      "subcategories": [
+        "FAQs"
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "file": "binary-search.json",
+      "problemCount": 32,
+      "subcategoryCount": 5,
+      "subcategories": [
+        "Fundamentals",
+        "Logic Building",
+        "On answers",
+        "FAQs",
+        "2D Arrays"
+      ]
+    },
+    {
+      "step": 6,
+      "title": "Strings (Basic and Medium)",
+      "slug": "strings-basic-medium",
+      "file": "strings-basic-medium.json",
+      "problemCount": 6,
+      "subcategoryCount": 3,
+      "subcategories": [
+        "Parentheses",
+        "String Conversions",
+        "Substring Problems"
+      ]
+    },
+    {
+      "step": 7,
+      "title": "Recursion",
+      "slug": "recursion",
+      "file": "recursion.json",
+      "problemCount": 21,
+      "subcategoryCount": 5,
+      "subcategories": [
+        "Implementation Problems",
+        "Subsequence Pattern Problems",
+        "FAQs (Medium)",
+        "Hard",
+        "FAQs (Hard)"
+      ]
+    },
+    {
+      "step": 8,
+      "title": "Linked-List",
+      "slug": "linked-list",
+      "file": "linked-list.json",
+      "problemCount": 43,
+      "subcategoryCount": 6,
+      "subcategories": [
+        "Fundamentals (Single LL)",
+        "Fundamentals (Doubly LL)",
+        "Logic Building",
+        "FAQs (Medium)",
+        "FAQs (Hard)",
+        "FAQS (DLL)"
+      ]
+    },
+    {
+      "step": 9,
+      "title": "Bit Manipulation",
+      "slug": "bit-manipulation",
+      "file": "bit-manipulation.json",
+      "problemCount": 12,
+      "subcategoryCount": 2,
+      "subcategories": [
+        "Bit Fundamentals",
+        "Problems"
+      ]
+    },
+    {
+      "step": 10,
+      "title": "Greedy Algorithms",
+      "slug": "greedy-algorithms",
+      "file": "greedy-algorithms.json",
+      "problemCount": 14,
+      "subcategoryCount": 3,
+      "subcategories": [
+        "Easy",
+        "Scheduling and Interval Problems",
+        "Hard"
+      ]
+    },
+    {
+      "step": 11,
+      "title": "Sliding Window / 2 Pointer",
+      "slug": "sliding-window-2-pointer",
+      "file": "sliding-window-2-pointer.json",
+      "problemCount": 12,
+      "subcategoryCount": 3,
+      "subcategories": [
+        "Constant Window",
+        "Longest and Smallest Window Problems",
+        "Counting Subarrays / Substrings Problems"
+      ]
+    },
+    {
+      "step": 12,
+      "title": "Stack / Queues",
+      "slug": "stack-queues",
+      "file": "stack-queues.json",
+      "problemCount": 30,
+      "subcategoryCount": 4,
+      "subcategories": [
+        "Implementation",
+        "Prefix, Infix and Postfix Conversions",
+        "Monotonic Stack",
+        "FAQs"
+      ]
+    },
+    {
+      "step": 13,
+      "title": "Binary Trees",
+      "slug": "binary-trees",
+      "file": "binary-trees.json",
+      "problemCount": 31,
+      "subcategoryCount": 5,
+      "subcategories": [
+        "Theory/Traversals",
+        "Medium Problems",
+        "FAQs",
+        "Construction Problems",
+        "Traversal in Constant Space"
+      ]
+    },
+    {
+      "step": 14,
+      "title": "Binary Search Trees",
+      "slug": "binary-search-trees",
+      "file": "binary-search-trees.json",
+      "problemCount": 13,
+      "subcategoryCount": 3,
+      "subcategories": [
+        "Theory and Basics",
+        "Medium",
+        "FAQs"
+      ]
+    },
+    {
+      "step": 15,
+      "title": "Heaps",
+      "slug": "heaps",
+      "file": "heaps.json",
+      "problemCount": 18,
+      "subcategoryCount": 2,
+      "subcategories": [
+        "Theory and Implementation",
+        "FAQs"
+      ]
+    },
+    {
+      "step": 16,
+      "title": "Graphs",
+      "slug": "graphs",
+      "file": "graphs.json",
+      "problemCount": 44,
+      "subcategoryCount": 8,
+      "subcategories": [
+        "Theory and traversals",
+        "Traversal Problems",
+        "Cycles",
+        "Hard Problems",
+        "Shortest Path Algorithms",
+        "Minimum Spanning Tree",
+        "Hard Problems II",
+        "Additional Algorithms"
+      ]
+    },
+    {
+      "step": 17,
+      "title": "Dynamic Programming",
+      "slug": "dp",
+      "file": "dp.json",
+      "problemCount": 50,
+      "subcategoryCount": 8,
+      "subcategories": [
+        "1D DP",
+        "2D DP",
+        "DP on grids",
+        "DP on stocks",
+        "DP on subsequences",
+        "LIS",
+        "DP on strings",
+        "MCM DP"
+      ]
+    },
+    {
+      "step": 18,
+      "title": "Tries",
+      "slug": "tries",
+      "file": "tries.json",
+      "problemCount": 6,
+      "subcategoryCount": 2,
+      "subcategories": [
+        "Theory",
+        "Problems"
+      ]
+    },
+    {
+      "step": 19,
+      "title": "Strings (Advanced Algo)",
+      "slug": "strings-advanced-algo",
+      "file": "strings-advanced-algo.json",
+      "problemCount": 8,
+      "subcategoryCount": 2,
+      "subcategories": [
+        "Medium Problems",
+        "Advanced Problems (Less asked)"
+      ]
+    },
+    {
+      "step": 20,
+      "title": "Maths",
+      "slug": "maths",
+      "file": "maths.json",
+      "problemCount": 3,
+      "subcategoryCount": 1,
+      "subcategories": [
+        "Sieve of Eratosthenes"
+      ]
+    }
+  ]
+}

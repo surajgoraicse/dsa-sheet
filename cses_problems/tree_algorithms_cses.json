@@ -1,0 +1,117 @@
+{
+  "category": "Tree Algorithms",
+  "problems": [
+    {
+      "id": "1674",
+      "name": "Subordinates",
+      "url": "https://cses.fi/problemset/task/1674",
+      "solved": 37581,
+      "submissions": 40074
+    },
+    {
+      "id": "1130",
+      "name": "Tree Matching",
+      "url": "https://cses.fi/problemset/task/1130",
+      "solved": 21845,
+      "submissions": 25093
+    },
+    {
+      "id": "1131",
+      "name": "Tree Diameter",
+      "url": "https://cses.fi/problemset/task/1131",
+      "solved": 30815,
+      "submissions": 32498
+    },
+    {
+      "id": "1132",
+      "name": "Tree Distances I",
+      "url": "https://cses.fi/problemset/task/1132",
+      "solved": 23962,
+      "submissions": 25576
+    },
+    {
+      "id": "1133",
+      "name": "Tree Distances II",
+      "url": "https://cses.fi/problemset/task/1133",
+      "solved": 19557,
+      "submissions": 20411
+    },
+    {
+      "id": "1687",
+      "name": "Company Queries I",
+      "url": "https://cses.fi/problemset/task/1687",
+      "solved": 21977,
+      "submissions": 23039
+    },
+    {
+      "id": "1688",
+      "name": "Company Queries II",
+      "url": "https://cses.fi/problemset/task/1688",
+      "solved": 20555,
+      "submissions": 21553
+    },
+    {
+      "id": "1135",
+      "name": "Distance Queries",
+      "url": "https://cses.fi/problemset/task/1135",
+      "solved": 18520,
+      "submissions": 19762
+    },
+    {
+      "id": "1136",
+      "name": "Counting Paths",
+      "url": "https://cses.fi/problemset/task/1136",
+      "solved": 11751,
+      "submissions": 12379
+    },
+    {
+      "id": "1137",
+      "name": "Subtree Queries",
+      "url": "https://cses.fi/problemset/task/1137",
+      "solved": 13748,
+      "submissions": 14588
+    },
+    {
+      "id": "1138",
+      "name": "Path Queries",
+      "url": "https://cses.fi/problemset/task/1138",
+      "solved": 11103,
+      "submissions": 11696
+    },
+    {
+      "id": "2134",
+      "name": "Path Queries II",
+      "url": "https://cses.fi/problemset/task/2134",
+      "solved": 4669,
+      "submissions": 6798
+    },
+    {
+      "id": "1139",
+      "name": "Distinct Colors",
+      "url": "https://cses.fi/problemset/task/1139",
+      "solved": 10631,
+      "submissions": 11616
+    },
+    {
+      "id": "2079",
+      "name": "Finding a Centroid",
+      "url": "https://cses.fi/problemset/task/2079",
+      "solved": 8633,
+      "submissions": 8965
+    },
+    {
+      "id": "2080",
+      "name": "Fixed-Length Paths I",
+      "url": "https://cses.fi/problemset/task/2080",
+      "solved": 4338,
+      "submissions": 5425
+    },
+    {
+      "id": "2081",
+      "name": "Fixed-Length Paths II",
+      "url": "https://cses.fi/problemset/task/2081",
+      "solved": 2136,
+      "submissions": 3670
+    }
+  ]
+}

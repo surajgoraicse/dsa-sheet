@@ -1,0 +1,215 @@
+{
+  "category": "Additional Problems II",
+  "problems": [
+    {
+      "id": "3215",
+      "name": "Bouncing Ball Steps",
+      "url": "https://cses.fi/problemset/task/3215",
+      "solved": 328,
+      "submissions": 362
+    },
+    {
+      "id": "3216",
+      "name": "Bouncing Ball Cycle",
+      "url": "https://cses.fi/problemset/task/3216",
+      "solved": 138,
+      "submissions": 187
+    },
+    {
+      "id": "3218",
+      "name": "Knight Moves Queries",
+      "url": "https://cses.fi/problemset/task/3218",
+      "solved": 169,
+      "submissions": 202
+    },
+    {
+      "id": "3108",
+      "name": "K Subset Sums I",
+      "url": "https://cses.fi/problemset/task/3108",
+      "solved": 269,
+      "submissions": 333
+    },
+    {
+      "id": "3109",
+      "name": "K Subset Sums II",
+      "url": "https://cses.fi/problemset/task/3109",
+      "solved": 160,
+      "submissions": 199
+    },
+    {
+      "id": "2132",
+      "name": "Increasing Array II",
+      "url": "https://cses.fi/problemset/task/2132",
+      "solved": 929,
+      "submissions": 1060
+    },
+    {
+      "id": "1189",
+      "name": "Food Division",
+      "url": "https://cses.fi/problemset/task/1189",
+      "solved": 586,
+      "submissions": 696
+    },
+    {
+      "id": "1698",
+      "name": "Swap Round Sorting",
+      "url": "https://cses.fi/problemset/task/1698",
+      "solved": 454,
+      "submissions": 563
+    },
+    {
+      "id": "2430",
+      "name": "Binary Subsequences",
+      "url": "https://cses.fi/problemset/task/2430",
+      "solved": 326,
+      "submissions": 468
+    },
+    {
+      "id": "1706",
+      "name": "School Excursion",
+      "url": "https://cses.fi/problemset/task/1706",
+      "solved": 1549,
+      "submissions": 1638
+    },
+    {
+      "id": "1709",
+      "name": "Coin Grid",
+      "url": "https://cses.fi/problemset/task/1709",
+      "solved": 1048,
+      "submissions": 1212
+    },
+    {
+      "id": "3312",
+      "name": "Grid Coloring II",
+      "url": "https://cses.fi/problemset/task/3312",
+      "solved": 178,
+      "submissions": 229
+    },
+    {
+      "id": "2426",
+      "name": "Programmers and Artists",
+      "url": "https://cses.fi/problemset/task/2426",
+      "solved": 571,
+      "submissions": 791
+    },
+    {
+      "id": "2174",
+      "name": "Removing Digits II",
+      "url": "https://cses.fi/problemset/task/2174",
+      "solved": 248,
+      "submissions": 523
+    },
+    {
+      "id": "2180",
+      "name": "Coin Arrangement",
+      "url": "https://cses.fi/problemset/task/2180",
+      "solved": 378,
+      "submissions": 500
+    },
+    {
+      "id": "3159",
+      "name": "Replace with Difference",
+      "url": "https://cses.fi/problemset/task/3159",
+      "solved": 182,
+      "submissions": 215
+    },
+    {
+      "id": "2432",
+      "name": "Grid Puzzle I",
+      "url": "https://cses.fi/problemset/task/2432",
+      "solved": 619,
+      "submissions": 677
+    },
+    {
+      "id": "2131",
+      "name": "Grid Puzzle II",
+      "url": "https://cses.fi/problemset/task/2131",
+      "solved": 601,
+      "submissions": 657
+    },
+    {
+      "id": "2115",
+      "name": "Bit Substrings",
+      "url": "https://cses.fi/problemset/task/2115",
+      "solved": 455,
+      "submissions": 548
+    },
+    {
+      "id": "2075",
+      "name": "Reversal Sorting",
+      "url": "https://cses.fi/problemset/task/2075",
+      "solved": 398,
+      "submissions": 479
+    },
+    {
+      "id": "1159",
+      "name": "Book Shop II",
+      "url": "https://cses.fi/problemset/task/1159",
+      "solved": 1452,
+      "submissions": 1655
+    },
+    {
+      "id": "3161",
+      "name": "GCD Subsets",
+      "url": "https://cses.fi/problemset/task/3161",
+      "solved": 537,
+      "submissions": 553
+    },
+    {
+      "id": "3402",
+      "name": "Minimum Cost Pairs",
+      "url": "https://cses.fi/problemset/task/3402",
+      "solved": 187,
+      "submissions": 233
+    },
+    {
+      "id": "3425",
+      "name": "Same Sum Subsets",
+      "url": "https://cses.fi/problemset/task/3425",
+      "solved": 163,
+      "submissions": 312
+    },
+    {
+      "id": "1157",
+      "name": "Mex Grid Queries",
+      "url": "https://cses.fi/problemset/task/1157",
+      "solved": 940,
+      "submissions": 1095
+    },
+    {
+      "id": "1148",
+      "name": "Maximum Building II",
+      "url": "https://cses.fi/problemset/task/1148",
+      "solved": 496,
+      "submissions": 608
+    },
+    {
+      "id": "1161",
+      "name": "Stick Divisions",
+      "url": "https://cses.fi/problemset/task/1161",
+      "solved": 4203,
+      "submissions": 4893
+    },
+    {
+      "id": "3401",
+      "name": "Stick Difference",
+      "url": "https://cses.fi/problemset/task/3401",
+      "solved": 110,
+      "submissions": 350
+    },
+    {
+      "id": "1665",
+      "name": "Coding Company",
+      "url": "https://cses.fi/problemset/task/1665",
+      "solved": 1685,
+      "submissions": 2196
+    },
+    {
+      "id": "2402",
+      "name": "Two Stacks Sorting",
+      "url": "https://cses.fi/problemset/task/2402",
+      "solved": 212,
+      "submissions": 649
+    }
+  ]
+}

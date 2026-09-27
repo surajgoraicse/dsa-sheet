@@ -1,0 +1,264 @@
+{
+  "category": "Mathematics",
+  "problems": [
+    {
+      "id": "2164",
+      "name": "Josephus Queries",
+      "url": "https://cses.fi/problemset/task/2164",
+      "solved": 5998,
+      "submissions": 7456
+    },
+    {
+      "id": "1095",
+      "name": "Exponentiation",
+      "url": "https://cses.fi/problemset/task/1095",
+      "solved": 29014,
+      "submissions": 30856
+    },
+    {
+      "id": "1712",
+      "name": "Exponentiation II",
+      "url": "https://cses.fi/problemset/task/1712",
+      "solved": 20246,
+      "submissions": 23968
+    },
+    {
+      "id": "1713",
+      "name": "Counting Divisors",
+      "url": "https://cses.fi/problemset/task/1713",
+      "solved": 26699,
+      "submissions": 30009
+    },
+    {
+      "id": "1081",
+      "name": "Common Divisors",
+      "url": "https://cses.fi/problemset/task/1081",
+      "solved": 17157,
+      "submissions": 19744
+    },
+    {
+      "id": "1082",
+      "name": "Sum of Divisors",
+      "url": "https://cses.fi/problemset/task/1082",
+      "solved": 9810,
+      "submissions": 14272
+    },
+    {
+      "id": "2182",
+      "name": "Divisor Analysis",
+      "url": "https://cses.fi/problemset/task/2182",
+      "solved": 6717,
+      "submissions": 8850
+    },
+    {
+      "id": "2185",
+      "name": "Prime Multiples",
+      "url": "https://cses.fi/problemset/task/2185",
+      "solved": 7825,
+      "submissions": 9027
+    },
+    {
+      "id": "2417",
+      "name": "Counting Coprime Pairs",
+      "url": "https://cses.fi/problemset/task/2417",
+      "solved": 5187,
+      "submissions": 5954
+    },
+    {
+      "id": "3396",
+      "name": "Next Prime",
+      "url": "https://cses.fi/problemset/task/3396",
+      "solved": 2838,
+      "submissions": 3218
+    },
+    {
+      "id": "1079",
+      "name": "Binomial Coefficients",
+      "url": "https://cses.fi/problemset/task/1079",
+      "solved": 12529,
+      "submissions": 13800
+    },
+    {
+      "id": "1715",
+      "name": "Creating Strings II",
+      "url": "https://cses.fi/problemset/task/1715",
+      "solved": 10374,
+      "submissions": 10913
+    },
+    {
+      "id": "1716",
+      "name": "Distributing Apples",
+      "url": "https://cses.fi/problemset/task/1716",
+      "solved": 9900,
+      "submissions": 10608
+    },
+    {
+      "id": "1717",
+      "name": "Christmas Party",
+      "url": "https://cses.fi/problemset/task/1717",
+      "solved": 8272,
+      "submissions": 8803
+    },
+    {
+      "id": "3397",
+      "name": "Permutation Order",
+      "url": "https://cses.fi/problemset/task/3397",
+      "solved": 1368,
+      "submissions": 1402
+    },
+    {
+      "id": "3398",
+      "name": "Permutation Rounds",
+      "url": "https://cses.fi/problemset/task/3398",
+      "solved": 2003,
+      "submissions": 2196
+    },
+    {
+      "id": "2064",
+      "name": "Bracket Sequences I",
+      "url": "https://cses.fi/problemset/task/2064",
+      "solved": 5516,
+      "submissions": 5973
+    },
+    {
+      "id": "2187",
+      "name": "Bracket Sequences II",
+      "url": "https://cses.fi/problemset/task/2187",
+      "solved": 2958,
+      "submissions": 3354
+    },
+    {
+      "id": "2209",
+      "name": "Counting Necklaces",
+      "url": "https://cses.fi/problemset/task/2209",
+      "solved": 2691,
+      "submissions": 2900
+    },
+    {
+      "id": "2210",
+      "name": "Counting Grids",
+      "url": "https://cses.fi/problemset/task/2210",
+      "solved": 2268,
+      "submissions": 2402
+    },
+    {
+      "id": "1722",
+      "name": "Fibonacci Numbers",
+      "url": "https://cses.fi/problemset/task/1722",
+      "solved": 8254,
+      "submissions": 10241
+    },
+    {
+      "id": "1096",
+      "name": "Throwing Dice",
+      "url": "https://cses.fi/problemset/task/1096",
+      "solved": 4325,
+      "submissions": 4676
+    },
+    {
+      "id": "1723",
+      "name": "Graph Paths I",
+      "url": "https://cses.fi/problemset/task/1723",
+      "solved": 4203,
+      "submissions": 4473
+    },
+    {
+      "id": "1724",
+      "name": "Graph Paths II",
+      "url": "https://cses.fi/problemset/task/1724",
+      "solved": 3523,
+      "submissions": 3686
+    },
+    {
+      "id": "3154",
+      "name": "System of Linear Equations",
+      "url": "https://cses.fi/problemset/task/3154",
+      "solved": 693,
+      "submissions": 746
+    },
+    {
+      "id": "3355",
+      "name": "Sum of Four Squares",
+      "url": "https://cses.fi/problemset/task/3355",
+      "solved": 991,
+      "submissions": 1179
+    },
+    {
+      "id": "3406",
+      "name": "Triangle Number Sums",
+      "url": "https://cses.fi/problemset/task/3406",
+      "solved": 873,
+      "submissions": 1039
+    },
+    {
+      "id": "1725",
+      "name": "Dice Probability",
+      "url": "https://cses.fi/problemset/task/1725",
+      "solved": 3708,
+      "submissions": 3976
+    },
+    {
+      "id": "1726",
+      "name": "Moving Robots",
+      "url": "https://cses.fi/problemset/task/1726",
+      "solved": 1927,
+      "submissions": 2027
+    },
+    {
+      "id": "1727",
+      "name": "Candy Lottery",
+      "url": "https://cses.fi/problemset/task/1727",
+      "solved": 2044,
+      "submissions": 3708
+    },
+    {
+      "id": "1728",
+      "name": "Inversion Probability",
+      "url": "https://cses.fi/problemset/task/1728",
+      "solved": 620,
+      "submissions": 2727
+    },
+    {
+      "id": "1729",
+      "name": "Stick Game",
+      "url": "https://cses.fi/problemset/task/1729",
+      "solved": 4227,
+      "submissions": 4324
+    },
+    {
+      "id": "1730",
+      "name": "Nim Game I",
+      "url": "https://cses.fi/problemset/task/1730",
+      "solved": 5647,
+      "submissions": 5852
+    },
+    {
+      "id": "1098",
+      "name": "Nim Game II",
+      "url": "https://cses.fi/problemset/task/1098",
+      "solved": 4471,
+      "submissions": 4641
+    },
+    {
+      "id": "1099",
+      "name": "Stair Game",
+      "url": "https://cses.fi/problemset/task/1099",
+      "solved": 3033,
+      "submissions": 3282
+    },
+    {
+      "id": "2207",
+      "name": "Grundy's Game",
+      "url": "https://cses.fi/problemset/task/2207",
+      "solved": 2122,
+      "submissions": 2775
+    },
+    {
+      "id": "2208",
+      "name": "Another Game",
+      "url": "https://cses.fi/problemset/task/2208",
+      "solved": 2399,
+      "submissions": 2573
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "category": "Additional Problems I",
+  "problems": [
+    {
+      "id": "1087",
+      "name": "Shortest Subsequence",
+      "url": "https://cses.fi/problemset/task/1087",
+      "solved": 3318,
+      "submissions": 4318
+    },
+    {
+      "id": "3150",
+      "name": "Distinct Values Sum",
+      "url": "https://cses.fi/problemset/task/3150",
+      "solved": 898,
+      "submissions": 922
+    },
+    {
+      "id": "3190",
+      "name": "Distinct Values Splits",
+      "url": "https://cses.fi/problemset/task/3190",
+      "solved": 631,
+      "submissions": 675
+    },
+    {
+      "id": "1670",
+      "name": "Swap Game",
+      "url": "https://cses.fi/problemset/task/1670",
+      "solved": 2284,
+      "submissions": 2913
+    },
+    {
+      "id": "3175",
+      "name": "Beautiful Permutation II",
+      "url": "https://cses.fi/problemset/task/3175",
+      "solved": 793,
+      "submissions": 1213
+    },
+    {
+      "id": "2422",
+      "name": "Multiplication Table",
+      "url": "https://cses.fi/problemset/task/2422",
+      "solved": 7910,
+      "submissions": 8776
+    },
+    {
+      "id": "3151",
+      "name": "Bubble Sort Rounds I",
+      "url": "https://cses.fi/problemset/task/3151",
+      "solved": 576,
+      "submissions": 651
+    },
+    {
+      "id": "3152",
+      "name": "Bubble Sort Rounds II",
+      "url": "https://cses.fi/problemset/task/3152",
+      "solved": 398,
+      "submissions": 444
+    },
+    {
+      "id": "3306",
+      "name": "Nearest Campsites I",
+      "url": "https://cses.fi/problemset/task/3306",
+      "solved": 250,
+      "submissions": 293
+    },
+    {
+      "id": "3307",
+      "name": "Nearest Campsites II",
+      "url": "https://cses.fi/problemset/task/3307",
+      "solved": 244,
+      "submissions": 263
+    },
+    {
+      "id": "1142",
+      "name": "Advertisement",
+      "url": "https://cses.fi/problemset/task/1142",
+      "solved": 4979,
+      "submissions": 5260
+    },
+    {
+      "id": "2186",
+      "name": "Special Substrings",
+      "url": "https://cses.fi/problemset/task/2186",
+      "solved": 1105,
+      "submissions": 1209
+    },
+    {
+      "id": "3169",
+      "name": "Counting LCM Arrays",
+      "url": "https://cses.fi/problemset/task/3169",
+      "solved": 387,
+      "submissions": 420
+    },
+    {
+      "id": "3193",
+      "name": "Square Subsets",
+      "url": "https://cses.fi/problemset/task/3193",
+      "solved": 301,
+      "submissions": 331
+    },
+    {
+      "id": "3294",
+      "name": "Subarray Sum Constraints",
+      "url": "https://cses.fi/problemset/task/3294",
+      "solved": 613,
+      "submissions": 652
+    },
+    {
+      "id": "3213",
+      "name": "Water Containers Moves",
+      "url": "https://cses.fi/problemset/task/3213",
+      "solved": 242,
+      "submissions": 256
+    },
+    {
+      "id": "3214",
+      "name": "Water Containers Queries",
+      "url": "https://cses.fi/problemset/task/3214",
+      "solved": 274,
+      "submissions": 289
+    },
+    {
+      "id": "2425",
+      "name": "Stack Weights",
+      "url": "https://cses.fi/problemset/task/2425",
+      "solved": 660,
+      "submissions": 788
+    },
+    {
+      "id": "3301",
+      "name": "Maximum Average Subarrays",
+      "url": "https://cses.fi/problemset/task/3301",
+      "solved": 234,
+      "submissions": 257
+    },
+    {
+      "id": "3302",
+      "name": "Subsets with Fixed Average",
+      "url": "https://cses.fi/problemset/task/3302",
+      "solved": 281,
+      "submissions": 306
+    },
+    {
+      "id": "3361",
+      "name": "Two Array Average",
+      "url": "https://cses.fi/problemset/task/3361",
+      "solved": 283,
+      "submissions": 314
+    },
+    {
+      "id": "1747",
+      "name": "Pyramid Array",
+      "url": "https://cses.fi/problemset/task/1747",
+      "solved": 885,
+      "submissions": 1065
+    },
+    {
+      "id": "3404",
+      "name": "Permutation Subsequence",
+      "url": "https://cses.fi/problemset/task/3404",
+      "solved": 327,
+      "submissions": 338
+    },
+    {
+      "id": "1188",
+      "name": "Bit Inversions",
+      "url": "https://cses.fi/problemset/task/1188",
+      "solved": 2612,
+      "submissions": 2931
+    },
+    {
+      "id": "1086",
+      "name": "Writing Numbers",
+      "url": "https://cses.fi/problemset/task/1086",
+      "solved": 820,
+      "submissions": 887
+    },
+    {
+      "id": "2427",
+      "name": "Letter Pair Move Game",
+      "url": "https://cses.fi/problemset/task/2427",
+      "solved": 239,
+      "submissions": 330
+    },
+    {
+      "id": "1147",
+      "name": "Maximum Building I",
+      "url": "https://cses.fi/problemset/task/1147",
+      "solved": 2300,
+      "submissions": 2401
+    },
+    {
+      "id": "1162",
+      "name": "Sorting Methods",
+      "url": "https://cses.fi/problemset/task/1162",
+      "solved": 855,
+      "submissions": 912
+    },
+    {
+      "id": "1191",
+      "name": "Cyclic Array",
+      "url": "https://cses.fi/problemset/task/1191",
+      "solved": 1402,
+      "submissions": 1578
+    },
+    {
+      "id": "2414",
+      "name": "List of Sums",
+      "url": "https://cses.fi/problemset/task/2414",
+      "solved": 550,
+      "submissions": 711
+    }
+  ]
+}

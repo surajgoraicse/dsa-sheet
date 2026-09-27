@@ -1,0 +1,308 @@
+{
+  "topic": "Sliding Window / 2 Pointer",
+  "slug": "sliding-window-2-pointer",
+  "step": 11,
+  "problemCount": 12,
+  "problems": [
+    {
+      "id": "a2z-922",
+      "order": 233,
+      "title": "Maximum Points You Can Obtain from Cards",
+      "step": 11,
+      "stepTitle": "Sliding Window / 2 Pointer",
+      "topic": "Constant Window",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/maximum-points-you-can-obtain-from-cards-?category=constant-window&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-points-you-can-obtain-from-cards",
+      "video": "https://youtu.be/pBWCOCS636U?si=-X64rY67noxvOwrG",
+      "premium": false,
+      "duration": "11 min",
+      "slug": "maximum-points-you-can-obtain-from-cards-",
+      "lcSlug": "maximum-points-you-can-obtain-from-cards"
+    },
+    {
+      "id": "a2z-929",
+      "order": 234,
+      "title": "Longest Substring Without Repeating Characters",
+      "step": 11,
+      "stepTitle": "Sliding Window / 2 Pointer",
+      "topic": "Longest and Smallest Window Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-substring-without-repeating-characters?category=longest-and-smallest-window-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/-zSxTJkcdAo?si=I2zfR-vlDMg0zU9z",
+      "premium": false,
+      "duration": "22 min",
+      "slug": "longest-substring-without-repeating-characters",
+      "lcSlug": "longest-substring-without-repeating-characters"
+    },
+    {
+      "id": "a2z-930",
+      "order": 235,
+      "title": "Max Consecutive Ones III",
+      "step": 11,
+      "stepTitle": "Sliding Window / 2 Pointer",
+      "topic": "Longest and Smallest Window Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/max-consecutive-ones-iii?category=longest-and-smallest-window-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/max-consecutive-ones-iii",
+      "video": "https://youtu.be/3E4JBHSLpYk?si=SoOW64pP6otEKxBw",
+      "premium": false,
+      "duration": "29 min",
+      "slug": "max-consecutive-ones-iii",
+      "lcSlug": "max-consecutive-ones-iii"
+    },
+    {
+      "id": "a2z-926",
+      "order": 236,
+      "title": "Fruit Into Baskets",
+      "step": 11,
+      "stepTitle": "Sliding Window / 2 Pointer",
+      "topic": "Longest and Smallest Window Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/fruit-into-baskets/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/fruit-into-baskets?category=longest-and-smallest-window-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/fruit-into-baskets",
+      "video": "https://youtu.be/e3bs0uA1NhQ?si=gR8pO62u-nJeFAXk",
+      "premium": false,
+      "duration": "29 min",
+      "slug": "fruit-into-baskets",
+      "lcSlug": "fruit-into-baskets"
+    },
+    {
+      "id": "a2z-928",
+      "order": 237,
+      "title": "Longest Substring With At Most K Distinct Characters",
+      "step": 11,
+      "stepTitle": "Sliding Window / 2 Pointer",
+      "topic": "Longest and Smallest Window Problems",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-substring-with-at-most-k-distinct-characters?category=longest-and-smallest-window-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-substring-with-at-most-k-distinct-characters",
+      "video": "https://youtu.be/teM9ZsVRQyc?si=Kh0_u6aCkkBU3Q33",
+      "premium": true,
+      "duration": "21 min",
+      "slug": "longest-substring-with-at-most-k-distinct-characters",
+      "lcSlug": "longest-substring-with-at-most-k-distinct-characters"
+    },
+    {
+      "id": "a2z-927",
+      "order": 238,
+      "title": "Longest Repeating Character Replacement",
+      "step": 11,
+      "stepTitle": "Sliding Window / 2 Pointer",
+      "topic": "Longest and Smallest Window Problems",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-repeating-character-replacement?category=longest-and-smallest-window-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-repeating-character-replacement",
+      "video": "https://youtu.be/_eNhaDCr6P0?si=pBWcEjozF5poom0p",
+      "premium": false,
+      "duration": "25 min",
+      "slug": "longest-repeating-character-replacement",
+      "lcSlug": "longest-repeating-character-replacement"
+    },
+    {
+      "id": "a2z-931",
+      "order": 239,
+      "title": "Minimum Window Substring",
+      "step": 11,
+      "stepTitle": "Sliding Window / 2 Pointer",
+      "topic": "Longest and Smallest Window Problems",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/minimum-window-substring/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/minimum-window-substring-?category=longest-and-smallest-window-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/WJaij9ffOIY?si=-xnsWIH84zWU0ICd",
+      "premium": false,
+      "duration": "26 min",
+      "slug": "minimum-window-substring-",
+      "lcSlug": "minimum-window-substring"
+    },
+    {
+      "id": "a2z-754",
+      "order": 240,
+      "title": "Minimum Window Subsequence",
+      "step": 11,
+      "stepTitle": "Sliding Window / 2 Pointer",
+      "topic": "Longest and Smallest Window Problems",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/minimum-window-subsequence/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/minimum-window-subsequence?category=longest-and-smallest-window-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": true,
+      "duration": "",
+      "slug": "minimum-window-subsequence",
+      "lcSlug": "minimum-window-subsequence"
+    },
+    {
+      "id": "a2z-925",
+      "order": 241,
+      "title": "Number of Substrings Containing All Three Characters",
+      "step": 11,
+      "stepTitle": "Sliding Window / 2 Pointer",
+      "topic": "Counting Subarrays / Substrings Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/number-of-substrings-containing-all-three-characters?category=counting-subarrays-and-substrings-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-substrings-containing-all-three-characters-a-b-and-c",
+      "video": "https://youtu.be/xtqN4qlgr8s?si=kuaLHVOLXhh5Z2tW",
+      "premium": false,
+      "duration": "19 min",
+      "slug": "number-of-substrings-containing-all-three-characters",
+      "lcSlug": "number-of-substrings-containing-all-three-characters"
+    },
+    {
+      "id": "a2z-923",
+      "order": 242,
+      "title": "Binary Subarrays With Sum",
+      "step": 11,
+      "stepTitle": "Sliding Window / 2 Pointer",
+      "topic": "Counting Subarrays / Substrings Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/binary-subarrays-with-sum?category=counting-subarrays-and-substrings-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-subarrays-with-sum",
+      "video": "https://youtu.be/XnMdNUkX6VM?si=Nyt8EveeLUg8lmty",
+      "premium": false,
+      "duration": "20 min",
+      "slug": "binary-subarrays-with-sum",
+      "lcSlug": "binary-subarrays-with-sum"
+    },
+    {
+      "id": "a2z-924",
+      "order": 243,
+      "title": "Count number of Nice subarrays",
+      "step": 11,
+      "stepTitle": "Sliding Window / 2 Pointer",
+      "topic": "Counting Subarrays / Substrings Problems",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/count-number-of-nice-subarrays?category=counting-subarrays-and-substrings-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-nice-subarrays",
+      "video": "https://youtu.be/j_QOv9OT9Og?si=Oq5-5hyFkzVSOZpP",
+      "premium": false,
+      "duration": "4 min",
+      "slug": "count-number-of-nice-subarrays",
+      "lcSlug": "count-number-of-nice-subarrays"
+    },
+    {
+      "id": "a2z-988",
+      "order": 244,
+      "title": "Subarrays with K Different Integers",
+      "step": 11,
+      "stepTitle": "Sliding Window / 2 Pointer",
+      "topic": "Counting Subarrays / Substrings Problems",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/subarrays-with-k-different-integers?category=counting-subarrays-and-substrings-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/subarrays-with-k-different-integers",
+      "video": "https://youtu.be/7wYGbV_LsX4?si=KWa48RgLDCvdNqRb",
+      "premium": false,
+      "duration": "",
+      "slug": "subarrays-with-k-different-integers",
+      "lcSlug": "subarrays-with-k-different-integers"
+    }
+  ]
+}

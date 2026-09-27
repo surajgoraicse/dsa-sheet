@@ -1,0 +1,158 @@
+{
+  "topic": "Strings (Basic and Medium)",
+  "slug": "strings-basic-medium",
+  "step": 6,
+  "problemCount": 6,
+  "problems": [
+    {
+      "id": "a2z-892",
+      "order": 137,
+      "title": "Remove Outermost Parentheses",
+      "step": 6,
+      "stepTitle": "Strings (Basic and Medium)",
+      "topic": "Parentheses",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/remove-outermost-parentheses?category=parentheses&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "remove-outermost-parentheses",
+      "lcSlug": "remove-outermost-parentheses"
+    },
+    {
+      "id": "a2z-674",
+      "order": 138,
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "step": 6,
+      "stepTitle": "Strings (Basic and Medium)",
+      "topic": "Parentheses",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/maximum-nesting-depth-of-the-parentheses?category=parentheses&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "lcSlug": "maximum-nesting-depth-of-the-parentheses"
+    },
+    {
+      "id": "a2z-903",
+      "order": 139,
+      "title": "Roman to Integer",
+      "step": 6,
+      "stepTitle": "Strings (Basic and Medium)",
+      "topic": "String Conversions",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/roman-to-integer/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/roman-to-integer?category=string-conversions&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "roman-to-integer",
+      "lcSlug": "roman-to-integer"
+    },
+    {
+      "id": "a2z-974",
+      "order": 140,
+      "title": "String to Integer (atoi)",
+      "step": 6,
+      "stepTitle": "Strings (Basic and Medium)",
+      "topic": "String Conversions",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/string-to-integer-atoi?category=string-conversions&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "string-to-integer-atoi",
+      "lcSlug": "string-to-integer-atoi"
+    },
+    {
+      "id": "a2z-638",
+      "order": 141,
+      "title": "Longest Palindromic Substring",
+      "step": 6,
+      "stepTitle": "Strings (Basic and Medium)",
+      "topic": "Substring Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-palindromic-substring?category=substring-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "longest-palindromic-substring",
+      "lcSlug": "longest-palindromic-substring"
+    },
+    {
+      "id": "a2z-993",
+      "order": 142,
+      "title": "Sum of Beauty of All Substrings",
+      "step": 6,
+      "stepTitle": "Strings (Basic and Medium)",
+      "topic": "Substring Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/sum-of-beauty-of-all-substrings?category=substring-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "sum-of-beauty-of-all-substrings",
+      "lcSlug": "sum-of-beauty-of-all-substrings"
+    }
+  ]
+}

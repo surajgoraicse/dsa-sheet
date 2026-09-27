@@ -1,0 +1,768 @@
+{
+  "topic": "Binary Trees",
+  "slug": "binary-trees",
+  "step": 13,
+  "problemCount": 31,
+  "problems": [
+    {
+      "id": "a2z-133",
+      "order": 275,
+      "title": "Inorder Traversal",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Theory/Traversals",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/inorder-traversal?category=theory-and-traversals&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/lxTGsVXjwvM",
+      "premium": false,
+      "duration": "37 min",
+      "slug": "inorder-traversal",
+      "lcSlug": "binary-tree-inorder-traversal"
+    },
+    {
+      "id": "a2z-137",
+      "order": 276,
+      "title": "Preorder Traversal",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Theory/Traversals",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/preorder-traversal?category=theory-and-traversals&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/RlUu72JrOCQ",
+      "premium": false,
+      "duration": "18 min",
+      "slug": "preorder-traversal",
+      "lcSlug": "binary-tree-preorder-traversal"
+    },
+    {
+      "id": "a2z-135",
+      "order": 277,
+      "title": "Postorder Traversal",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Theory/Traversals",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/postorder-traversal?category=theory-and-traversals&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/2YBhNLodD8Q",
+      "premium": false,
+      "duration": "14 min",
+      "slug": "postorder-traversal",
+      "lcSlug": "binary-tree-postorder-traversal"
+    },
+    {
+      "id": "a2z-134",
+      "order": 278,
+      "title": "Level Order Traversal",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Theory/Traversals",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/level-order-traversal?category=theory-and-traversals&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-tree-level-order-traversal",
+      "video": "https://youtu.be/EoAsWbO7sqg",
+      "premium": false,
+      "duration": "8 min",
+      "slug": "level-order-traversal",
+      "lcSlug": "binary-tree-level-order-traversal"
+    },
+    {
+      "id": "a2z-136",
+      "order": 279,
+      "title": "Pre, Post, Inorder in one traversal",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Theory/Traversals",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/pre,-post,-inorder-in-one-traversal",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/ySp2epYvgTE",
+      "premium": false,
+      "duration": "10 min",
+      "slug": "pre,-post,-inorder-in-one-traversal",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-131",
+      "order": 280,
+      "title": "Maximum Depth in BT",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Medium Problems",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/maximum-depth-in-bt?category=medium-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/eD3tmO66aBA",
+      "premium": false,
+      "duration": "7 min",
+      "slug": "maximum-depth-in-bt",
+      "lcSlug": "maximum-depth-of-binary-tree"
+    },
+    {
+      "id": "a2z-129",
+      "order": 281,
+      "title": "Check if two trees are identical or not",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Medium Problems",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/same-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/check-if-two-trees-are-identical-or-not?category=medium-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-identical-binary-trees",
+      "video": "https://youtu.be/BhuvF_-PWS0",
+      "premium": false,
+      "duration": "4 min",
+      "slug": "check-if-two-trees-are-identical-or-not",
+      "lcSlug": "same-tree"
+    },
+    {
+      "id": "a2z-127",
+      "order": 282,
+      "title": "Check for balanced binary tree",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Medium Problems",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/balanced-binary-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/check-for-balanced-binary-tree?category=medium-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-a-binary-tree-is-height-balanced",
+      "video": "https://youtu.be/Yt50Jfbd8Po",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "check-for-balanced-binary-tree",
+      "lcSlug": "balanced-binary-tree"
+    },
+    {
+      "id": "a2z-130",
+      "order": 283,
+      "title": "Diameter of Binary Tree",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Medium Problems",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/diameter-of-binary-tree?category=medium-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/diameter-of-a-binary-tree",
+      "video": "https://youtu.be/Rezetez59Nk",
+      "premium": false,
+      "duration": "13 min",
+      "slug": "diameter-of-binary-tree",
+      "lcSlug": "diameter-of-binary-tree"
+    },
+    {
+      "id": "a2z-132",
+      "order": 284,
+      "title": "Maximum path sum",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Medium Problems",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/maximum-path-sum-?category=medium-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-tree-maximum-path-sum",
+      "video": "https://youtu.be/WszrfSwMz58",
+      "premium": false,
+      "duration": "17 min",
+      "slug": "maximum-path-sum-",
+      "lcSlug": "binary-tree-maximum-path-sum"
+    },
+    {
+      "id": "a2z-128",
+      "order": 285,
+      "title": "Check for symmetrical BTs",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Medium Problems",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/symmetric-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/check-for-symmetrical-bts?category=medium-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=nKggNAiEpBE",
+      "premium": false,
+      "duration": "8 min",
+      "slug": "check-for-symmetrical-bts",
+      "lcSlug": "symmetric-tree"
+    },
+    {
+      "id": "a2z-185",
+      "order": 286,
+      "title": "Children Sum Property in Binary Tree",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Medium Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/children-sum-property-in-binary-tree?category=medium-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/fnmisPM6cVo",
+      "premium": false,
+      "duration": "",
+      "slug": "children-sum-property-in-binary-tree",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-126",
+      "order": 287,
+      "title": "Zig Zag or Spiral Traversal",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/zig-zag-or-spiral-traversal?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/3OXWEdlIGl4",
+      "premium": false,
+      "duration": "8 min",
+      "slug": "zig-zag-or-spiral-traversal",
+      "lcSlug": "binary-tree-zigzag-level-order-traversal"
+    },
+    {
+      "id": "a2z-116",
+      "order": 288,
+      "title": "Boundary Traversal",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/boundary-of-binary-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/boundary-traversal?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/boundary-traversal-of-a-binary-tree",
+      "video": "https://youtu.be/0ca1nvR0be4",
+      "premium": true,
+      "duration": "9 min",
+      "slug": "boundary-traversal",
+      "lcSlug": "boundary-of-binary-tree"
+    },
+    {
+      "id": "a2z-125",
+      "order": 289,
+      "title": "Vertical Order Traversal",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/vertical-order-traversal?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/vertical-order-traversal-of-a-binary-tree",
+      "video": "https://youtu.be/q_a6lpbKJdw",
+      "premium": false,
+      "duration": "18 min",
+      "slug": "vertical-order-traversal",
+      "lcSlug": "vertical-order-traversal-of-a-binary-tree"
+    },
+    {
+      "id": "a2z-124",
+      "order": 290,
+      "title": "Top View of BT",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/top-view-of-bt?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/top-view-of-binary-tree",
+      "video": "https://youtu.be/Et9OCDNvJ78",
+      "premium": false,
+      "duration": "9 min",
+      "slug": "top-view-of-bt",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-115",
+      "order": 291,
+      "title": "Bottom view of BT",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/bottom-view-of-bt?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bottom-view-of-binary-tree",
+      "video": "https://youtu.be/0FtVY6I4pB8",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "bottom-view-of-bt",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-123",
+      "order": 292,
+      "title": "Right/Left View of BT",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/right-left-view-of-bt?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/KV4mRzTjlAk",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "right-left-view-of-bt",
+      "lcSlug": "binary-tree-right-side-view"
+    },
+    {
+      "id": "a2z-122",
+      "order": 293,
+      "title": "Print root to leaf path in BT",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/print-root-to-leaf-path-in-bt?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/fmflMqVOC7k",
+      "premium": false,
+      "duration": "10 min",
+      "slug": "print-root-to-leaf-path-in-bt",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-118",
+      "order": 294,
+      "title": "LCA in BT",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/lca-in-bt?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/lowest-common-ancestor-in-a-binary-tree",
+      "video": "https://youtu.be/_-QHfMDde90",
+      "premium": false,
+      "duration": "13 min",
+      "slug": "lca-in-bt",
+      "lcSlug": "lowest-common-ancestor-of-a-binary-tree"
+    },
+    {
+      "id": "a2z-119",
+      "order": 295,
+      "title": "Maximum Width of BT",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/maximum-width-of-bt?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/ZbybYvcVLks",
+      "premium": false,
+      "duration": "21 min",
+      "slug": "maximum-width-of-bt",
+      "lcSlug": "maximum-width-of-binary-tree"
+    },
+    {
+      "id": "a2z-121",
+      "order": 296,
+      "title": "Print all nodes at a distance of K in BT",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/print-all-nodes-at-a-distance-of-k-in-bt?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/nodes-distance-k-binary-tree",
+      "video": "https://youtu.be/i9ORlEy6EsI",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "print-all-nodes-at-a-distance-of-k-in-bt",
+      "lcSlug": "all-nodes-distance-k-in-binary-tree"
+    },
+    {
+      "id": "a2z-120",
+      "order": 297,
+      "title": "Minimum time taken to burn the BT from a given Node",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/minimum-time-taken-to-burn-the-bt-from-a-given-node?category=faqs&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-time-burn-binary-tree",
+      "video": "https://youtu.be/2r5wLmQfD6g",
+      "premium": false,
+      "duration": "17 min",
+      "slug": "minimum-time-taken-to-burn-the-bt-from-a-given-node",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-117",
+      "order": 298,
+      "title": "Count total nodes in a complete BT",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/count-complete-tree-nodes/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/count-total-nodes-in-a-complete-bt?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-nodes-in-a-complete-binary-tree",
+      "video": "https://youtu.be/u-yWemKGWO0",
+      "premium": false,
+      "duration": "15 min",
+      "slug": "count-total-nodes-in-a-complete-bt",
+      "lcSlug": "count-complete-tree-nodes"
+    },
+    {
+      "id": "a2z-486",
+      "order": 299,
+      "title": "Flatten Binary Tree to Linked List",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/flatten-binary-tree-to-linked-list?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/flatten-binary-tree-to-linked-list",
+      "video": "https://youtu.be/sWf7k1x9XR4",
+      "premium": false,
+      "duration": "",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "lcSlug": "flatten-binary-tree-to-linked-list"
+    },
+    {
+      "id": "a2z-111",
+      "order": 300,
+      "title": "Requirements needed to construct a unique BT",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Construction Problems",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/requirements-needed-to-construct-a-unique-bt?category=construction-problems&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/9GMECGQgWrQ",
+      "premium": false,
+      "duration": "7 min",
+      "slug": "requirements-needed-to-construct-a-unique-bt",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-110",
+      "order": 301,
+      "title": "Construct a BT from Preorder and Inorder",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Construction Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/construct-a-bt-from-preorder-and-inorder?category=construction-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/construct-a-binary-tree-from-preorder-and-inorder",
+      "video": "https://youtu.be/aZNaLrVebKQ",
+      "premium": false,
+      "duration": "18 min",
+      "slug": "construct-a-bt-from-preorder-and-inorder",
+      "lcSlug": "construct-binary-tree-from-preorder-and-inorder-traversal"
+    },
+    {
+      "id": "a2z-109",
+      "order": 302,
+      "title": "Construct a BT from Postorder and Inorder",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Construction Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/construct-a-bt-from-postorder-and-inorder?category=construction-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/LgLRTaEMRVc",
+      "premium": false,
+      "duration": "19 min",
+      "slug": "construct-a-bt-from-postorder-and-inorder",
+      "lcSlug": "construct-binary-tree-from-inorder-and-postorder-traversal"
+    },
+    {
+      "id": "a2z-112",
+      "order": 303,
+      "title": "Serialize and De-serialize BT",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Construction Problems",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/serialize-and-de-serialize-bt?category=construction-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/serialize-and-deserialize-a-binary-tree",
+      "video": "https://youtu.be/-YbXySKJsX8",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "serialize-and-de-serialize-bt",
+      "lcSlug": "serialize-and-deserialize-binary-tree"
+    },
+    {
+      "id": "a2z-139",
+      "order": 304,
+      "title": "Morris Inorder Traversal",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Traversal in Constant Space",
+      "tier": "pro",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/morris-inorder-traversal-?category=traversal-in-constant-space&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/80Zug6D1_r4",
+      "premium": false,
+      "duration": "19 min",
+      "slug": "morris-inorder-traversal-",
+      "lcSlug": "binary-tree-inorder-traversal"
+    },
+    {
+      "id": "a2z-138",
+      "order": 305,
+      "title": "Morris Preorder Traversal",
+      "step": 13,
+      "stepTitle": "Binary Trees",
+      "topic": "Traversal in Constant Space",
+      "tier": "pro",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/morris-preorder-traversal-?category=traversal-in-constant-space&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/80Zug6D1_r4",
+      "premium": false,
+      "duration": "4 min",
+      "slug": "morris-preorder-traversal-",
+      "lcSlug": "binary-tree-preorder-traversal"
+    }
+  ]
+}

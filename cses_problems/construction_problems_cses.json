@@ -1,0 +1,61 @@
+{
+  "category": "Construction Problems",
+  "problems": [
+    {
+      "id": "2214",
+      "name": "Inverse Inversions",
+      "url": "https://cses.fi/problemset/task/2214",
+      "solved": 2115,
+      "submissions": 2257
+    },
+    {
+      "id": "2215",
+      "name": "Monotone Subsequences",
+      "url": "https://cses.fi/problemset/task/2215",
+      "solved": 1277,
+      "submissions": 1510
+    },
+    {
+      "id": "3422",
+      "name": "Third Permutation",
+      "url": "https://cses.fi/problemset/task/3422",
+      "solved": 572,
+      "submissions": 703
+    },
+    {
+      "id": "3423",
+      "name": "Permutation Prime Sums",
+      "url": "https://cses.fi/problemset/task/3423",
+      "solved": 574,
+      "submissions": 616
+    },
+    {
+      "id": "1697",
+      "name": "Chess Tournament",
+      "url": "https://cses.fi/problemset/task/1697",
+      "solved": 1409,
+      "submissions": 1620
+    },
+    {
+      "id": "3424",
+      "name": "Distinct Sums Grid",
+      "url": "https://cses.fi/problemset/task/3424",
+      "solved": 206,
+      "submissions": 307
+    },
+    {
+      "id": "2423",
+      "name": "Filling Trominos",
+      "url": "https://cses.fi/problemset/task/2423",
+      "solved": 313,
+      "submissions": 538
+    },
+    {
+      "id": "2418",
+      "name": "Grid Path Construction",
+      "url": "https://cses.fi/problemset/task/2418",
+      "solved": 174,
+      "submissions": 505
+    }
+  ]
+}

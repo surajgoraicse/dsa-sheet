@@ -1,0 +1,180 @@
+{
+  "category": "Range Queries",
+  "problems": [
+    {
+      "id": "1646",
+      "name": "Static Range Sum Queries",
+      "url": "https://cses.fi/problemset/task/1646",
+      "solved": 45762,
+      "submissions": 47766
+    },
+    {
+      "id": "1647",
+      "name": "Static Range Minimum Queries",
+      "url": "https://cses.fi/problemset/task/1647",
+      "solved": 31425,
+      "submissions": 33618
+    },
+    {
+      "id": "1648",
+      "name": "Dynamic Range Sum Queries",
+      "url": "https://cses.fi/problemset/task/1648",
+      "solved": 32713,
+      "submissions": 34092
+    },
+    {
+      "id": "1649",
+      "name": "Dynamic Range Minimum Queries",
+      "url": "https://cses.fi/problemset/task/1649",
+      "solved": 29526,
+      "submissions": 30203
+    },
+    {
+      "id": "1650",
+      "name": "Range Xor Queries",
+      "url": "https://cses.fi/problemset/task/1650",
+      "solved": 30118,
+      "submissions": 30509
+    },
+    {
+      "id": "1651",
+      "name": "Range Update Queries",
+      "url": "https://cses.fi/problemset/task/1651",
+      "solved": 24429,
+      "submissions": 26055
+    },
+    {
+      "id": "1652",
+      "name": "Forest Queries",
+      "url": "https://cses.fi/problemset/task/1652",
+      "solved": 25038,
+      "submissions": 25880
+    },
+    {
+      "id": "1143",
+      "name": "Hotel Queries",
+      "url": "https://cses.fi/problemset/task/1143",
+      "solved": 17826,
+      "submissions": 18797
+    },
+    {
+      "id": "1749",
+      "name": "List Removals",
+      "url": "https://cses.fi/problemset/task/1749",
+      "solved": 14841,
+      "submissions": 15532
+    },
+    {
+      "id": "1144",
+      "name": "Salary Queries",
+      "url": "https://cses.fi/problemset/task/1144",
+      "solved": 11511,
+      "submissions": 14170
+    },
+    {
+      "id": "2166",
+      "name": "Prefix Sum Queries",
+      "url": "https://cses.fi/problemset/task/2166",
+      "solved": 9632,
+      "submissions": 10337
+    },
+    {
+      "id": "2206",
+      "name": "Pizzeria Queries",
+      "url": "https://cses.fi/problemset/task/2206",
+      "solved": 7697,
+      "submissions": 7954
+    },
+    {
+      "id": "3304",
+      "name": "Visible Buildings Queries",
+      "url": "https://cses.fi/problemset/task/3304",
+      "solved": 2413,
+      "submissions": 2614
+    },
+    {
+      "id": "3163",
+      "name": "Range Interval Queries",
+      "url": "https://cses.fi/problemset/task/3163",
+      "solved": 1838,
+      "submissions": 2439
+    },
+    {
+      "id": "1190",
+      "name": "Subarray Sum Queries",
+      "url": "https://cses.fi/problemset/task/1190",
+      "solved": 8848,
+      "submissions": 9534
+    },
+    {
+      "id": "3226",
+      "name": "Subarray Sum Queries II",
+      "url": "https://cses.fi/problemset/task/3226",
+      "solved": 2729,
+      "submissions": 2805
+    },
+    {
+      "id": "1734",
+      "name": "Distinct Values Queries",
+      "url": "https://cses.fi/problemset/task/1734",
+      "solved": 8388,
+      "submissions": 10133
+    },
+    {
+      "id": "3356",
+      "name": "Distinct Values Queries II",
+      "url": "https://cses.fi/problemset/task/3356",
+      "solved": 1522,
+      "submissions": 1719
+    },
+    {
+      "id": "2416",
+      "name": "Increasing Array Queries",
+      "url": "https://cses.fi/problemset/task/2416",
+      "solved": 3207,
+      "submissions": 3638
+    },
+    {
+      "id": "1664",
+      "name": "Movie Festival Queries",
+      "url": "https://cses.fi/problemset/task/1664",
+      "solved": 1801,
+      "submissions": 1973
+    },
+    {
+      "id": "1739",
+      "name": "Forest Queries II",
+      "url": "https://cses.fi/problemset/task/1739",
+      "solved": 5191,
+      "submissions": 5548
+    },
+    {
+      "id": "1735",
+      "name": "Range Updates and Sums",
+      "url": "https://cses.fi/problemset/task/1735",
+      "solved": 7367,
+      "submissions": 8596
+    },
+    {
+      "id": "1736",
+      "name": "Polynomial Queries",
+      "url": "https://cses.fi/problemset/task/1736",
+      "solved": 5401,
+      "submissions": 6273
+    },
+    {
+      "id": "1737",
+      "name": "Range Queries and Copies",
+      "url": "https://cses.fi/problemset/task/1737",
+      "solved": 3793,
+      "submissions": 4036
+    },
+    {
+      "id": "2184",
+      "name": "Missing Coin Sum Queries",
+      "url": "https://cses.fi/problemset/task/2184",
+      "solved": 913,
+      "submissions": 1249
+    }
+  ]
+}

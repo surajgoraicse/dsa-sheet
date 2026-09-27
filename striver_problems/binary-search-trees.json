@@ -1,0 +1,328 @@
+{
+  "topic": "Binary Search Trees",
+  "slug": "binary-search-trees",
+  "step": 14,
+  "problemCount": 13,
+  "problems": [
+    {
+      "id": "a2z-108",
+      "order": 306,
+      "title": "Search in BST",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "Theory and Basics",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/search-in-bst?category=theory-and-basics&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/KcNt6v_56cc",
+      "premium": false,
+      "duration": "5 min",
+      "slug": "search-in-bst",
+      "lcSlug": "search-in-a-binary-search-tree"
+    },
+    {
+      "id": "a2z-107",
+      "order": 307,
+      "title": "Floor and Ceil in a BST",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "Theory and Basics",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/floor-and-ceil-in-a-bst?category=theory-and-basics&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=xm_W1ub-K-w&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=43",
+      "premium": false,
+      "duration": "8 min",
+      "slug": "floor-and-ceil-in-a-bst",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-104",
+      "order": 308,
+      "title": "Insert a given node in BST",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "Medium",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/insert-a-given-node-in-bst?category=medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/FiFiNvM29ps",
+      "premium": false,
+      "duration": "7 min",
+      "slug": "insert-a-given-node-in-bst",
+      "lcSlug": "insert-into-a-binary-search-tree"
+    },
+    {
+      "id": "a2z-102",
+      "order": 309,
+      "title": "Delete a node in BST",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "Medium",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/delete-node-in-a-bst/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/delete-a-node-in-bst?category=medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/kouxiP_H5WE",
+      "premium": false,
+      "duration": "15 min",
+      "slug": "delete-a-node-in-bst",
+      "lcSlug": "delete-node-in-a-bst"
+    },
+    {
+      "id": "a2z-105",
+      "order": 310,
+      "title": "Kth Smallest and Largest element in BST",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "Medium",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/kth-smallest-and-largest-element-in-bst?category=medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/9TJYWh0adfk",
+      "premium": false,
+      "duration": "8 min",
+      "slug": "kth-smallest-and-largest-element-in-bst",
+      "lcSlug": "kth-smallest-element-in-a-bst"
+    },
+    {
+      "id": "a2z-100",
+      "order": 311,
+      "title": "Check if a tree is a BST or not",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "Medium",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/check-if-a-tree-is-a-bst-or-not?category=medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/f-sj7I5oXEI",
+      "premium": false,
+      "duration": "9 min",
+      "slug": "check-if-a-tree-is-a-bst-or-not",
+      "lcSlug": "validate-binary-search-tree"
+    },
+    {
+      "id": "a2z-106",
+      "order": 312,
+      "title": "LCA in BST",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "Medium",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/lca-in-bst?category=medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/cX_kPV_foZc",
+      "premium": false,
+      "duration": "8 min",
+      "slug": "lca-in-bst",
+      "lcSlug": "lowest-common-ancestor-of-a-binary-search-tree"
+    },
+    {
+      "id": "a2z-101",
+      "order": 313,
+      "title": "Construct a BST from a preorder traversal",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "Medium",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/construct-a-bst-from-a-preorder-traversal?category=medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/UmJT3j26t1I",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "construct-a-bst-from-a-preorder-traversal",
+      "lcSlug": "construct-binary-search-tree-from-preorder-traversal"
+    },
+    {
+      "id": "a2z-103",
+      "order": 314,
+      "title": "Inorder successor and predecessor in BST",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "Medium",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/inorder-successor-in-bst/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/inorder-successor-and-predecessor-in-bst?category=medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/SXKAD2svfmI",
+      "premium": true,
+      "duration": "10 min",
+      "slug": "inorder-successor-and-predecessor-in-bst",
+      "lcSlug": "inorder-successor-in-bst"
+    },
+    {
+      "id": "a2z-96",
+      "order": 315,
+      "title": "BST iterator",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/binary-search-tree-iterator/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/bst-iterator?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/D2jMcmxU4bs",
+      "premium": false,
+      "duration": "14 min",
+      "slug": "bst-iterator",
+      "lcSlug": "binary-search-tree-iterator"
+    },
+    {
+      "id": "a2z-99",
+      "order": 316,
+      "title": "Two sum in BST",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/two-sum-in-bst?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/ssL3sHwPeb4",
+      "premium": false,
+      "duration": "14 min",
+      "slug": "two-sum-in-bst",
+      "lcSlug": "two-sum-iv-input-is-a-bst"
+    },
+    {
+      "id": "a2z-97",
+      "order": 317,
+      "title": "Correct BST with two nodes swapped",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/recover-binary-search-tree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/correct-bst-with-two-nodes-swapped?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/ZWGW7FminDM",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "correct-bst-with-two-nodes-swapped",
+      "lcSlug": "recover-binary-search-tree"
+    },
+    {
+      "id": "a2z-98",
+      "order": 318,
+      "title": "Largest BST in Binary Tree",
+      "step": 14,
+      "stepTitle": "Binary Search Trees",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/largest-bst-subtree/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/largest-bst-in-binary-tree?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/X0oXMdtUDwo",
+      "premium": true,
+      "duration": "17 min",
+      "slug": "largest-bst-in-binary-tree",
+      "lcSlug": "largest-bst-subtree"
+    }
+  ]
+}

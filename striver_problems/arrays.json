@@ -1,0 +1,810 @@
+{
+  "topic": "Arrays",
+  "slug": "arrays",
+  "step": 3,
+  "problemCount": 32,
+  "problems": [
+    {
+      "id": "a2z-41",
+      "order": 68,
+      "title": "Linear Search",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "Fundamentals",
+      "tier": "basic",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/linear-search?category=fundamentals&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/wvcQg43_V8U?t=2465",
+      "premium": false,
+      "duration": "4 min",
+      "slug": "linear-search",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-38",
+      "order": 69,
+      "title": "Largest Element",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "Fundamentals",
+      "tier": "basic",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/largest-element?category=fundamentals&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-largest-element-in-an-array",
+      "video": "https://youtu.be/37E9ckMDdTk?t=526",
+      "premium": false,
+      "duration": "5 min",
+      "slug": "largest-element",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-43",
+      "order": 70,
+      "title": "Second Largest Element",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "Fundamentals",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/second-largest-element?category=fundamentals&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/37E9ckMDdTk?t=810",
+      "premium": false,
+      "duration": "15 min",
+      "slug": "second-largest-element",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-42",
+      "order": 71,
+      "title": "Maximum Consecutive Ones",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "Fundamentals",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/max-consecutive-ones/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/maximum-consecutive-ones?category=fundamentals&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-consecutive-ones-in-a-binary-array",
+      "video": "https://youtu.be/bYWLJb3vCWY?t=1124",
+      "premium": false,
+      "duration": "3 min",
+      "slug": "maximum-consecutive-ones",
+      "lcSlug": "max-consecutive-ones"
+    },
+    {
+      "id": "a2z-40",
+      "order": 72,
+      "title": "Left Rotate Array by One",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "Fundamentals",
+      "tier": "basic",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/rotate-array/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/left-rotate-array-by-one?category=fundamentals&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/left-rotate-array-by-one",
+      "video": "https://youtu.be/wvcQg43_V8U?t=61",
+      "premium": false,
+      "duration": "6 min",
+      "slug": "left-rotate-array-by-one",
+      "lcSlug": "rotate-array"
+    },
+    {
+      "id": "a2z-39",
+      "order": 73,
+      "title": "Left Rotate Array by K Places",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "Fundamentals",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/rotate-array/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/left-rotate-array?category=fundamentals&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/wvcQg43_V8U?t=485",
+      "premium": false,
+      "duration": "17 min",
+      "slug": "left-rotate-array",
+      "lcSlug": "rotate-array"
+    },
+    {
+      "id": "a2z-46",
+      "order": 74,
+      "title": "Move Zeros to End",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "Logic Building",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/move-zeroes/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/move-zeros-to-end?category=logic-building&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/move-zeros-to-the-end-of-an-array",
+      "video": "https://youtu.be/wvcQg43_V8U?t=1633",
+      "premium": false,
+      "duration": "13 min",
+      "slug": "move-zeros-to-end",
+      "lcSlug": "move-zeroes"
+    },
+    {
+      "id": "a2z-47",
+      "order": 75,
+      "title": "Remove duplicates from sorted array",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "Logic Building",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/remove-duplicates-from-sorted-array?category=logic-building&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/37E9ckMDdTk?t=1887",
+      "premium": false,
+      "duration": "11 min",
+      "slug": "remove-duplicates-from-sorted-array",
+      "lcSlug": "remove-duplicates-from-sorted-array"
+    },
+    {
+      "id": "a2z-44",
+      "order": 76,
+      "title": "Find missing number",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "Logic Building",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/missing-number/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/find-missing-number?category=logic-building&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "18 min",
+      "slug": "find-missing-number",
+      "lcSlug": "missing-number"
+    },
+    {
+      "id": "a2z-48",
+      "order": 77,
+      "title": "Union of two sorted arrays",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "Logic Building",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/union-of-two-sorted-arrays?category=logic-building&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/union-of-two-sorted-arrays",
+      "video": "https://youtu.be/wvcQg43_V8U?t=2584",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "union-of-two-sorted-arrays",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-45",
+      "order": 78,
+      "title": "Intersection of two sorted arrays",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "Logic Building",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-array-1587115620/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/intersection-of-two-sorted-arrays?category=logic-building&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "13 min",
+      "slug": "intersection-of-two-sorted-arrays",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-22",
+      "order": 79,
+      "title": "Majority Element-I",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/majority-element/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/majority-element-i?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/majority-element-n-by-2",
+      "video": "https://youtu.be/nP_ns3uSh80",
+      "premium": false,
+      "duration": "17 min",
+      "slug": "majority-element-i",
+      "lcSlug": "majority-element"
+    },
+    {
+      "id": "a2z-30",
+      "order": 80,
+      "title": "Leaders in an Array",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/buildings-with-an-ocean-view/",
+      "altUrls": [
+        {
+          "platform": "gfg",
+          "url": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1"
+        },
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/leaders-in-an-array?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/leaders-in-an-array",
+      "video": "https://youtu.be/cHrH9CQ8pmY",
+      "premium": true,
+      "duration": "11 min",
+      "slug": "leaders-in-an-array",
+      "lcSlug": "buildings-with-an-ocean-view"
+    },
+    {
+      "id": "a2z-34",
+      "order": 81,
+      "title": "Rearrange array elements by sign",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/rearrange-array-elements-by-sign?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/h4aBagy4Uok",
+      "premium": false,
+      "duration": "9 min",
+      "slug": "rearrange-array-elements-by-sign",
+      "lcSlug": "rearrange-array-elements-by-sign"
+    },
+    {
+      "id": "a2z-33",
+      "order": 82,
+      "title": "Print the matrix in spiral manner",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/spiral-matrix/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/print-the-matrix-in-spiral-manner?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/spiral-traversal-of-a-matrix",
+      "video": "https://youtu.be/3Zv-s9UUrFM",
+      "premium": false,
+      "duration": "15 min",
+      "slug": "print-the-matrix-in-spiral-manner",
+      "lcSlug": "spiral-matrix"
+    },
+    {
+      "id": "a2z-813",
+      "order": 83,
+      "title": "Pascal's Triangle I",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/pascals-triangle/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/pascals-triangle-i?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/pascals-triangle-first-n-rows",
+      "video": "https://youtu.be/bR7mQgwQ_o8",
+      "premium": false,
+      "duration": "10 min",
+      "slug": "pascals-triangle-i",
+      "lcSlug": "pascals-triangle"
+    },
+    {
+      "id": "a2z-812",
+      "order": 84,
+      "title": "Pascal's Triangle II",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/pascals-triangle-ii/",
+      "altUrls": [
+        {
+          "platform": "gfg",
+          "url": "https://www.geeksforgeeks.org/problems/pascal-triangle0652/1"
+        },
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/pascals-triangle-ii?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "9 min",
+      "slug": "pascals-triangle-ii",
+      "lcSlug": "pascals-triangle-ii"
+    },
+    {
+      "id": "a2z-32",
+      "order": 85,
+      "title": "Pascal's Triangle III",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/pascals-triangle-iii?category=faqs-medium&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "7 min",
+      "slug": "pascals-triangle-iii",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-35",
+      "order": 86,
+      "title": "Rotate matrix by 90 degrees",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/rotate-image/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/rotate-matrix-by-90-degrees?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotate-matrix-90-degrees-clockwise",
+      "video": "https://youtu.be/Z0R2u6gd3GU",
+      "premium": false,
+      "duration": "17 min",
+      "slug": "rotate-matrix-by-90-degrees",
+      "lcSlug": "rotate-image"
+    },
+    {
+      "id": "a2z-911",
+      "order": 87,
+      "title": "Set Matrix Zeroes",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/set-matrix-zeroes?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/set-matrix-zeroes",
+      "video": "https://youtu.be/N0MgLvceX7M",
+      "premium": false,
+      "duration": "",
+      "slug": "set-matrix-zeroes",
+      "lcSlug": "set-matrix-zeroes"
+    },
+    {
+      "id": "a2z-37",
+      "order": 88,
+      "title": "Two Sum",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/two-sum/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/two-sum?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/two-sum",
+      "video": "https://youtu.be/UXDSeD9mN-k",
+      "premium": false,
+      "duration": "17 min",
+      "slug": "two-sum",
+      "lcSlug": "two-sum"
+    },
+    {
+      "id": "a2z-27",
+      "order": 89,
+      "title": "3 Sum",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/3sum/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/3-sum?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/3sum",
+      "video": "https://youtu.be/DhFh8Kw7ymk",
+      "premium": false,
+      "duration": "37 min",
+      "slug": "3-sum",
+      "lcSlug": "3sum"
+    },
+    {
+      "id": "a2z-28",
+      "order": 90,
+      "title": "4 Sum",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/4sum/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/4-sum?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/4sum",
+      "video": "https://youtu.be/eD95WRfh81c",
+      "premium": false,
+      "duration": "27 min",
+      "slug": "4-sum",
+      "lcSlug": "4sum"
+    },
+    {
+      "id": "a2z-36",
+      "order": 91,
+      "title": "Sort an array of 0's 1's and 2's",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/sort-colors/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/sort-an-array-of-0's-1's-and-2's?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/tp8JIuCXBaU",
+      "premium": false,
+      "duration": "24 min",
+      "slug": "sort-an-array-of-0's-1's-and-2's",
+      "lcSlug": "sort-colors"
+    },
+    {
+      "id": "a2z-29",
+      "order": 92,
+      "title": "Kadane's Algorithm",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/maximum-subarray/",
+      "altUrls": [
+        {
+          "platform": "gfg",
+          "url": "https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1"
+        },
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/kadane's-algorithm?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/AHZpyENo7k4",
+      "premium": false,
+      "duration": "19 min",
+      "slug": "kadane's-algorithm",
+      "lcSlug": "maximum-subarray"
+    },
+    {
+      "id": "a2z-31",
+      "order": 93,
+      "title": "Next Permutation",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Medium)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/next-permutation/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/next-permutation?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/next-permutation",
+      "video": "https://youtu.be/JDOXKqF60RQ",
+      "premium": false,
+      "duration": "26 min",
+      "slug": "next-permutation",
+      "lcSlug": "next-permutation"
+    },
+    {
+      "id": "a2z-23",
+      "order": 94,
+      "title": "Majority Element-II",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Hard)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/majority-element-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/majority-element-ii?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/majority-element-ii-n-by-3",
+      "video": "https://youtu.be/vwZj1K0e9U8",
+      "premium": false,
+      "duration": "25 min",
+      "slug": "majority-element-ii",
+      "lcSlug": "majority-element-ii"
+    },
+    {
+      "id": "a2z-21",
+      "order": 95,
+      "title": "Find the repeating and missing number",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Hard)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/find-the-repeating-and-missing-number?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-missing-and-repeating-numbers-in-an-array",
+      "video": "https://youtu.be/2D0D8HE6uak",
+      "premium": false,
+      "duration": "41 min",
+      "slug": "find-the-repeating-and-missing-number",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-20",
+      "order": 96,
+      "title": "Count Inversions",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Hard)",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/count-inversions?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/AseUmwVNaoY",
+      "premium": false,
+      "duration": "23 min",
+      "slug": "count-inversions",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-26",
+      "order": 97,
+      "title": "Reverse Pairs",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Hard)",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/reverse-pairs/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/reverse-pairs?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-reverse-pairs",
+      "video": "https://youtu.be/0e4bZaP3MDI",
+      "premium": false,
+      "duration": "31 min",
+      "slug": "reverse-pairs",
+      "lcSlug": "reverse-pairs"
+    },
+    {
+      "id": "a2z-24",
+      "order": 98,
+      "title": "Maximum Product Subarray in an Array",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Hard)",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/maximum-product-subarray/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/maximum-product-subarray-in-an-array?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "18 min",
+      "slug": "maximum-product-subarray-in-an-array",
+      "lcSlug": "maximum-product-subarray"
+    },
+    {
+      "id": "a2z-25",
+      "order": 99,
+      "title": "Merge two sorted arrays without extra space",
+      "step": 3,
+      "stepTitle": "Arrays",
+      "topic": "FAQs(Hard)",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/merge-sorted-array/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/merge-two-sorted-arrays-without-extra-space?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/n7uwj04E0I4",
+      "premium": false,
+      "duration": "32 min",
+      "slug": "merge-two-sorted-arrays-without-extra-space",
+      "lcSlug": "merge-sorted-array"
+    }
+  ]
+}

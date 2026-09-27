@@ -1,0 +1,117 @@
+{
+  "category": "Geometry",
+  "problems": [
+    {
+      "id": "2189",
+      "name": "Point Location Test",
+      "url": "https://cses.fi/problemset/task/2189",
+      "solved": 8733,
+      "submissions": 9670
+    },
+    {
+      "id": "2190",
+      "name": "Line Segment Intersection",
+      "url": "https://cses.fi/problemset/task/2190",
+      "solved": 5179,
+      "submissions": 6416
+    },
+    {
+      "id": "2191",
+      "name": "Polygon Area",
+      "url": "https://cses.fi/problemset/task/2191",
+      "solved": 5929,
+      "submissions": 6245
+    },
+    {
+      "id": "2192",
+      "name": "Point in Polygon",
+      "url": "https://cses.fi/problemset/task/2192",
+      "solved": 3333,
+      "submissions": 4176
+    },
+    {
+      "id": "2193",
+      "name": "Polygon Lattice Points",
+      "url": "https://cses.fi/problemset/task/2193",
+      "solved": 2702,
+      "submissions": 2885
+    },
+    {
+      "id": "2194",
+      "name": "Minimum Euclidean Distance",
+      "url": "https://cses.fi/problemset/task/2194",
+      "solved": 2393,
+      "submissions": 3327
+    },
+    {
+      "id": "2195",
+      "name": "Convex Hull",
+      "url": "https://cses.fi/problemset/task/2195",
+      "solved": 3977,
+      "submissions": 4697
+    },
+    {
+      "id": "3410",
+      "name": "Maximum Manhattan Distances",
+      "url": "https://cses.fi/problemset/task/3410",
+      "solved": 899,
+      "submissions": 934
+    },
+    {
+      "id": "3411",
+      "name": "All Manhattan Distances",
+      "url": "https://cses.fi/problemset/task/3411",
+      "solved": 945,
+      "submissions": 1037
+    },
+    {
+      "id": "1740",
+      "name": "Intersection Points",
+      "url": "https://cses.fi/problemset/task/1740",
+      "solved": 2389,
+      "submissions": 2572
+    },
+    {
+      "id": "3427",
+      "name": "Line Segments Trace I",
+      "url": "https://cses.fi/problemset/task/3427",
+      "solved": 486,
+      "submissions": 502
+    },
+    {
+      "id": "3428",
+      "name": "Line Segments Trace II",
+      "url": "https://cses.fi/problemset/task/3428",
+      "solved": 408,
+      "submissions": 427
+    },
+    {
+      "id": "3429",
+      "name": "Lines and Queries I",
+      "url": "https://cses.fi/problemset/task/3429",
+      "solved": 530,
+      "submissions": 555
+    },
+    {
+      "id": "3430",
+      "name": "Lines and Queries II",
+      "url": "https://cses.fi/problemset/task/3430",
+      "solved": 476,
+      "submissions": 497
+    },
+    {
+      "id": "1741",
+      "name": "Area of Rectangles",
+      "url": "https://cses.fi/problemset/task/1741",
+      "solved": 1402,
+      "submissions": 1555
+    },
+    {
+      "id": "1742",
+      "name": "Robot Path",
+      "url": "https://cses.fi/problemset/task/1742",
+      "solved": 389,
+      "submissions": 701
+    }
+  ]
+}

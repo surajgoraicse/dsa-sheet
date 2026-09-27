@@ -1,0 +1,131 @@
+{
+  "category": "Counting Problems",
+  "problems": [
+    {
+      "id": "3413",
+      "name": "Filled Subgrid Count I",
+      "url": "https://cses.fi/problemset/task/3413",
+      "solved": 828,
+      "submissions": 920
+    },
+    {
+      "id": "3414",
+      "name": "Filled Subgrid Count II",
+      "url": "https://cses.fi/problemset/task/3414",
+      "solved": 447,
+      "submissions": 548
+    },
+    {
+      "id": "3415",
+      "name": "All Letter Subgrid Count I",
+      "url": "https://cses.fi/problemset/task/3415",
+      "solved": 257,
+      "submissions": 364
+    },
+    {
+      "id": "3416",
+      "name": "All Letter Subgrid Count II",
+      "url": "https://cses.fi/problemset/task/3416",
+      "solved": 164,
+      "submissions": 242
+    },
+    {
+      "id": "3417",
+      "name": "Border Subgrid Count I",
+      "url": "https://cses.fi/problemset/task/3417",
+      "solved": 132,
+      "submissions": 225
+    },
+    {
+      "id": "3418",
+      "name": "Border Subgrid Count II",
+      "url": "https://cses.fi/problemset/task/3418",
+      "solved": 147,
+      "submissions": 170
+    },
+    {
+      "id": "3400",
+      "name": "Raab Game II",
+      "url": "https://cses.fi/problemset/task/3400",
+      "solved": 151,
+      "submissions": 172
+    },
+    {
+      "id": "1080",
+      "name": "Empty String",
+      "url": "https://cses.fi/problemset/task/1080",
+      "solved": 1953,
+      "submissions": 2365
+    },
+    {
+      "id": "2229",
+      "name": "Permutation Inversions",
+      "url": "https://cses.fi/problemset/task/2229",
+      "solved": 1152,
+      "submissions": 1269
+    },
+    {
+      "id": "2176",
+      "name": "Counting Bishops",
+      "url": "https://cses.fi/problemset/task/2176",
+      "solved": 459,
+      "submissions": 511
+    },
+    {
+      "id": "2228",
+      "name": "Counting Sequences",
+      "url": "https://cses.fi/problemset/task/2228",
+      "solved": 782,
+      "submissions": 837
+    },
+    {
+      "id": "1078",
+      "name": "Grid Paths II",
+      "url": "https://cses.fi/problemset/task/1078",
+      "solved": 864,
+      "submissions": 1089
+    },
+    {
+      "id": "1075",
+      "name": "Counting Permutations",
+      "url": "https://cses.fi/problemset/task/1075",
+      "solved": 999,
+      "submissions": 1124
+    },
+    {
+      "id": "2429",
+      "name": "Grid Completion",
+      "url": "https://cses.fi/problemset/task/2429",
+      "solved": 269,
+      "submissions": 337
+    },
+    {
+      "id": "2421",
+      "name": "Counting Reorders",
+      "url": "https://cses.fi/problemset/task/2421",
+      "solved": 307,
+      "submissions": 422
+    },
+    {
+      "id": "3232",
+      "name": "Tournament Graph Distribution",
+      "url": "https://cses.fi/problemset/task/3232",
+      "solved": 151,
+      "submissions": 162
+    },
+    {
+      "id": "3157",
+      "name": "Collecting Numbers Distribution",
+      "url": "https://cses.fi/problemset/task/3157",
+      "solved": 159,
+      "submissions": 167
+    },
+    {
+      "id": "2415",
+      "name": "Functional Graph Distribution",
+      "url": "https://cses.fi/problemset/task/2415",
+      "solved": 285,
+      "submissions": 348
+    }
+  ]
+}

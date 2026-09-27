@@ -1,0 +1,203 @@
+{
+  "topic": "Strings (Advanced Algo)",
+  "slug": "strings-advanced-algo",
+  "step": 19,
+  "problemCount": 8,
+  "problems": [
+    {
+      "id": "a2z-984",
+      "order": 437,
+      "title": "Reverse every word in a string",
+      "step": 19,
+      "stepTitle": "Strings (Advanced Algo)",
+      "topic": "Medium Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/reverse-every-word-in-a-string?category=medium-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "31 min",
+      "slug": "reverse-every-word-in-a-string",
+      "lcSlug": "reverse-words-in-a-string"
+    },
+    {
+      "id": "a2z-983",
+      "order": 438,
+      "title": "Minimum number of bracket reversals to make an expression balanced",
+      "step": 19,
+      "stepTitle": "Strings (Advanced Algo)",
+      "topic": "Medium Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/minimum-number-of-bracket-reversals-to-make-an-expression-balanced?category=medium-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "20 min",
+      "slug": "minimum-number-of-bracket-reversals-to-make-an-expression-balanced",
+      "lcSlug": "minimum-add-to-make-parentheses-valid"
+    },
+    {
+      "id": "a2z-982",
+      "order": 439,
+      "title": "Count and say",
+      "step": 19,
+      "stepTitle": "Strings (Advanced Algo)",
+      "topic": "Medium Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/count-and-say/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/count-and-say?category=medium-problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-and-say",
+      "video": null,
+      "premium": false,
+      "duration": "19 min",
+      "slug": "count-and-say",
+      "lcSlug": "count-and-say"
+    },
+    {
+      "id": "a2z-979",
+      "order": 440,
+      "title": "Rabin Karp Algorithm",
+      "step": 19,
+      "stepTitle": "Strings (Advanced Algo)",
+      "topic": "Advanced Problems (Less asked)",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/repeated-string-match/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/rabin-karp-algorithm?category=advanced-problems-%28less-asked%29&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "34 min",
+      "slug": "rabin-karp-algorithm",
+      "lcSlug": "repeated-string-match"
+    },
+    {
+      "id": "a2z-981",
+      "order": 441,
+      "title": "Z function",
+      "step": 19,
+      "stepTitle": "Strings (Advanced Algo)",
+      "topic": "Advanced Problems (Less asked)",
+      "tier": "pro",
+      "difficulty": "Easy",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/z-function?category=advanced-problems-%28less-asked%29&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "35 min",
+      "slug": "z-function",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-977",
+      "order": 442,
+      "title": "KMP Algorithm or LPS array",
+      "step": 19,
+      "stepTitle": "Strings (Advanced Algo)",
+      "topic": "Advanced Problems (Less asked)",
+      "tier": "pro",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/kmp-algorithm-or-lps-array?category=advanced-problems-%28less-asked%29&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "29 min",
+      "slug": "kmp-algorithm-or-lps-array",
+      "lcSlug": "find-the-index-of-the-first-occurrence-in-a-string"
+    },
+    {
+      "id": "a2z-980",
+      "order": 443,
+      "title": "Shortest Palindrome",
+      "step": 19,
+      "stepTitle": "Strings (Advanced Algo)",
+      "topic": "Advanced Problems (Less asked)",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/shortest-palindrome/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/shortest-palindrome?category=advanced-problems-%28less-asked%29&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "7 min",
+      "slug": "shortest-palindrome",
+      "lcSlug": "shortest-palindrome"
+    },
+    {
+      "id": "a2z-978",
+      "order": 444,
+      "title": "Longest happy prefix",
+      "step": 19,
+      "stepTitle": "Strings (Advanced Algo)",
+      "topic": "Advanced Problems (Less asked)",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/longest-happy-prefix/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-happy-prefix?category=advanced-problems-%28less-asked%29&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-happy-prefix",
+      "video": null,
+      "premium": false,
+      "duration": "3 min",
+      "slug": "longest-happy-prefix",
+      "lcSlug": "longest-happy-prefix"
+    }
+  ]
+}

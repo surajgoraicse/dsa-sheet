@@ -1,0 +1,1247 @@
+{
+  "topic": "Dynamic Programming",
+  "slug": "dp",
+  "step": 17,
+  "problemCount": 50,
+  "problems": [
+    {
+      "id": "a2z-287",
+      "order": 381,
+      "title": "Climbing stairs",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "1D DP",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/climbing-stairs/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/climbing-stairs?category=1d-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/climbing-stairs",
+      "video": "https://youtu.be/mLfjzJsN8us",
+      "premium": false,
+      "duration": "13 min",
+      "slug": "climbing-stairs",
+      "lcSlug": "climbing-stairs"
+    },
+    {
+      "id": "a2z-288",
+      "order": 382,
+      "title": "Frog Jump",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "1D DP",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/geek-jump/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/frog-jump?category=1d-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/frog-jump-minimum-energy",
+      "video": "https://www.youtube.com/watch?v=EgG3jsGoPvQ",
+      "premium": false,
+      "duration": "37 min",
+      "slug": "frog-jump",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-289",
+      "order": 383,
+      "title": "Frog jump with K distances",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "1D DP",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/frog-jump-with-k-distances?category=1d-dp&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/frog-jump-with-k-distances",
+      "video": "https://www.youtube.com/watch?v=Kmh3rhyEtB8",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "frog-jump-with-k-distances",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-291",
+      "order": 384,
+      "title": "Maximum sum of non adjacent elements",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "1D DP",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/house-robber/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/maximum-sum-of-non-adjacent-elements?category=1d-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=GrMBfJNk_NY",
+      "premium": false,
+      "duration": "31 min",
+      "slug": "maximum-sum-of-non-adjacent-elements",
+      "lcSlug": "house-robber"
+    },
+    {
+      "id": "a2z-290",
+      "order": 385,
+      "title": "House robber",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "1D DP",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/house-robber/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/house-robber?category=1d-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/house-robber-ii",
+      "video": "https://www.youtube.com/watch?v=3WaxQMELSkw",
+      "premium": false,
+      "duration": "9 min",
+      "slug": "house-robber",
+      "lcSlug": "house-robber"
+    },
+    {
+      "id": "a2z-292",
+      "order": 386,
+      "title": "Ninja's training",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "2D DP",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/geeks-training/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/ninja's-training?category=2d-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/ninjas-training",
+      "video": "https://www.youtube.com/watch?v=AE39gJYuRog",
+      "premium": false,
+      "duration": "51 min",
+      "slug": "ninja's-training",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-297",
+      "order": 387,
+      "title": "Grid unique paths",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on grids",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/unique-paths/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/grid-unique-paths?category=dp-on-grids&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=sdE0A2Oxofw",
+      "premium": false,
+      "duration": "44 min",
+      "slug": "grid-unique-paths",
+      "lcSlug": "unique-paths"
+    },
+    {
+      "id": "a2z-300",
+      "order": 388,
+      "title": "Unique paths II",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on grids",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/unique-paths-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/unique-paths-ii?category=dp-on-grids&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/unique-paths-ii-obstacles",
+      "video": "https://www.youtube.com/watch?v=TmhpgXScLyY",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "unique-paths-ii",
+      "lcSlug": "unique-paths-ii"
+    },
+    {
+      "id": "a2z-298",
+      "order": 389,
+      "title": "Minimum Falling Path Sum",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on grids",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/minimum-falling-path-sum/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/minimum-falling-path-sum?category=dp-on-grids&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/_rgTlyky1uQ",
+      "premium": false,
+      "duration": "41 min",
+      "slug": "minimum-falling-path-sum",
+      "lcSlug": "minimum-falling-path-sum"
+    },
+    {
+      "id": "a2z-299",
+      "order": 390,
+      "title": "Triangle",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on grids",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/triangle/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/triangle?category=dp-on-grids&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/triangle-minimum-path-sum",
+      "video": "https://www.youtube.com/watch?v=SrP-PiLSYC0",
+      "premium": false,
+      "duration": "33 min",
+      "slug": "triangle",
+      "lcSlug": "triangle"
+    },
+    {
+      "id": "a2z-296",
+      "order": 391,
+      "title": "Cherry pickup II",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on grids",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/cherry-pickup-ii/",
+      "altUrls": [
+        {
+          "platform": "gfg",
+          "url": "https://www.geeksforgeeks.org/problems/chocolate-pickup-ii/1"
+        },
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/cherry-pickup-ii?category=dp-on-grids&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "42 min",
+      "slug": "cherry-pickup-ii",
+      "lcSlug": "cherry-pickup-ii"
+    },
+    {
+      "id": "a2z-301",
+      "order": 392,
+      "title": "Best time to buy and sell stock",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on stocks",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/best-time-to-buy-and-sell-stock?category=dp-on-stocks&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/excAOvwF_Wk",
+      "premium": false,
+      "duration": "7 min",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "lcSlug": "best-time-to-buy-and-sell-stock"
+    },
+    {
+      "id": "a2z-302",
+      "order": 393,
+      "title": "Best time to buy and sell stock II",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on stocks",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/best-time-to-buy-and-sell-stock-ii?category=dp-on-stocks&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-ii",
+      "video": "https://youtu.be/nGJmxkUJQGs",
+      "premium": false,
+      "duration": "35 min",
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "lcSlug": "best-time-to-buy-and-sell-stock-ii"
+    },
+    {
+      "id": "a2z-303",
+      "order": 394,
+      "title": "Best time to buy and sell stock III",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on stocks",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/best-time-to-buy-and-sell-stock-iii?category=dp-on-stocks&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-iii",
+      "video": "https://youtu.be/-uQGzhYj8BQ",
+      "premium": false,
+      "duration": "25 min",
+      "slug": "best-time-to-buy-and-sell-stock-iii",
+      "lcSlug": "best-time-to-buy-and-sell-stock-iii"
+    },
+    {
+      "id": "a2z-304",
+      "order": 395,
+      "title": "Best time to buy and sell stock IV",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on stocks",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/best-time-to-buy-and-sell-stock-iv?category=dp-on-stocks&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-iv",
+      "video": "https://youtu.be/IV1dHbk5CDc",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "best-time-to-buy-and-sell-stock-iv",
+      "lcSlug": "best-time-to-buy-and-sell-stock-iv"
+    },
+    {
+      "id": "a2z-305",
+      "order": 396,
+      "title": "Best time to buy and sell stock with transaction fees",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on stocks",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/best-time-to-buy-and-sell-stock-with-cooldown-and-transaction-fees?category=dp-on-stocks&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-with-transaction-fee",
+      "video": "https://youtu.be/k4eK-vEmnKg",
+      "premium": false,
+      "duration": "6 min",
+      "slug": "best-time-to-buy-and-sell-stock-with-cooldown-and-transaction-fees",
+      "lcSlug": "best-time-to-buy-and-sell-stock-with-transaction-fee"
+    },
+    {
+      "id": "a2z-56",
+      "order": 397,
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on stocks",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/best-time-to-buy-and-sell-stock-with-cooldown?category=dp-on-stocks&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-with-cooldown",
+      "video": "https://youtu.be/IGIe46xw3YY",
+      "premium": false,
+      "duration": "",
+      "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+      "lcSlug": "best-time-to-buy-and-sell-stock-with-cooldown"
+    },
+    {
+      "id": "a2z-323",
+      "order": 398,
+      "title": "Subset sum equals to target",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on subsequences",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/subset-sum-equals-to-target?category=dp-on-subsequences&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52",
+      "premium": false,
+      "duration": "35 min",
+      "slug": "subset-sum-equals-to-target",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-321",
+      "order": 399,
+      "title": "Partition equal subset sum",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on subsequences",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/partition-equal-subset-sum?category=dp-on-subsequences&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=7win3dcgo3k",
+      "premium": false,
+      "duration": "7 min",
+      "slug": "partition-equal-subset-sum",
+      "lcSlug": "partition-equal-subset-sum"
+    },
+    {
+      "id": "a2z-320",
+      "order": 400,
+      "title": "Partition a set into two subsets with minimum absolute sum difference",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on subsequences",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/last-stone-weight-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference?category=dp-on-subsequences&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=GS_OqZb2CWc",
+      "premium": false,
+      "duration": "29 min",
+      "slug": "partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference",
+      "lcSlug": "last-stone-weight-ii"
+    },
+    {
+      "id": "a2z-318",
+      "order": 401,
+      "title": "Count subsets with sum K",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on subsequences",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/count-subsets-with-sum-k?category=dp-on-subsequences&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-subsets-with-sum-k",
+      "video": "https://www.youtube.com/watch?v=ZHyb-A2Mte4",
+      "premium": false,
+      "duration": "35 min",
+      "slug": "count-subsets-with-sum-k",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-317",
+      "order": 402,
+      "title": "Count partitions with given difference",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on subsequences",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/count-partitions-with-given-difference?category=dp-on-subsequences&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-partitions-with-a-given-difference",
+      "video": "https://www.youtube.com/watch?v=zoilQD1kYSg",
+      "premium": false,
+      "duration": "17 min",
+      "slug": "count-partitions-with-given-difference",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-315",
+      "order": 403,
+      "title": "0 and 1 Knapsack",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on subsequences",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/0-and-1-knapsack?category=dp-on-subsequences&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/GqOmJHQZivw",
+      "premium": false,
+      "duration": "40 min",
+      "slug": "0-and-1-knapsack",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-319",
+      "order": 404,
+      "title": "Minimum coins",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on subsequences",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/coin-change/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/minimum-coins?category=dp-on-subsequences&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=myPeWb3Y68A",
+      "premium": false,
+      "duration": "34 min",
+      "slug": "minimum-coins",
+      "lcSlug": "coin-change"
+    },
+    {
+      "id": "a2z-324",
+      "order": 405,
+      "title": "Target sum",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on subsequences",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/target-sum/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/target-sum?category=dp-on-subsequences&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=b3GD8263-PQ",
+      "premium": false,
+      "duration": "8 min",
+      "slug": "target-sum",
+      "lcSlug": "target-sum"
+    },
+    {
+      "id": "a2z-316",
+      "order": 406,
+      "title": "Coin change II",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on subsequences",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/coin-change-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/coin-change-ii?category=dp-on-subsequences&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=HgyouUi11zk",
+      "premium": false,
+      "duration": "22 min",
+      "slug": "coin-change-ii",
+      "lcSlug": "coin-change-ii"
+    },
+    {
+      "id": "a2z-325",
+      "order": 407,
+      "title": "Unbounded knapsack",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on subsequences",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/unbounded-knapsack?category=dp-on-subsequences&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/unbounded-knapsack",
+      "video": "https://youtu.be/OgvOZ6OrJoY",
+      "premium": false,
+      "duration": "22 min",
+      "slug": "unbounded-knapsack",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-322",
+      "order": 408,
+      "title": "Rod cutting problem",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on subsequences",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/rod-cutting0840/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/rod-cutting-problem?category=dp-on-subsequences&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/mO8XpGoJwuo",
+      "premium": false,
+      "duration": "22 min",
+      "slug": "rod-cutting-problem",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-636",
+      "order": 409,
+      "title": "Longest Increasing Subsequence",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "LIS",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-increasing-subsequence?category=lis-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/on2hvxBXJH4",
+      "premium": false,
+      "duration": "40 min",
+      "slug": "longest-increasing-subsequence",
+      "lcSlug": "longest-increasing-subsequence"
+    },
+    {
+      "id": "a2z-851",
+      "order": 410,
+      "title": "Print Longest Increasing Subsequence",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "LIS",
+      "tier": "pro",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/print-longest-increasing-subsequence?category=lis-dp&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/IFfYfonAFGc",
+      "premium": false,
+      "duration": "26 min",
+      "slug": "print-longest-increasing-subsequence",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-603",
+      "order": 411,
+      "title": "Largest Divisible Subset",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "LIS",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/largest-divisible-subset/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/largest-divisible-subset?category=lis-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/largest-divisible-subset",
+      "video": "https://youtu.be/gDuZwBW9VvM",
+      "premium": false,
+      "duration": "14 min",
+      "slug": "largest-divisible-subset",
+      "lcSlug": "largest-divisible-subset"
+    },
+    {
+      "id": "a2z-640",
+      "order": 412,
+      "title": "Longest String Chain",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "LIS",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/longest-string-chain/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-string-chain?category=lis-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/YY8iBaYcc4g",
+      "premium": false,
+      "duration": "16 min",
+      "slug": "longest-string-chain",
+      "lcSlug": "longest-string-chain"
+    },
+    {
+      "id": "a2z-633",
+      "order": 413,
+      "title": "Longest Bitonic Subsequence",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "LIS",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-bitonic-subsequence?category=lis-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/y4vN0WNdrlg",
+      "premium": false,
+      "duration": "13 min",
+      "slug": "longest-bitonic-subsequence",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-780",
+      "order": 414,
+      "title": "Number of Longest Increasing Subsequences",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "LIS",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/number-of-longest-increasing-subsequences?category=lis-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/cKVl1TFdNXg",
+      "premium": false,
+      "duration": "20 min",
+      "slug": "number-of-longest-increasing-subsequences",
+      "lcSlug": "number-of-longest-increasing-subsequence"
+    },
+    {
+      "id": "a2z-308",
+      "order": 415,
+      "title": "Longest common subsequence",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on strings",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/longest-common-subsequence/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-common-subsequence?category=dp-on-strings&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/-zI4mrF2Pb4",
+      "premium": false,
+      "duration": "46 min",
+      "slug": "longest-common-subsequence",
+      "lcSlug": "longest-common-subsequence"
+    },
+    {
+      "id": "a2z-309",
+      "order": 416,
+      "title": "Longest common substring",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on strings",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/longest-common-substring1452/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-common-substring?category=dp-on-strings&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/_wP9mWNPL5w",
+      "premium": false,
+      "duration": "14 min",
+      "slug": "longest-common-substring",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-310",
+      "order": 417,
+      "title": "Longest palindromic subsequence",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on strings",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-palindromic-subsequence?category=dp-on-strings&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/6i_T5kkfv4A",
+      "premium": false,
+      "duration": "9 min",
+      "slug": "longest-palindromic-subsequence",
+      "lcSlug": "longest-palindromic-subsequence"
+    },
+    {
+      "id": "a2z-312",
+      "order": 418,
+      "title": "Minimum insertions to make string palindrome",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on strings",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/minimum-insertions-to-make-string-palindrome?category=dp-on-strings&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=xPBLEj41rFU",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "minimum-insertions-to-make-string-palindrome",
+      "lcSlug": "minimum-insertion-steps-to-make-a-string-palindrome"
+    },
+    {
+      "id": "a2z-311",
+      "order": 419,
+      "title": "Minimum insertions or deletions to convert string A to B",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on strings",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/minimum-insertions-or-deletions-to-convert-string-a-to-b?category=dp-on-strings&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=yMnH0jrir0Q",
+      "premium": false,
+      "duration": "7 min",
+      "slug": "minimum-insertions-or-deletions-to-convert-string-a-to-b",
+      "lcSlug": "delete-operation-for-two-strings"
+    },
+    {
+      "id": "a2z-313",
+      "order": 420,
+      "title": "Shortest common supersequence",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on strings",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/shortest-common-supersequence/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/shortest-common-supersequence?category=dp-on-strings&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/xElxAuBcvsU",
+      "premium": false,
+      "duration": "26 min",
+      "slug": "shortest-common-supersequence",
+      "lcSlug": "shortest-common-supersequence"
+    },
+    {
+      "id": "a2z-306",
+      "order": 421,
+      "title": "Distinct subsequences",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on strings",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/distinct-subsequences/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/distinct-subsequences?category=dp-on-strings&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/nVG7eTiD2bY",
+      "premium": false,
+      "duration": "40 min",
+      "slug": "distinct-subsequences",
+      "lcSlug": "distinct-subsequences"
+    },
+    {
+      "id": "a2z-307",
+      "order": 422,
+      "title": "Edit distance",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on strings",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/edit-distance/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/edit-distance?category=dp-on-strings&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/fJaKO8FbDdo",
+      "premium": false,
+      "duration": "37 min",
+      "slug": "edit-distance",
+      "lcSlug": "edit-distance"
+    },
+    {
+      "id": "a2z-314",
+      "order": 423,
+      "title": "Wildcard matching",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on strings",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/wildcard-matching/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/wildcard-matching?category=dp-on-strings&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/ZmlQ3vgAOMo",
+      "premium": false,
+      "duration": "43 min",
+      "slug": "wildcard-matching",
+      "lcSlug": "wildcard-matching"
+    },
+    {
+      "id": "a2z-4",
+      "order": 424,
+      "title": "Word Break",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on strings",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/word-break/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/word-break?category=dp-on-strings&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "word-break",
+      "lcSlug": "word-break"
+    },
+    {
+      "id": "a2z-231",
+      "order": 425,
+      "title": "Count Palindromic Subsequences",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "DP on strings",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/count-palindromic-subsequences/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/count-palindromic-subsequences?category=dp-on-strings&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "count-palindromic-subsequences",
+      "lcSlug": "count-palindromic-subsequences"
+    },
+    {
+      "id": "a2z-327",
+      "order": 426,
+      "title": "Matrix chain multiplication",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "MCM DP",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/matrix-chain-multiplication?category=mcm-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/vRVfmbCFW7Y",
+      "premium": false,
+      "duration": "61 min",
+      "slug": "matrix-chain-multiplication",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-326",
+      "order": 427,
+      "title": "Burst balloons",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "MCM DP",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/burst-balloons/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/burst-balloons?category=mcm-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/Yz4LlDSlkns",
+      "premium": false,
+      "duration": "33 min",
+      "slug": "burst-balloons",
+      "lcSlug": "burst-balloons"
+    },
+    {
+      "id": "a2z-329",
+      "order": 428,
+      "title": "Palindrome partitioning II",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "MCM DP",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/palindrome-partitioning-ii-?category=mcm-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/palindrome-partitioning-ii-minimum-cuts",
+      "video": "https://youtu.be/_H8V5hJUGd0",
+      "premium": false,
+      "duration": "22 min",
+      "slug": "palindrome-partitioning-ii-",
+      "lcSlug": "palindrome-partitioning-ii"
+    },
+    {
+      "id": "a2z-810",
+      "order": 429,
+      "title": "Partition Array for Maximum Sum",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "MCM DP",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/partition-array-for-maximum-sum?category=mcm-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/PhWWJmaKfMc",
+      "premium": false,
+      "duration": "",
+      "slug": "partition-array-for-maximum-sum",
+      "lcSlug": "partition-array-for-maximum-sum"
+    },
+    {
+      "id": "a2z-276",
+      "order": 430,
+      "title": "Different Ways to Evaluate a Boolean Expression",
+      "step": 17,
+      "stepTitle": "Dynamic Programming",
+      "topic": "MCM DP",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/parsing-a-boolean-expression/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/different-ways-to-evaluate-a-boolean-expression?category=mcm-dp&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/MM7fXopgyjw",
+      "premium": false,
+      "duration": "",
+      "slug": "different-ways-to-evaluate-a-boolean-expression",
+      "lcSlug": "parsing-a-boolean-expression"
+    }
+  ]
+}

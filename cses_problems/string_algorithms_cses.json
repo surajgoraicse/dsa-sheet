@@ -1,0 +1,152 @@
+{
+  "category": "String Algorithms",
+  "problems": [
+    {
+      "id": "1731",
+      "name": "Word Combinations",
+      "url": "https://cses.fi/problemset/task/1731",
+      "solved": 7314,
+      "submissions": 10302
+    },
+    {
+      "id": "1753",
+      "name": "String Matching",
+      "url": "https://cses.fi/problemset/task/1753",
+      "solved": 13843,
+      "submissions": 18224
+    },
+    {
+      "id": "1732",
+      "name": "Finding Borders",
+      "url": "https://cses.fi/problemset/task/1732",
+      "solved": 10215,
+      "submissions": 11094
+    },
+    {
+      "id": "1733",
+      "name": "Finding Periods",
+      "url": "https://cses.fi/problemset/task/1733",
+      "solved": 7316,
+      "submissions": 8214
+    },
+    {
+      "id": "1110",
+      "name": "Minimal Rotation",
+      "url": "https://cses.fi/problemset/task/1110",
+      "solved": 3658,
+      "submissions": 5304
+    },
+    {
+      "id": "1111",
+      "name": "Longest Palindrome",
+      "url": "https://cses.fi/problemset/task/1111",
+      "solved": 5366,
+      "submissions": 6933
+    },
+    {
+      "id": "3138",
+      "name": "All Palindromes",
+      "url": "https://cses.fi/problemset/task/3138",
+      "solved": 1028,
+      "submissions": 1144
+    },
+    {
+      "id": "1112",
+      "name": "Required Substring",
+      "url": "https://cses.fi/problemset/task/1112",
+      "solved": 2053,
+      "submissions": 3030
+    },
+    {
+      "id": "2420",
+      "name": "Palindrome Queries",
+      "url": "https://cses.fi/problemset/task/2420",
+      "solved": 2516,
+      "submissions": 2894
+    },
+    {
+      "id": "2102",
+      "name": "Finding Patterns",
+      "url": "https://cses.fi/problemset/task/2102",
+      "solved": 2405,
+      "submissions": 3303
+    },
+    {
+      "id": "2103",
+      "name": "Counting Patterns",
+      "url": "https://cses.fi/problemset/task/2103",
+      "solved": 2280,
+      "submissions": 2760
+    },
+    {
+      "id": "2104",
+      "name": "Pattern Positions",
+      "url": "https://cses.fi/problemset/task/2104",
+      "solved": 1929,
+      "submissions": 2305
+    },
+    {
+      "id": "2105",
+      "name": "Distinct Substrings",
+      "url": "https://cses.fi/problemset/task/2105",
+      "solved": 2149,
+      "submissions": 2536
+    },
+    {
+      "id": "1149",
+      "name": "Distinct Subsequences",
+      "url": "https://cses.fi/problemset/task/1149",
+      "solved": 1387,
+      "submissions": 1464
+    },
+    {
+      "id": "2106",
+      "name": "Repeating Substring",
+      "url": "https://cses.fi/problemset/task/2106",
+      "solved": 2306,
+      "submissions": 2637
+    },
+    {
+      "id": "2107",
+      "name": "String Functions",
+      "url": "https://cses.fi/problemset/task/2107",
+      "solved": 2019,
+      "submissions": 2111
+    },
+    {
+      "id": "3225",
+      "name": "Inverse Suffix Array",
+      "url": "https://cses.fi/problemset/task/3225",
+      "solved": 396,
+      "submissions": 450
+    },
+    {
+      "id": "1113",
+      "name": "String Transform",
+      "url": "https://cses.fi/problemset/task/1113",
+      "solved": 697,
+      "submissions": 823
+    },
+    {
+      "id": "2108",
+      "name": "Substring Order I",
+      "url": "https://cses.fi/problemset/task/2108",
+      "solved": 1465,
+      "submissions": 1613
+    },
+    {
+      "id": "2109",
+      "name": "Substring Order II",
+      "url": "https://cses.fi/problemset/task/2109",
+      "solved": 998,
+      "submissions": 1268
+    },
+    {
+      "id": "2110",
+      "name": "Substring Distribution",
+      "url": "https://cses.fi/problemset/task/2110",
+      "solved": 1362,
+      "submissions": 1470
+    }
+  ]
+}

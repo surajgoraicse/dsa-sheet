@@ -1,0 +1,257 @@
+{
+  "category": "Graph Algorithms",
+  "problems": [
+    {
+      "id": "1192",
+      "name": "Counting Rooms",
+      "url": "https://cses.fi/problemset/task/1192",
+      "solved": 65304,
+      "submissions": 68336
+    },
+    {
+      "id": "1193",
+      "name": "Labyrinth",
+      "url": "https://cses.fi/problemset/task/1193",
+      "solved": 46482,
+      "submissions": 54488
+    },
+    {
+      "id": "1666",
+      "name": "Building Roads",
+      "url": "https://cses.fi/problemset/task/1666",
+      "solved": 57194,
+      "submissions": 59093
+    },
+    {
+      "id": "1667",
+      "name": "Message Route",
+      "url": "https://cses.fi/problemset/task/1667",
+      "solved": 49619,
+      "submissions": 51394
+    },
+    {
+      "id": "1668",
+      "name": "Building Teams",
+      "url": "https://cses.fi/problemset/task/1668",
+      "solved": 46814,
+      "submissions": 49070
+    },
+    {
+      "id": "1669",
+      "name": "Round Trip",
+      "url": "https://cses.fi/problemset/task/1669",
+      "solved": 37141,
+      "submissions": 40120
+    },
+    {
+      "id": "1194",
+      "name": "Monsters",
+      "url": "https://cses.fi/problemset/task/1194",
+      "solved": 26497,
+      "submissions": 30532
+    },
+    {
+      "id": "1671",
+      "name": "Shortest Routes I",
+      "url": "https://cses.fi/problemset/task/1671",
+      "solved": 41056,
+      "submissions": 44711
+    },
+    {
+      "id": "1672",
+      "name": "Shortest Routes II",
+      "url": "https://cses.fi/problemset/task/1672",
+      "solved": 33155,
+      "submissions": 36767
+    },
+    {
+      "id": "1673",
+      "name": "High Score",
+      "url": "https://cses.fi/problemset/task/1673",
+      "solved": 21373,
+      "submissions": 28665
+    },
+    {
+      "id": "1195",
+      "name": "Flight Discount",
+      "url": "https://cses.fi/problemset/task/1195",
+      "solved": 27367,
+      "submissions": 31362
+    },
+    {
+      "id": "1197",
+      "name": "Cycle Finding",
+      "url": "https://cses.fi/problemset/task/1197",
+      "solved": 19338,
+      "submissions": 23038
+    },
+    {
+      "id": "1196",
+      "name": "Flight Routes",
+      "url": "https://cses.fi/problemset/task/1196",
+      "solved": 18850,
+      "submissions": 20762
+    },
+    {
+      "id": "1678",
+      "name": "Round Trip II",
+      "url": "https://cses.fi/problemset/task/1678",
+      "solved": 20855,
+      "submissions": 23109
+    },
+    {
+      "id": "1679",
+      "name": "Course Schedule",
+      "url": "https://cses.fi/problemset/task/1679",
+      "solved": 27542,
+      "submissions": 28893
+    },
+    {
+      "id": "1680",
+      "name": "Longest Flight Route",
+      "url": "https://cses.fi/problemset/task/1680",
+      "solved": 20222,
+      "submissions": 24245
+    },
+    {
+      "id": "1681",
+      "name": "Game Routes",
+      "url": "https://cses.fi/problemset/task/1681",
+      "solved": 22004,
+      "submissions": 23324
+    },
+    {
+      "id": "1202",
+      "name": "Investigation",
+      "url": "https://cses.fi/problemset/task/1202",
+      "solved": 16787,
+      "submissions": 17887
+    },
+    {
+      "id": "1750",
+      "name": "Planets Queries I",
+      "url": "https://cses.fi/problemset/task/1750",
+      "solved": 14583,
+      "submissions": 16769
+    },
+    {
+      "id": "1160",
+      "name": "Planets Queries II",
+      "url": "https://cses.fi/problemset/task/1160",
+      "solved": 5288,
+      "submissions": 6555
+    },
+    {
+      "id": "1751",
+      "name": "Planets Cycles",
+      "url": "https://cses.fi/problemset/task/1751",
+      "solved": 8772,
+      "submissions": 9675
+    },
+    {
+      "id": "1675",
+      "name": "Road Reparation",
+      "url": "https://cses.fi/problemset/task/1675",
+      "solved": 21502,
+      "submissions": 22319
+    },
+    {
+      "id": "1676",
+      "name": "Road Construction",
+      "url": "https://cses.fi/problemset/task/1676",
+      "solved": 23441,
+      "submissions": 24133
+    },
+    {
+      "id": "1682",
+      "name": "Flight Routes Check",
+      "url": "https://cses.fi/problemset/task/1682",
+      "solved": 18596,
+      "submissions": 19968
+    },
+    {
+      "id": "1683",
+      "name": "Planets and Kingdoms",
+      "url": "https://cses.fi/problemset/task/1683",
+      "solved": 15194,
+      "submissions": 15807
+    },
+    {
+      "id": "1684",
+      "name": "Giant Pizza",
+      "url": "https://cses.fi/problemset/task/1684",
+      "solved": 6407,
+      "submissions": 6987
+    },
+    {
+      "id": "1686",
+      "name": "Coin Collector",
+      "url": "https://cses.fi/problemset/task/1686",
+      "solved": 10113,
+      "submissions": 11045
+    },
+    {
+      "id": "1691",
+      "name": "Mail Delivery",
+      "url": "https://cses.fi/problemset/task/1691",
+      "solved": 8029,
+      "submissions": 8708
+    },
+    {
+      "id": "1692",
+      "name": "De Bruijn Sequence",
+      "url": "https://cses.fi/problemset/task/1692",
+      "solved": 4226,
+      "submissions": 4418
+    },
+    {
+      "id": "1693",
+      "name": "Teleporters Path",
+      "url": "https://cses.fi/problemset/task/1693",
+      "solved": 6224,
+      "submissions": 6982
+    },
+    {
+      "id": "1690",
+      "name": "Hamiltonian Flights",
+      "url": "https://cses.fi/problemset/task/1690",
+      "solved": 9525,
+      "submissions": 10751
+    },
+    {
+      "id": "1689",
+      "name": "Knight's Tour",
+      "url": "https://cses.fi/problemset/task/1689",
+      "solved": 3558,
+      "submissions": 4246
+    },
+    {
+      "id": "1694",
+      "name": "Download Speed",
+      "url": "https://cses.fi/problemset/task/1694",
+      "solved": 6172,
+      "submissions": 8007
+    },
+    {
+      "id": "1695",
+      "name": "Police Chase",
+      "url": "https://cses.fi/problemset/task/1695",
+      "solved": 4934,
+      "submissions": 5464
+    },
+    {
+      "id": "1696",
+      "name": "School Dance",
+      "url": "https://cses.fi/problemset/task/1696",
+      "solved": 5421,
+      "submissions": 5707
+    },
+    {
+      "id": "1711",
+      "name": "Distinct Routes",
+      "url": "https://cses.fi/problemset/task/1711",
+      "solved": 3830,
+      "submissions": 4892
+    }
+  ]
+}

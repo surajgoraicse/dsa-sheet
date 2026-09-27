@@ -1,0 +1,293 @@
+{
+  "topic": "Bit Manipulation",
+  "slug": "bit-manipulation",
+  "step": 9,
+  "problemCount": 12,
+  "problems": [
+    {
+      "id": "a2z-177",
+      "order": 207,
+      "title": "Check if the i-th bit is Set or Not",
+      "step": 9,
+      "stepTitle": "Bit Manipulation",
+      "topic": "Bit Fundamentals",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/check-if-the-i-th-bit-is-set-or-not?category=bit-fundamentals&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV",
+      "premium": false,
+      "duration": "",
+      "slug": "check-if-the-i-th-bit-is-set-or-not",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-171",
+      "order": 208,
+      "title": "Check if a Number is Odd or Not",
+      "step": 9,
+      "stepTitle": "Bit Manipulation",
+      "topic": "Bit Fundamentals",
+      "tier": "basic",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/check-if-a-number-is-odd-or-not?category=bit-fundamentals&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV",
+      "premium": false,
+      "duration": "",
+      "slug": "check-if-a-number-is-odd-or-not",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-172",
+      "order": 209,
+      "title": "Check if a Number is Power of 2 or Not",
+      "step": 9,
+      "stepTitle": "Bit Manipulation",
+      "topic": "Bit Fundamentals",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/power-of-two/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/check-if-a-number-is-power-of-2-or-not?category=bit-fundamentals&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV",
+      "premium": false,
+      "duration": "",
+      "slug": "check-if-a-number-is-power-of-2-or-not",
+      "lcSlug": "power-of-two"
+    },
+    {
+      "id": "a2z-243",
+      "order": 210,
+      "title": "Count the Number of Set Bits",
+      "step": 9,
+      "stepTitle": "Bit Manipulation",
+      "topic": "Bit Fundamentals",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/number-of-1-bits/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/count-the-number-of-set-bits?category=bit-fundamentals&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV",
+      "premium": false,
+      "duration": "",
+      "slug": "count-the-number-of-set-bits",
+      "lcSlug": "number-of-1-bits"
+    },
+    {
+      "id": "a2z-1005",
+      "order": 211,
+      "title": "Swap Two Numbers",
+      "step": 9,
+      "stepTitle": "Bit Manipulation",
+      "topic": "Bit Fundamentals",
+      "tier": "basic",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/swap-two-numbers?category=bit-fundamentals&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV",
+      "premium": false,
+      "duration": "",
+      "slug": "swap-two-numbers",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-141",
+      "order": 212,
+      "title": "Minimum Bit Flips to Convert Number",
+      "step": 9,
+      "stepTitle": "Bit Manipulation",
+      "topic": "Problems",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/minimum-bit-flips-to-convert-number?category=problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/OOdrmcfZXd8?si=rnkRVz1UiVBKWC69",
+      "premium": false,
+      "duration": "7 min",
+      "slug": "minimum-bit-flips-to-convert-number",
+      "lcSlug": "minimum-bit-flips-to-convert-number"
+    },
+    {
+      "id": "a2z-143",
+      "order": 213,
+      "title": "Single Number - I",
+      "step": 9,
+      "stepTitle": "Bit Manipulation",
+      "topic": "Problems",
+      "tier": "basic",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/single-number/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/single-number---i?category=problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/bYWLJb3vCWY?t=1369",
+      "premium": false,
+      "duration": "7 min",
+      "slug": "single-number---i",
+      "lcSlug": "single-number"
+    },
+    {
+      "id": "a2z-144",
+      "order": 214,
+      "title": "Single Number - II",
+      "step": 9,
+      "stepTitle": "Bit Manipulation",
+      "topic": "Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/single-number-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/single-number---ii?category=problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "30 min",
+      "slug": "single-number---ii",
+      "lcSlug": "single-number-ii"
+    },
+    {
+      "id": "a2z-145",
+      "order": 215,
+      "title": "Single Number - III",
+      "step": 9,
+      "stepTitle": "Bit Manipulation",
+      "topic": "Problems",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/single-number-iii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/single-number---iii?category=problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/UA5JnV1J2sI?si=VFBRJyb3boZvx_r1",
+      "premium": false,
+      "duration": "24 min",
+      "slug": "single-number---iii",
+      "lcSlug": "single-number-iii"
+    },
+    {
+      "id": "a2z-140",
+      "order": 216,
+      "title": "Divide two numbers without multiplication and division",
+      "step": 9,
+      "stepTitle": "Bit Manipulation",
+      "topic": "Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/divide-two-integers/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/divide-two-numbers-without-multiplication-and-division?category=problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/divide-two-integers-without-multiplication-division-modulo",
+      "video": "https://youtu.be/pBD4B1tzgVc?si=G9c5pEE-RrzeU6sz",
+      "premium": false,
+      "duration": "19 min",
+      "slug": "divide-two-numbers-without-multiplication-and-division",
+      "lcSlug": "divide-two-integers"
+    },
+    {
+      "id": "a2z-142",
+      "order": 217,
+      "title": "Power Set Bit Manipulation",
+      "step": 9,
+      "stepTitle": "Bit Manipulation",
+      "topic": "Problems",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/subsets/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/power-set-bit-manipulation?category=problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/LqKaUv1G3_I?si=UXU_T5OsHiokPRvP",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "power-set-bit-manipulation",
+      "lcSlug": "subsets"
+    },
+    {
+      "id": "a2z-146",
+      "order": 218,
+      "title": "XOR of numbers in a given range",
+      "step": 9,
+      "stepTitle": "Bit Manipulation",
+      "topic": "Problems",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/xor-of-numbers-in-a-given-range?category=problems&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/xor-of-numbers-in-a-range-l-to-r",
+      "video": "https://youtu.be/WqGb7159h7Q?si=uGUEbNUUaIN_6Vvr",
+      "premium": false,
+      "duration": "5 min",
+      "slug": "xor-of-numbers-in-a-given-range",
+      "lcSlug": ""
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "topic": "Hashing",
+  "slug": "hashing",
+  "step": 4,
+  "problemCount": 5,
+  "problems": [
+    {
+      "id": "a2z-563",
+      "order": 100,
+      "title": "Longest Consecutive Sequence in an Array",
+      "step": 4,
+      "stepTitle": "Hashing",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-consecutive-sequence-in-an-array?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/oO5uLE7EUlM",
+      "premium": false,
+      "duration": "22 min",
+      "slug": "longest-consecutive-sequence-in-an-array",
+      "lcSlug": "longest-consecutive-sequence"
+    },
+    {
+      "id": "a2z-564",
+      "order": 101,
+      "title": "Longest subarray with sum K",
+      "step": 4,
+      "stepTitle": "Hashing",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/",
+      "altUrls": [
+        {
+          "platform": "gfg",
+          "url": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1"
+        },
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/longest-subarray-with-sum-k?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/frf7qxiN2qU",
+      "premium": true,
+      "duration": "40 min",
+      "slug": "longest-subarray-with-sum-k",
+      "lcSlug": "maximum-size-subarray-sum-equals-k"
+    },
+    {
+      "id": "a2z-605",
+      "order": 102,
+      "title": "Largest Subarray with Sum 0",
+      "step": 4,
+      "stepTitle": "Hashing",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/",
+      "altUrls": [
+        {
+          "platform": "gfg",
+          "url": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1"
+        },
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/largest-subarray-with-sum-0?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=xmguZ6GbatA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=23",
+      "premium": true,
+      "duration": "",
+      "slug": "largest-subarray-with-sum-0",
+      "lcSlug": "maximum-size-subarray-sum-equals-k"
+    },
+    {
+      "id": "a2z-561",
+      "order": 103,
+      "title": "Count subarrays with given sum",
+      "step": 4,
+      "stepTitle": "Hashing",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/count-subarrays-with-given-sum?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=xvNwoz-ufXA&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=32",
+      "premium": false,
+      "duration": "22 min",
+      "slug": "count-subarrays-with-given-sum",
+      "lcSlug": "subarray-sum-equals-k"
+    },
+    {
+      "id": "a2z-562",
+      "order": 104,
+      "title": "Count subarrays with given xor K",
+      "step": 4,
+      "stepTitle": "Hashing",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "gfg",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/count-subarrays-with-given-xor-k?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-subarrays-with-a-given-xor-k",
+      "video": "https://youtu.be/eZr-6p0B7ME",
+      "premium": false,
+      "duration": "23 min",
+      "slug": "count-subarrays-with-given-xor-k",
+      "lcSlug": ""
+    }
+  ]
+}

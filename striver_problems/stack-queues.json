@@ -1,0 +1,708 @@
+{
+  "topic": "Stack / Queues",
+  "slug": "stack-queues",
+  "step": 12,
+  "problemCount": 30,
+  "problems": [
+    {
+      "id": "a2z-390",
+      "order": 245,
+      "title": "Implement Stack using Arrays",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Implementation",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "codolio",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/implement-stack-using-arrays?category=implementation&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-stack-using-an-array",
+      "video": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
+      "premium": false,
+      "duration": "8 min",
+      "slug": "implement-stack-using-arrays",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-387",
+      "order": 246,
+      "title": "Implement Queue using Arrays",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Implementation",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "gfg",
+      "url": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/implement-queue-using-arrays?category=implementation&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-queue-using-an-array",
+      "video": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "implement-queue-using-arrays",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-392",
+      "order": 247,
+      "title": "Implement Stack using Queue",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Implementation",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/implement-stack-using-queues/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/implement-stack-using-queue?category=implementation&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
+      "premium": false,
+      "duration": "6 min",
+      "slug": "implement-stack-using-queue",
+      "lcSlug": "implement-stack-using-queues"
+    },
+    {
+      "id": "a2z-389",
+      "order": 248,
+      "title": "Implement Queue using Stack",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Implementation",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/implement-queue-using-stack?category=implementation&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-queue-using-stacks",
+      "video": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
+      "premium": false,
+      "duration": "14 min",
+      "slug": "implement-queue-using-stack",
+      "lcSlug": "implement-queue-using-stacks"
+    },
+    {
+      "id": "a2z-391",
+      "order": 249,
+      "title": "Implement stack using Linkedlist",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Implementation",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/implement-stack-using-linkedlist?category=implementation&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-stack-using-a-linked-list",
+      "video": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
+      "premium": false,
+      "duration": "7 min",
+      "slug": "implement-stack-using-linkedlist",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-388",
+      "order": 250,
+      "title": "Implement queue using Linkedlist",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Implementation",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/implement-queue-using-linkedlist?category=implementation&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
+      "premium": false,
+      "duration": "7 min",
+      "slug": "implement-queue-using-linkedlist",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-966",
+      "order": 251,
+      "title": "Balanced Paranthesis",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Implementation",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/valid-parentheses/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/balanced-paranthesis?category=implementation&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-balanced-parentheses-using-a-stack",
+      "video": "https://youtu.be/xwjS0iZhw4I?si=UoyKpFn4Q3nf5h2R",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "balanced-paranthesis",
+      "lcSlug": "valid-parentheses"
+    },
+    {
+      "id": "a2z-586",
+      "order": 252,
+      "title": "Infix to Postfix Conversion",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Prefix, Infix and Postfix Conversions",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/infix-to-postfix-conversion?category=expression-conversions&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/4pIc9UBHJtk?si=ryeVvQWpCgwbTQrh",
+      "premium": false,
+      "duration": "",
+      "slug": "infix-to-postfix-conversion",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-587",
+      "order": 253,
+      "title": "Infix to Prefix Conversion",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Prefix, Infix and Postfix Conversions",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/infix-to-prefix-conversion?category=expression-conversions&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P",
+      "premium": false,
+      "duration": "",
+      "slug": "infix-to-prefix-conversion",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-848",
+      "order": 254,
+      "title": "Prefix to Infix Conversion",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Prefix, Infix and Postfix Conversions",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/prefix-to-infix-conversion?category=expression-conversions&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/4pIc9UBHJtk?si=ryeVvQWpCgwbTQrh",
+      "premium": false,
+      "duration": "",
+      "slug": "prefix-to-infix-conversion",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-849",
+      "order": 255,
+      "title": "Prefix to Postfix Conversion",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Prefix, Infix and Postfix Conversions",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/prefix-to-postfix-conversion?category=expression-conversions&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P",
+      "premium": false,
+      "duration": "",
+      "slug": "prefix-to-postfix-conversion",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-824",
+      "order": 256,
+      "title": "Postfix to Infix Conversion",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Prefix, Infix and Postfix Conversions",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/postfix-to-infix-conversion?category=expression-conversions&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P",
+      "premium": false,
+      "duration": "",
+      "slug": "postfix-to-infix-conversion",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-825",
+      "order": 257,
+      "title": "Postfix to Prefix Conversion",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Prefix, Infix and Postfix Conversions",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/postfix-to-prefix-conversion?category=expression-conversions&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P",
+      "premium": false,
+      "duration": "",
+      "slug": "postfix-to-prefix-conversion",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-968",
+      "order": 258,
+      "title": "Next Greater Element",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Monotonic Stack",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/next-greater-element-i/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/next-greater-element?category=monotonic-stack&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/next-greater-element",
+      "video": "https://youtu.be/e7XQLtOQM3I?si=QdcHpTtx6gAHsext",
+      "premium": false,
+      "duration": "18 min",
+      "slug": "next-greater-element",
+      "lcSlug": "next-greater-element-i"
+    },
+    {
+      "id": "a2z-969",
+      "order": 259,
+      "title": "Next Greater Element - 2",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Monotonic Stack",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/next-greater-element-ii/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/next-greater-element---2?category=monotonic-stack&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/next-greater-element-ii-circular-array",
+      "video": "https://youtu.be/7PrncD7v9YQ?si=UkBc7eVy9HGlBpeW",
+      "premium": false,
+      "duration": "15 min",
+      "slug": "next-greater-element---2",
+      "lcSlug": "next-greater-element-ii"
+    },
+    {
+      "id": "a2z-967",
+      "order": 260,
+      "title": "Asteroid Collision",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Monotonic Stack",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/asteroid-collision/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/asteroid-collision?category=monotonic-stack&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/asteroid-collision",
+      "video": "https://youtu.be/_eYGqw_VDR4?si=YyxibcHq800RqgIQ",
+      "premium": false,
+      "duration": "17 min",
+      "slug": "asteroid-collision",
+      "lcSlug": "asteroid-collision"
+    },
+    {
+      "id": "a2z-971",
+      "order": 261,
+      "title": "Sum of Subarray Minimums",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Monotonic Stack",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/sum-of-subarray-minimums?category=monotonic-stack&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sum-of-subarray-minimums",
+      "video": "https://youtu.be/v0e8p9JCgRc?si=XAU7ekECgS5nboRw",
+      "premium": false,
+      "duration": "23 min",
+      "slug": "sum-of-subarray-minimums",
+      "lcSlug": "sum-of-subarray-minimums"
+    },
+    {
+      "id": "a2z-972",
+      "order": 262,
+      "title": "Sum of Subarray Ranges",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Monotonic Stack",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/sum-of-subarray-ranges/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/sum-of-subarray-ranges?category=monotonic-stack&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sum-of-subarray-ranges",
+      "video": "https://youtu.be/gIrMptNPf5M?si=Q_GHuBvzZVs27X_U",
+      "premium": false,
+      "duration": "10 min",
+      "slug": "sum-of-subarray-ranges",
+      "lcSlug": "sum-of-subarray-ranges"
+    },
+    {
+      "id": "a2z-970",
+      "order": 263,
+      "title": "Remove K Digits",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Monotonic Stack",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/remove-k-digits/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/remove-k-digits?category=monotonic-stack&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/remove-k-digits",
+      "video": "https://youtu.be/jmbuRzYPGrg?si=WN387gwQ7aXWkUao",
+      "premium": false,
+      "duration": "15 min",
+      "slug": "remove-k-digits",
+      "lcSlug": "remove-k-digits"
+    },
+    {
+      "id": "a2z-768",
+      "order": 264,
+      "title": "Next Smaller Element",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "Monotonic Stack",
+      "tier": "core",
+      "difficulty": "Easy",
+      "difficultySource": "codolio",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/next-smaller-element?category=monotonic-stack&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "next-smaller-element",
+      "lcSlug": ""
+    },
+    {
+      "id": "a2z-958",
+      "order": 265,
+      "title": "Implement Min Stack",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/min-stack/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/implement-min-stack?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/NdDIaH91P0g?si=4_Jbsq5trFvfSdUY",
+      "premium": false,
+      "duration": "21 min",
+      "slug": "implement-min-stack",
+      "lcSlug": "min-stack"
+    },
+    {
+      "id": "a2z-963",
+      "order": 266,
+      "title": "Sliding Window Maximum",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/sliding-window-maximum/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/sliding-window-maximum?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/NwBvene4Imo?si=eU1PY-bcQfk5wdog",
+      "premium": false,
+      "duration": "20 min",
+      "slug": "sliding-window-maximum",
+      "lcSlug": "sliding-window-maximum"
+    },
+    {
+      "id": "a2z-965",
+      "order": 267,
+      "title": "Trapping Rainwater",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/trapping-rain-water/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/trapping-rainwater?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/trapping-rain-water",
+      "video": "https://youtu.be/1_5VuquLbXg?si=NFG6df318_6OtGvg",
+      "premium": false,
+      "duration": "29 min",
+      "slug": "trapping-rainwater",
+      "lcSlug": "trapping-rain-water"
+    },
+    {
+      "id": "a2z-959",
+      "order": 268,
+      "title": "Largest rectangle in a histogram",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/largest-rectangle-in-a-histogram?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/largest-rectangle-in-histogram",
+      "video": "https://youtu.be/Bzat9vgD0fs?si=DiBlLejXcr6EJoyB",
+      "premium": false,
+      "duration": "31 min",
+      "slug": "largest-rectangle-in-a-histogram",
+      "lcSlug": "largest-rectangle-in-histogram"
+    },
+    {
+      "id": "a2z-962",
+      "order": 269,
+      "title": "Maximum Rectangles",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/maximal-rectangle/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/maximum-rectangles?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/tOylVCugy9k",
+      "premium": false,
+      "duration": "12 min",
+      "slug": "maximum-rectangles",
+      "lcSlug": "maximal-rectangle"
+    },
+    {
+      "id": "a2z-964",
+      "order": 270,
+      "title": "Stock span problem",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/online-stock-span/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/stock-span-problem?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/stock-span-problem",
+      "video": "https://youtu.be/eay-zoSRkVc?si=deNNe5i38BOAntha",
+      "premium": false,
+      "duration": "19 min",
+      "slug": "stock-span-problem",
+      "lcSlug": "online-stock-span"
+    },
+    {
+      "id": "a2z-957",
+      "order": 271,
+      "title": "Celebrity Problem",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/find-the-celebrity/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/celebrity-problem?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://youtu.be/cEadsbTeze4?si=olXYfOs7l-SEn2zl",
+      "premium": true,
+      "duration": "16 min",
+      "slug": "celebrity-problem",
+      "lcSlug": "find-the-celebrity"
+    },
+    {
+      "id": "a2z-961",
+      "order": 272,
+      "title": "LRU Cache",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Medium",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/lru-cache/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/lru-cache?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "25 min",
+      "slug": "lru-cache",
+      "lcSlug": "lru-cache"
+    },
+    {
+      "id": "a2z-960",
+      "order": 273,
+      "title": "LFU Cache",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "FAQs",
+      "tier": "pro",
+      "difficulty": "Hard",
+      "difficultySource": "leetcode",
+      "platform": "leetcode",
+      "url": "https://leetcode.com/problems/lfu-cache/",
+      "altUrls": [
+        {
+          "platform": "takeuforward",
+          "url": "https://takeuforward.org/practice/dsa/lfu-cache?category=faqs&source=strivers-a2z-dsa-sheet"
+        }
+      ],
+      "article": null,
+      "video": "https://www.youtube.com/watch?v=0PSB9y8ehbk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=79",
+      "premium": false,
+      "duration": "",
+      "slug": "lfu-cache",
+      "lcSlug": "lfu-cache"
+    },
+    {
+      "id": "a2z-285",
+      "order": 274,
+      "title": "Number of Greater Elements to the Right",
+      "step": 12,
+      "stepTitle": "Stack / Queues",
+      "topic": "FAQs",
+      "tier": "core",
+      "difficulty": "",
+      "difficultySource": "",
+      "platform": "takeuforward",
+      "url": "https://takeuforward.org/practice/dsa/number-of-greater-elements-to-the-right?category=faqs&source=strivers-a2z-dsa-sheet",
+      "altUrls": [],
+      "article": null,
+      "video": null,
+      "premium": false,
+      "duration": "",
+      "slug": "number-of-greater-elements-to-the-right",
+      "lcSlug": ""
+    }
+  ]
+}
